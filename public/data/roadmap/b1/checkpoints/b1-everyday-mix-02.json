@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-02",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 3,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "award",
+      "meaning": "Oxford 3000 · B1 · award"
+    },
+    {
+      "word": "aware",
+      "meaning": "Oxford 3000 · B1 · aware"
+    },
+    {
+      "word": "backwards",
+      "meaning": "Oxford 3000 · B1 · backwards"
+    },
+    {
+      "word": "bake",
+      "meaning": "Oxford 3000 · B1 · bake"
+    },
+    {
+      "word": "balance",
+      "meaning": "Oxford 3000 · B1 · balance"
+    },
+    {
+      "word": "base",
+      "meaning": "Oxford 3000 · B1 · base"
+    },
+    {
+      "word": "basic",
+      "meaning": "Oxford 3000 · B1 · basic"
+    },
+    {
+      "word": "basis",
+      "meaning": "Oxford 3000 · B1 · basis"
+    },
+    {
+      "word": "battery",
+      "meaning": "Oxford 3000 · B1 · battery"
+    },
+    {
+      "word": "battle",
+      "meaning": "Oxford 3000 · B1 · battle"
+    },
+    {
+      "word": "beat",
+      "meaning": "Oxford 3000 · B1 · beat"
+    },
+    {
+      "word": "beauty",
+      "meaning": "Oxford 3000 · B1 · beauty"
+    },
+    {
+      "word": "belief",
+      "meaning": "Oxford 3000 · B1 · belief"
+    },
+    {
+      "word": "bell",
+      "meaning": "Oxford 3000 · B1 · bell"
+    },
+    {
+      "word": "bend",
+      "meaning": "Oxford 3000 · B1 · bend"
+    },
+    {
+      "word": "benefit",
+      "meaning": "Oxford 3000 · B1 · benefit"
+    },
+    {
+      "word": "better",
+      "meaning": "Oxford 3000 · B1 · better"
+    },
+    {
+      "word": "bite",
+      "meaning": "Oxford 3000 · B1 · bite"
+    },
+    {
+      "word": "block",
+      "meaning": "Oxford 3000 · B1 · block"
+    },
+    {
+      "word": "board",
+      "meaning": "Oxford 3000 · B1 · board"
+    },
+    {
+      "word": "bomb",
+      "meaning": "Oxford 3000 · B1 · bomb"
+    },
+    {
+      "word": "border",
+      "meaning": "Oxford 3000 · B1 · border"
+    },
+    {
+      "word": "bother",
+      "meaning": "Oxford 3000 · B1 · bother"
+    },
+    {
+      "word": "branch",
+      "meaning": "Oxford 3000 · B1 · branch"
+    },
+    {
+      "word": "brand",
+      "meaning": "Oxford 3000 · B1 · brand"
+    },
+    {
+      "word": "brave",
+      "meaning": "Oxford 3000 · B1 · brave"
+    },
+    {
+      "word": "breathe",
+      "meaning": "Oxford 3000 · B1 · breathe"
+    },
+    {
+      "word": "breathing",
+      "meaning": "Oxford 3000 · B1 · breathing"
+    },
+    {
+      "word": "bride",
+      "meaning": "Oxford 3000 · B1 · bride"
+    },
+    {
+      "word": "bubble",
+      "meaning": "Oxford 3000 · B1 · bubble"
+    },
+    {
+      "word": "bury",
+      "meaning": "Oxford 3000 · B1 · bury"
+    },
+    {
+      "word": "by",
+      "meaning": "Oxford 3000 · B1 · by"
+    },
+    {
+      "word": "calm",
+      "meaning": "Oxford 3000 · B1 · calm"
+    },
+    {
+      "word": "campaign",
+      "meaning": "Oxford 3000 · B1 · campaign"
+    },
+    {
+      "word": "campus",
+      "meaning": "Oxford 3000 · B1 · campus"
+    },
+    {
+      "word": "candidate",
+      "meaning": "Oxford 3000 · B1 · candidate"
+    },
+    {
+      "word": "cap",
+      "meaning": "Oxford 3000 · B1 · cap"
+    },
+    {
+      "word": "captain",
+      "meaning": "Oxford 3000 · B1 · captain"
+    },
+    {
+      "word": "careless",
+      "meaning": "Oxford 3000 · B1 · careless"
+    },
+    {
+      "word": "category",
+      "meaning": "Oxford 3000 · B1 · category"
+    },
+    {
+      "word": "ceiling",
+      "meaning": "Oxford 3000 · B1 · ceiling"
+    },
+    {
+      "word": "celebration",
+      "meaning": "Oxford 3000 · B1 · celebration"
+    },
+    {
+      "word": "central",
+      "meaning": "Oxford 3000 · B1 · central"
+    },
+    {
+      "word": "centre",
+      "meaning": "Oxford 3000 · B1 · centre"
+    },
+    {
+      "word": "ceremony",
+      "meaning": "Oxford 3000 · B1 · ceremony"
+    },
+    {
+      "word": "chain",
+      "meaning": "Oxford 3000 · B1 · chain"
+    },
+    {
+      "word": "challenge",
+      "meaning": "Oxford 3000 · B1 · challenge"
+    },
+    {
+      "word": "champion",
+      "meaning": "Oxford 3000 · B1 · champion"
+    },
+    {
+      "word": "channel",
+      "meaning": "Oxford 3000 · B1 · channel"
+    },
+    {
+      "word": "chapter",
+      "meaning": "Oxford 3000 · B1 · chapter"
+    },
+    {
+      "word": "charge",
+      "meaning": "Oxford 3000 · B1 · charge"
+    },
+    {
+      "word": "cheat",
+      "meaning": "Oxford 3000 · B1 · cheat"
+    },
+    {
+      "word": "cheerful",
+      "meaning": "Oxford 3000 · B1 · cheerful"
+    },
+    {
+      "word": "chemical",
+      "meaning": "Oxford 3000 · B1 · chemical"
+    },
+    {
+      "word": "chest",
+      "meaning": "Oxford 3000 · B1 · chest"
+    },
+    {
+      "word": "claim",
+      "meaning": "Oxford 3000 · B1 · claim"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

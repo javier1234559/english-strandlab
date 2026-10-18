@@ -1,0 +1,264 @@
+{
+  "id": "a1-everyday-mix-09",
+  "level": "a1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Everyday mix with Anna",
+  "scene": "A flexible everyday episode with Anna: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 16,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "thirteen",
+      "meaning": "Oxford 3000 · A1 · thirteen"
+    },
+    {
+      "word": "thirty",
+      "meaning": "Oxford 3000 · A1 · thirty"
+    },
+    {
+      "word": "this",
+      "meaning": "Oxford 3000 · A1 · this"
+    },
+    {
+      "word": "thousand",
+      "meaning": "Oxford 3000 · A1 · thousand"
+    },
+    {
+      "word": "three",
+      "meaning": "Oxford 3000 · A1 · three"
+    },
+    {
+      "word": "through",
+      "meaning": "Oxford 3000 · A1 · through"
+    },
+    {
+      "word": "title",
+      "meaning": "Oxford 3000 · A1 · title"
+    },
+    {
+      "word": "together",
+      "meaning": "Oxford 3000 · A1 · together"
+    },
+    {
+      "word": "toilet",
+      "meaning": "Oxford 3000 · A1 · toilet"
+    },
+    {
+      "word": "tonight",
+      "meaning": "Oxford 3000 · A1 · tonight"
+    },
+    {
+      "word": "too",
+      "meaning": "Oxford 3000 · A1 · too"
+    },
+    {
+      "word": "tooth",
+      "meaning": "Oxford 3000 · A1 · tooth"
+    },
+    {
+      "word": "topic",
+      "meaning": "Oxford 3000 · A1 · topic"
+    },
+    {
+      "word": "tourist",
+      "meaning": "Oxford 3000 · A1 · tourist"
+    },
+    {
+      "word": "true",
+      "meaning": "Oxford 3000 · A1 · true"
+    },
+    {
+      "word": "try",
+      "meaning": "Oxford 3000 · A1 · try"
+    },
+    {
+      "word": "turn",
+      "meaning": "Oxford 3000 · A1 · turn"
+    },
+    {
+      "word": "twelve",
+      "meaning": "Oxford 3000 · A1 · twelve"
+    },
+    {
+      "word": "twenty",
+      "meaning": "Oxford 3000 · A1 · twenty"
+    },
+    {
+      "word": "twice",
+      "meaning": "Oxford 3000 · A1 · twice"
+    },
+    {
+      "word": "two",
+      "meaning": "Oxford 3000 · A1 · two"
+    },
+    {
+      "word": "type",
+      "meaning": "Oxford 3000 · A1 · type"
+    },
+    {
+      "word": "umbrella",
+      "meaning": "Oxford 3000 · A1 · umbrella"
+    },
+    {
+      "word": "until",
+      "meaning": "Oxford 3000 · A1 · until"
+    },
+    {
+      "word": "up",
+      "meaning": "Oxford 3000 · A1 · up"
+    },
+    {
+      "word": "upstairs",
+      "meaning": "Oxford 3000 · A1 · upstairs"
+    },
+    {
+      "word": "use",
+      "meaning": "Oxford 3000 · A1 · use"
+    },
+    {
+      "word": "useful",
+      "meaning": "Oxford 3000 · A1 · useful"
+    },
+    {
+      "word": "very",
+      "meaning": "Oxford 3000 · A1 · very"
+    },
+    {
+      "word": "video",
+      "meaning": "Oxford 3000 · A1 · video"
+    },
+    {
+      "word": "village",
+      "meaning": "Oxford 3000 · A1 · village"
+    },
+    {
+      "word": "visit",
+      "meaning": "Oxford 3000 · A1 · visit"
+    },
+    {
+      "word": "visitor",
+      "meaning": "Oxford 3000 · A1 · visitor"
+    },
+    {
+      "word": "wait",
+      "meaning": "Oxford 3000 · A1 · wait"
+    },
+    {
+      "word": "waiter",
+      "meaning": "Oxford 3000 · A1 · waiter"
+    },
+    {
+      "word": "way",
+      "meaning": "Oxford 3000 · A1 · way"
+    },
+    {
+      "word": "website",
+      "meaning": "Oxford 3000 · A1 · website"
+    },
+    {
+      "word": "welcome",
+      "meaning": "Oxford 3000 · A1 · welcome"
+    },
+    {
+      "word": "well",
+      "meaning": "Oxford 3000 · A1 · well"
+    },
+    {
+      "word": "west",
+      "meaning": "Oxford 3000 · A1 · west"
+    },
+    {
+      "word": "what",
+      "meaning": "Oxford 3000 · A1 · what"
+    },
+    {
+      "word": "when",
+      "meaning": "Oxford 3000 · A1 · when"
+    },
+    {
+      "word": "where",
+      "meaning": "Oxford 3000 · A1 · where"
+    },
+    {
+      "word": "which",
+      "meaning": "Oxford 3000 · A1 · which"
+    },
+    {
+      "word": "white",
+      "meaning": "Oxford 3000 · A1 · white"
+    },
+    {
+      "word": "who",
+      "meaning": "Oxford 3000 · A1 · who"
+    },
+    {
+      "word": "why",
+      "meaning": "Oxford 3000 · A1 · why"
+    },
+    {
+      "word": "will",
+      "meaning": "Oxford 3000 · A1 · will"
+    },
+    {
+      "word": "winter",
+      "meaning": "Oxford 3000 · A1 · winter"
+    },
+    {
+      "word": "with",
+      "meaning": "Oxford 3000 · A1 · with"
+    },
+    {
+      "word": "without",
+      "meaning": "Oxford 3000 · A1 · without"
+    },
+    {
+      "word": "wonderful",
+      "meaning": "Oxford 3000 · A1 · wonderful"
+    },
+    {
+      "word": "world",
+      "meaning": "Oxford 3000 · A1 · world"
+    },
+    {
+      "word": "would",
+      "meaning": "Oxford 3000 · A1 · would"
+    },
+    {
+      "word": "writing",
+      "meaning": "Oxford 3000 · A1 · writing"
+    },
+    {
+      "word": "wrong",
+      "meaning": "Oxford 3000 · A1 · wrong"
+    },
+    {
+      "word": "yeah",
+      "meaning": "Oxford 3000 · A1 · yeah"
+    },
+    {
+      "word": "yellow",
+      "meaning": "Oxford 3000 · A1 · yellow"
+    },
+    {
+      "word": "you",
+      "meaning": "Oxford 3000 · A1 · you"
+    },
+    {
+      "word": "young",
+      "meaning": "Oxford 3000 · A1 · young"
+    },
+    {
+      "word": "your",
+      "meaning": "Oxford 3000 · A1 · your"
+    },
+    {
+      "word": "yourself",
+      "meaning": "Oxford 3000 · A1 · yourself"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 62 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

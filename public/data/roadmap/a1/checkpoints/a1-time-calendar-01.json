@@ -1,0 +1,240 @@
+{
+  "id": "a1-time-calendar-01",
+  "level": "a1",
+  "topic": "time-calendar",
+  "topicLabel": "Time & calendar",
+  "title": "John and Javi’s long time & calendar day",
+  "scene": "Javi and John race against the clock — plans, delays, and a decision about what to do next.",
+  "order": 3,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "salad",
+      "meaning": "Oxford 3000 · A1 · salad"
+    },
+    {
+      "word": "soup",
+      "meaning": "Oxford 3000 · A1 · soup"
+    },
+    {
+      "word": "tea",
+      "meaning": "Oxford 3000 · A1 · tea"
+    },
+    {
+      "word": "thirsty",
+      "meaning": "Oxford 3000 · A1 · thirsty"
+    },
+    {
+      "word": "to",
+      "meaning": "Oxford 3000 · A1 · to"
+    },
+    {
+      "word": "tomato",
+      "meaning": "Oxford 3000 · A1 · tomato"
+    },
+    {
+      "word": "vegetable",
+      "meaning": "Oxford 3000 · A1 · vegetable"
+    },
+    {
+      "word": "water",
+      "meaning": "Oxford 3000 · A1 · water"
+    },
+    {
+      "word": "wine",
+      "meaning": "Oxford 3000 · A1 · wine"
+    },
+    {
+      "word": "after",
+      "meaning": "Oxford 3000 · A1 · after"
+    },
+    {
+      "word": "afternoon",
+      "meaning": "Oxford 3000 · A1 · afternoon"
+    },
+    {
+      "word": "always",
+      "meaning": "Oxford 3000 · A1 · always"
+    },
+    {
+      "word": "April",
+      "meaning": "Oxford 3000 · A1 · April"
+    },
+    {
+      "word": "August",
+      "meaning": "Oxford 3000 · A1 · August"
+    },
+    {
+      "word": "birthday",
+      "meaning": "Oxford 3000 · A1 · birthday"
+    },
+    {
+      "word": "clock",
+      "meaning": "Oxford 3000 · A1 · clock"
+    },
+    {
+      "word": "date",
+      "meaning": "Oxford 3000 · A1 · date"
+    },
+    {
+      "word": "day",
+      "meaning": "Oxford 3000 · A1 · day"
+    },
+    {
+      "word": "December",
+      "meaning": "Oxford 3000 · A1 · December"
+    },
+    {
+      "word": "ear",
+      "meaning": "Oxford 3000 · A1 · ear"
+    },
+    {
+      "word": "early",
+      "meaning": "Oxford 3000 · A1 · early"
+    },
+    {
+      "word": "February",
+      "meaning": "Oxford 3000 · A1 · February"
+    },
+    {
+      "word": "Friday",
+      "meaning": "Oxford 3000 · A1 · Friday"
+    },
+    {
+      "word": "hour",
+      "meaning": "Oxford 3000 · A1 · hour"
+    },
+    {
+      "word": "January",
+      "meaning": "Oxford 3000 · A1 · January"
+    },
+    {
+      "word": "July",
+      "meaning": "Oxford 3000 · A1 · July"
+    },
+    {
+      "word": "June",
+      "meaning": "Oxford 3000 · A1 · June"
+    },
+    {
+      "word": "late",
+      "meaning": "Oxford 3000 · A1 · late"
+    },
+    {
+      "word": "later",
+      "meaning": "Oxford 3000 · A1 · later"
+    },
+    {
+      "word": "March",
+      "meaning": "Oxford 3000 · A1 · March"
+    },
+    {
+      "word": "May",
+      "meaning": "Oxford 3000 · A1 · May"
+    },
+    {
+      "word": "minute",
+      "meaning": "Oxford 3000 · A1 · minute"
+    },
+    {
+      "word": "Monday",
+      "meaning": "Oxford 3000 · A1 · Monday"
+    },
+    {
+      "word": "month",
+      "meaning": "Oxford 3000 · A1 · month"
+    },
+    {
+      "word": "never",
+      "meaning": "Oxford 3000 · A1 · never"
+    },
+    {
+      "word": "no",
+      "meaning": "Oxford 3000 · A1 · no"
+    },
+    {
+      "word": "November",
+      "meaning": "Oxford 3000 · A1 · November"
+    },
+    {
+      "word": "o’clock",
+      "meaning": "Oxford 3000 · A1 · o’clock"
+    },
+    {
+      "word": "October",
+      "meaning": "Oxford 3000 · A1 · October"
+    },
+    {
+      "word": "of",
+      "meaning": "Oxford 3000 · A1 · of"
+    },
+    {
+      "word": "often",
+      "meaning": "Oxford 3000 · A1 · often"
+    },
+    {
+      "word": "Saturday",
+      "meaning": "Oxford 3000 · A1 · Saturday"
+    },
+    {
+      "word": "second (next after the first)",
+      "meaning": "Oxford 3000 · A1 · second (next after the first)"
+    },
+    {
+      "word": "second (unit of time)",
+      "meaning": "Oxford 3000 · A1 · second (unit of time)"
+    },
+    {
+      "word": "September",
+      "meaning": "Oxford 3000 · A1 · September"
+    },
+    {
+      "word": "sometimes",
+      "meaning": "Oxford 3000 · A1 · sometimes"
+    },
+    {
+      "word": "sun",
+      "meaning": "Oxford 3000 · A1 · sun"
+    },
+    {
+      "word": "Sunday",
+      "meaning": "Oxford 3000 · A1 · Sunday"
+    },
+    {
+      "word": "Thursday",
+      "meaning": "Oxford 3000 · A1 · Thursday"
+    },
+    {
+      "word": "time",
+      "meaning": "Oxford 3000 · A1 · time"
+    },
+    {
+      "word": "today",
+      "meaning": "Oxford 3000 · A1 · today"
+    },
+    {
+      "word": "tomorrow",
+      "meaning": "Oxford 3000 · A1 · tomorrow"
+    },
+    {
+      "word": "Tuesday",
+      "meaning": "Oxford 3000 · A1 · Tuesday"
+    },
+    {
+      "word": "us",
+      "meaning": "Oxford 3000 · A1 · us"
+    },
+    {
+      "word": "usually",
+      "meaning": "Oxford 3000 · A1 · usually"
+    },
+    {
+      "word": "we",
+      "meaning": "Oxford 3000 · A1 · we"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

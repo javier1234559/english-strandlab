@@ -1,0 +1,240 @@
+{
+  "id": "a1-feelings-opinions-01",
+  "level": "a1",
+  "topic": "feelings-opinions",
+  "topicLabel": "Feelings & opinions",
+  "title": "When Easter changed the plan",
+  "scene": "An emotional episode with Easter: a strong feeling, an honest talk, and a clearer decision.",
+  "order": 7,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "sick",
+      "meaning": "Oxford 3000 · A1 · sick"
+    },
+    {
+      "word": "tired",
+      "meaning": "Oxford 3000 · A1 · tired"
+    },
+    {
+      "word": "afraid",
+      "meaning": "Oxford 3000 · A1 · afraid"
+    },
+    {
+      "word": "agree",
+      "meaning": "Oxford 3000 · A1 · agree"
+    },
+    {
+      "word": "angry",
+      "meaning": "Oxford 3000 · A1 · angry"
+    },
+    {
+      "word": "bad",
+      "meaning": "Oxford 3000 · A1 · bad"
+    },
+    {
+      "word": "believe",
+      "meaning": "Oxford 3000 · A1 · believe"
+    },
+    {
+      "word": "bored",
+      "meaning": "Oxford 3000 · A1 · bored"
+    },
+    {
+      "word": "boring",
+      "meaning": "Oxford 3000 · A1 · boring"
+    },
+    {
+      "word": "excited",
+      "meaning": "Oxford 3000 · A1 · excited"
+    },
+    {
+      "word": "exciting",
+      "meaning": "Oxford 3000 · A1 · exciting"
+    },
+    {
+      "word": "go",
+      "meaning": "Oxford 3000 · A1 · go"
+    },
+    {
+      "word": "good",
+      "meaning": "Oxford 3000 · A1 · good"
+    },
+    {
+      "word": "goodbye",
+      "meaning": "Oxford 3000 · A1 · goodbye"
+    },
+    {
+      "word": "great",
+      "meaning": "Oxford 3000 · A1 · great"
+    },
+    {
+      "word": "happy",
+      "meaning": "Oxford 3000 · A1 · happy"
+    },
+    {
+      "word": "hate",
+      "meaning": "Oxford 3000 · A1 · hate"
+    },
+    {
+      "word": "hope",
+      "meaning": "Oxford 3000 · A1 · hope"
+    },
+    {
+      "word": "idea",
+      "meaning": "Oxford 3000 · A1 · idea"
+    },
+    {
+      "word": "interest",
+      "meaning": "Oxford 3000 · A1 · interest"
+    },
+    {
+      "word": "interesting",
+      "meaning": "Oxford 3000 · A1 · interesting"
+    },
+    {
+      "word": "like (similar)",
+      "meaning": "Oxford 3000 · A1 · like (similar)"
+    },
+    {
+      "word": "like (find sb/sth pleasant)",
+      "meaning": "Oxford 3000 · A1 · like (find sb/sth pleasant)"
+    },
+    {
+      "word": "love",
+      "meaning": "Oxford 3000 · A1 · love"
+    },
+    {
+      "word": "need",
+      "meaning": "Oxford 3000 · A1 · need"
+    },
+    {
+      "word": "opinion",
+      "meaning": "Oxford 3000 · A1 · opinion"
+    },
+    {
+      "word": "prefer",
+      "meaning": "Oxford 3000 · A1 · prefer"
+    },
+    {
+      "word": "sad",
+      "meaning": "Oxford 3000 · A1 · sad"
+    },
+    {
+      "word": "terrible",
+      "meaning": "Oxford 3000 · A1 · terrible"
+    },
+    {
+      "word": "think",
+      "meaning": "Oxford 3000 · A1 · think"
+    },
+    {
+      "word": "want",
+      "meaning": "Oxford 3000 · A1 · want"
+    },
+    {
+      "word": "animal",
+      "meaning": "Oxford 3000 · A1 · animal"
+    },
+    {
+      "word": "beach",
+      "meaning": "Oxford 3000 · A1 · beach"
+    },
+    {
+      "word": "bird",
+      "meaning": "Oxford 3000 · A1 · bird"
+    },
+    {
+      "word": "cat",
+      "meaning": "Oxford 3000 · A1 · cat"
+    },
+    {
+      "word": "cold",
+      "meaning": "Oxford 3000 · A1 · cold"
+    },
+    {
+      "word": "cool",
+      "meaning": "Oxford 3000 · A1 · cool"
+    },
+    {
+      "word": "dog",
+      "meaning": "Oxford 3000 · A1 · dog"
+    },
+    {
+      "word": "flower",
+      "meaning": "Oxford 3000 · A1 · flower"
+    },
+    {
+      "word": "horse",
+      "meaning": "Oxford 3000 · A1 · horse"
+    },
+    {
+      "word": "mountain",
+      "meaning": "Oxford 3000 · A1 · mountain"
+    },
+    {
+      "word": "park",
+      "meaning": "Oxford 3000 · A1 · park"
+    },
+    {
+      "word": "rain",
+      "meaning": "Oxford 3000 · A1 · rain"
+    },
+    {
+      "word": "river",
+      "meaning": "Oxford 3000 · A1 · river"
+    },
+    {
+      "word": "sea",
+      "meaning": "Oxford 3000 · A1 · sea"
+    },
+    {
+      "word": "snow",
+      "meaning": "Oxford 3000 · A1 · snow"
+    },
+    {
+      "word": "sunny",
+      "meaning": "Oxford 3000 · A1 · sunny"
+    },
+    {
+      "word": "tree",
+      "meaning": "Oxford 3000 · A1 · tree"
+    },
+    {
+      "word": "warm",
+      "meaning": "Oxford 3000 · A1 · warm"
+    },
+    {
+      "word": "weather",
+      "meaning": "Oxford 3000 · A1 · weather"
+    },
+    {
+      "word": "ask",
+      "meaning": "Oxford 3000 · A1 · ask"
+    },
+    {
+      "word": "bye",
+      "meaning": "Oxford 3000 · A1 · bye"
+    },
+    {
+      "word": "call",
+      "meaning": "Oxford 3000 · A1 · call"
+    },
+    {
+      "word": "conversation",
+      "meaning": "Oxford 3000 · A1 · conversation"
+    },
+    {
+      "word": "explain",
+      "meaning": "Oxford 3000 · A1 · explain"
+    },
+    {
+      "word": "hello",
+      "meaning": "Oxford 3000 · A1 · hello"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

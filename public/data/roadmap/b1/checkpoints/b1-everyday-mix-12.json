@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-12",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 13,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "smooth",
+      "meaning": "Oxford 3000 · B1 · smooth"
+    },
+    {
+      "word": "software",
+      "meaning": "Oxford 3000 · B1 · software"
+    },
+    {
+      "word": "soil",
+      "meaning": "Oxford 3000 · B1 · soil"
+    },
+    {
+      "word": "solid",
+      "meaning": "Oxford 3000 · B1 · solid"
+    },
+    {
+      "word": "sort",
+      "meaning": "Oxford 3000 · B1 · sort"
+    },
+    {
+      "word": "southern",
+      "meaning": "Oxford 3000 · B1 · southern"
+    },
+    {
+      "word": "specifically",
+      "meaning": "Oxford 3000 · B1 · specifically"
+    },
+    {
+      "word": "spending",
+      "meaning": "Oxford 3000 · B1 · spending"
+    },
+    {
+      "word": "spicy",
+      "meaning": "Oxford 3000 · B1 · spicy"
+    },
+    {
+      "word": "spirit",
+      "meaning": "Oxford 3000 · B1 · spirit"
+    },
+    {
+      "word": "spoken",
+      "meaning": "Oxford 3000 · B1 · spoken"
+    },
+    {
+      "word": "spot",
+      "meaning": "Oxford 3000 · B1 · spot"
+    },
+    {
+      "word": "spread",
+      "meaning": "Oxford 3000 · B1 · spread"
+    },
+    {
+      "word": "spring",
+      "meaning": "Oxford 3000 · B1 · spring"
+    },
+    {
+      "word": "stadium",
+      "meaning": "Oxford 3000 · B1 · stadium"
+    },
+    {
+      "word": "staff",
+      "meaning": "Oxford 3000 · B1 · staff"
+    },
+    {
+      "word": "standard",
+      "meaning": "Oxford 3000 · B1 · standard"
+    },
+    {
+      "word": "state",
+      "meaning": "Oxford 3000 · B1 · state"
+    },
+    {
+      "word": "statistic",
+      "meaning": "Oxford 3000 · B1 · statistic"
+    },
+    {
+      "word": "statue",
+      "meaning": "Oxford 3000 · B1 · statue"
+    },
+    {
+      "word": "stick (push into/attach)",
+      "meaning": "Oxford 3000 · B1 · stick (push into/attach)"
+    },
+    {
+      "word": "stick (piece of wood)",
+      "meaning": "Oxford 3000 · B1 · stick (piece of wood)"
+    },
+    {
+      "word": "still",
+      "meaning": "Oxford 3000 · B1 · still"
+    },
+    {
+      "word": "stranger",
+      "meaning": "Oxford 3000 · B1 · stranger"
+    },
+    {
+      "word": "strength",
+      "meaning": "Oxford 3000 · B1 · strength"
+    },
+    {
+      "word": "string",
+      "meaning": "Oxford 3000 · B1 · string"
+    },
+    {
+      "word": "strongly",
+      "meaning": "Oxford 3000 · B1 · strongly"
+    },
+    {
+      "word": "studio",
+      "meaning": "Oxford 3000 · B1 · studio"
+    },
+    {
+      "word": "stuff",
+      "meaning": "Oxford 3000 · B1 · stuff"
+    },
+    {
+      "word": "substance",
+      "meaning": "Oxford 3000 · B1 · substance"
+    },
+    {
+      "word": "successfully",
+      "meaning": "Oxford 3000 · B1 · successfully"
+    },
+    {
+      "word": "sudden",
+      "meaning": "Oxford 3000 · B1 · sudden"
+    },
+    {
+      "word": "suffer",
+      "meaning": "Oxford 3000 · B1 · suffer"
+    },
+    {
+      "word": "suit",
+      "meaning": "Oxford 3000 · B1 · suit"
+    },
+    {
+      "word": "suitable",
+      "meaning": "Oxford 3000 · B1 · suitable"
+    },
+    {
+      "word": "summarize",
+      "meaning": "Oxford 3000 · B1 · summarize"
+    },
+    {
+      "word": "summary",
+      "meaning": "Oxford 3000 · B1 · summary"
+    },
+    {
+      "word": "supply",
+      "meaning": "Oxford 3000 · B1 · supply"
+    },
+    {
+      "word": "supporter",
+      "meaning": "Oxford 3000 · B1 · supporter"
+    },
+    {
+      "word": "surely",
+      "meaning": "Oxford 3000 · B1 · surely"
+    },
+    {
+      "word": "surface",
+      "meaning": "Oxford 3000 · B1 · surface"
+    },
+    {
+      "word": "survive",
+      "meaning": "Oxford 3000 · B1 · survive"
+    },
+    {
+      "word": "switch",
+      "meaning": "Oxford 3000 · B1 · switch"
+    },
+    {
+      "word": "symptom",
+      "meaning": "Oxford 3000 · B1 · symptom"
+    },
+    {
+      "word": "tail",
+      "meaning": "Oxford 3000 · B1 · tail"
+    },
+    {
+      "word": "talent",
+      "meaning": "Oxford 3000 · B1 · talent"
+    },
+    {
+      "word": "talented",
+      "meaning": "Oxford 3000 · B1 · talented"
+    },
+    {
+      "word": "technical",
+      "meaning": "Oxford 3000 · B1 · technical"
+    },
+    {
+      "word": "technique",
+      "meaning": "Oxford 3000 · B1 · technique"
+    },
+    {
+      "word": "tend",
+      "meaning": "Oxford 3000 · B1 · tend"
+    },
+    {
+      "word": "tent",
+      "meaning": "Oxford 3000 · B1 · tent"
+    },
+    {
+      "word": "that",
+      "meaning": "Oxford 3000 · B1 · that"
+    },
+    {
+      "word": "theirs",
+      "meaning": "Oxford 3000 · B1 · theirs"
+    },
+    {
+      "word": "theme",
+      "meaning": "Oxford 3000 · B1 · theme"
+    },
+    {
+      "word": "theory",
+      "meaning": "Oxford 3000 · B1 · theory"
+    },
+    {
+      "word": "therefore",
+      "meaning": "Oxford 3000 · B1 · therefore"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

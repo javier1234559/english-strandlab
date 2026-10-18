@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": "a1",
+      "label": "A1",
+      "title": "Beginner path",
+      "checkpoints": [
+        "a1-people-01",
+        "a1-food-drink-01",
+        "a1-time-calendar-01",
+        "a1-school-study-01",
+        "a1-transport-travel-01",
+        "a1-hobbies-free-time-01",
+        "a1-feelings-opinions-01",
+        "a1-everyday-mix-01",
+        "a1-everyday-mix-02",
+        "a1-everyday-mix-03",
+        "a1-everyday-mix-04",
+        "a1-everyday-mix-05",
+        "a1-everyday-mix-06",
+        "a1-everyday-mix-07",
+        "a1-everyday-mix-08",
+        "a1-everyday-mix-09"
+      ]
+    },
+    {
+      "id": "a2",
+      "label": "A2",
+      "title": "Elementary path",
+      "checkpoints": [
+        "a2-work-career-01",
+        "a2-transport-travel-01",
+        "a2-everyday-mix-01",
+        "a2-everyday-mix-02",
+        "a2-everyday-mix-03",
+        "a2-everyday-mix-04",
+        "a2-everyday-mix-05",
+        "a2-everyday-mix-06",
+        "a2-everyday-mix-07",
+        "a2-everyday-mix-08",
+        "a2-everyday-mix-09",
+        "a2-everyday-mix-10",
+        "a2-everyday-mix-11",
+        "a2-everyday-mix-12",
+        "a2-everyday-mix-13"
+      ]
+    },
+    {
+      "id": "b1",
+      "label": "B1",
+      "title": "Intermediate path",
+      "checkpoints": [
+        "b1-shopping-clothes-01",
+        "b1-everyday-mix-01",
+        "b1-everyday-mix-02",
+        "b1-everyday-mix-03",
+        "b1-everyday-mix-04",
+        "b1-everyday-mix-05",
+        "b1-everyday-mix-06",
+        "b1-everyday-mix-07",
+        "b1-everyday-mix-08",
+        "b1-everyday-mix-09",
+        "b1-everyday-mix-10",
+        "b1-everyday-mix-11",
+        "b1-everyday-mix-12",
+        "b1-everyday-mix-13"
+      ]
+    },
+    {
+      "id": "b2",
+      "label": "B2",
+      "title": "Upper path",
+      "checkpoints": [
+        "b2-everyday-mix-01",
+        "b2-everyday-mix-02",
+        "b2-everyday-mix-03",
+        "b2-everyday-mix-04",
+        "b2-everyday-mix-05",
+        "b2-everyday-mix-06",
+        "b2-everyday-mix-07",
+        "b2-everyday-mix-08",
+        "b2-everyday-mix-09",
+        "b2-everyday-mix-10",
+        "b2-everyday-mix-11",
+        "b2-everyday-mix-12",
+        "b2-everyday-mix-13"
+      ]
+    }
+  ]
+}

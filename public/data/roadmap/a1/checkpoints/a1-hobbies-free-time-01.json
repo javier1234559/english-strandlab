@@ -1,0 +1,240 @@
+{
+  "id": "a1-hobbies-free-time-01",
+  "level": "a1",
+  "topic": "hobbies-free-time",
+  "topicLabel": "Hobbies & free time",
+  "title": "Hobbies & free time with Anna",
+  "scene": "A free-time episode with Anna: plans for fun, a twist, and a memorable ending.",
+  "order": 6,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "camera",
+      "meaning": "Oxford 3000 · A1 · camera"
+    },
+    {
+      "word": "cinema",
+      "meaning": "Oxford 3000 · A1 · cinema"
+    },
+    {
+      "word": "dance",
+      "meaning": "Oxford 3000 · A1 · dance"
+    },
+    {
+      "word": "dancer",
+      "meaning": "Oxford 3000 · A1 · dancer"
+    },
+    {
+      "word": "dancing",
+      "meaning": "Oxford 3000 · A1 · dancing"
+    },
+    {
+      "word": "enjoy",
+      "meaning": "Oxford 3000 · A1 · enjoy"
+    },
+    {
+      "word": "film",
+      "meaning": "Oxford 3000 · A1 · film"
+    },
+    {
+      "word": "foot",
+      "meaning": "Oxford 3000 · A1 · foot"
+    },
+    {
+      "word": "football",
+      "meaning": "Oxford 3000 · A1 · football"
+    },
+    {
+      "word": "fun",
+      "meaning": "Oxford 3000 · A1 · fun"
+    },
+    {
+      "word": "game",
+      "meaning": "Oxford 3000 · A1 · game"
+    },
+    {
+      "word": "hobby",
+      "meaning": "Oxford 3000 · A1 · hobby"
+    },
+    {
+      "word": "I",
+      "meaning": "Oxford 3000 · A1 · I"
+    },
+    {
+      "word": "in",
+      "meaning": "Oxford 3000 · A1 · in"
+    },
+    {
+      "word": "internet",
+      "meaning": "Oxford 3000 · A1 · internet"
+    },
+    {
+      "word": "list",
+      "meaning": "Oxford 3000 · A1 · list"
+    },
+    {
+      "word": "listen",
+      "meaning": "Oxford 3000 · A1 · listen"
+    },
+    {
+      "word": "movie",
+      "meaning": "Oxford 3000 · A1 · movie"
+    },
+    {
+      "word": "music",
+      "meaning": "Oxford 3000 · A1 · music"
+    },
+    {
+      "word": "part",
+      "meaning": "Oxford 3000 · A1 · part"
+    },
+    {
+      "word": "party",
+      "meaning": "Oxford 3000 · A1 · party"
+    },
+    {
+      "word": "phone",
+      "meaning": "Oxford 3000 · A1 · phone"
+    },
+    {
+      "word": "photo",
+      "meaning": "Oxford 3000 · A1 · photo"
+    },
+    {
+      "word": "photograph",
+      "meaning": "Oxford 3000 · A1 · photograph"
+    },
+    {
+      "word": "play",
+      "meaning": "Oxford 3000 · A1 · play"
+    },
+    {
+      "word": "player",
+      "meaning": "Oxford 3000 · A1 · player"
+    },
+    {
+      "word": "run",
+      "meaning": "Oxford 3000 · A1 · run"
+    },
+    {
+      "word": "song",
+      "meaning": "Oxford 3000 · A1 · song"
+    },
+    {
+      "word": "sport",
+      "meaning": "Oxford 3000 · A1 · sport"
+    },
+    {
+      "word": "swim",
+      "meaning": "Oxford 3000 · A1 · swim"
+    },
+    {
+      "word": "swimming",
+      "meaning": "Oxford 3000 · A1 · swimming"
+    },
+    {
+      "word": "television",
+      "meaning": "Oxford 3000 · A1 · television"
+    },
+    {
+      "word": "ten",
+      "meaning": "Oxford 3000 · A1 · ten"
+    },
+    {
+      "word": "tennis",
+      "meaning": "Oxford 3000 · A1 · tennis"
+    },
+    {
+      "word": "TV",
+      "meaning": "Oxford 3000 · A1 · TV"
+    },
+    {
+      "word": "watch",
+      "meaning": "Oxford 3000 · A1 · watch"
+    },
+    {
+      "word": "arm",
+      "meaning": "Oxford 3000 · A1 · arm"
+    },
+    {
+      "word": "body",
+      "meaning": "Oxford 3000 · A1 · body"
+    },
+    {
+      "word": "doctor",
+      "meaning": "Oxford 3000 · A1 · doctor"
+    },
+    {
+      "word": "exercise",
+      "meaning": "Oxford 3000 · A1 · exercise"
+    },
+    {
+      "word": "eye",
+      "meaning": "Oxford 3000 · A1 · eye"
+    },
+    {
+      "word": "face",
+      "meaning": "Oxford 3000 · A1 · face"
+    },
+    {
+      "word": "feel",
+      "meaning": "Oxford 3000 · A1 · feel"
+    },
+    {
+      "word": "feeling",
+      "meaning": "Oxford 3000 · A1 · feeling"
+    },
+    {
+      "word": "hair",
+      "meaning": "Oxford 3000 · A1 · hair"
+    },
+    {
+      "word": "hand",
+      "meaning": "Oxford 3000 · A1 · hand"
+    },
+    {
+      "word": "he",
+      "meaning": "Oxford 3000 · A1 · he"
+    },
+    {
+      "word": "head",
+      "meaning": "Oxford 3000 · A1 · head"
+    },
+    {
+      "word": "health",
+      "meaning": "Oxford 3000 · A1 · health"
+    },
+    {
+      "word": "healthy",
+      "meaning": "Oxford 3000 · A1 · healthy"
+    },
+    {
+      "word": "hospital",
+      "meaning": "Oxford 3000 · A1 · hospital"
+    },
+    {
+      "word": "leg",
+      "meaning": "Oxford 3000 · A1 · leg"
+    },
+    {
+      "word": "mouth",
+      "meaning": "Oxford 3000 · A1 · mouth"
+    },
+    {
+      "word": "nose",
+      "meaning": "Oxford 3000 · A1 · nose"
+    },
+    {
+      "word": "paint",
+      "meaning": "Oxford 3000 · A1 · paint"
+    },
+    {
+      "word": "painting",
+      "meaning": "Oxford 3000 · A1 · painting"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

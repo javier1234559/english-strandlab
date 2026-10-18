@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-11",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "When Easter changed the plan",
+  "scene": "A flexible everyday episode with Easter: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 12,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "retire",
+      "meaning": "Oxford 3000 · B1 · retire"
+    },
+    {
+      "word": "retired",
+      "meaning": "Oxford 3000 · B1 · retired"
+    },
+    {
+      "word": "revise",
+      "meaning": "Oxford 3000 · B1 · revise"
+    },
+    {
+      "word": "ring",
+      "meaning": "Oxford 3000 · B1 · ring"
+    },
+    {
+      "word": "rise",
+      "meaning": "Oxford 3000 · B1 · rise"
+    },
+    {
+      "word": "robot",
+      "meaning": "Oxford 3000 · B1 · robot"
+    },
+    {
+      "word": "roll",
+      "meaning": "Oxford 3000 · B1 · roll"
+    },
+    {
+      "word": "romantic",
+      "meaning": "Oxford 3000 · B1 · romantic"
+    },
+    {
+      "word": "rope",
+      "meaning": "Oxford 3000 · B1 · rope"
+    },
+    {
+      "word": "rough",
+      "meaning": "Oxford 3000 · B1 · rough"
+    },
+    {
+      "word": "row",
+      "meaning": "Oxford 3000 · B1 · row"
+    },
+    {
+      "word": "royal",
+      "meaning": "Oxford 3000 · B1 · royal"
+    },
+    {
+      "word": "rugby",
+      "meaning": "Oxford 3000 · B1 · rugby"
+    },
+    {
+      "word": "rule",
+      "meaning": "Oxford 3000 · B1 · rule"
+    },
+    {
+      "word": "safety",
+      "meaning": "Oxford 3000 · B1 · safety"
+    },
+    {
+      "word": "sail",
+      "meaning": "Oxford 3000 · B1 · sail"
+    },
+    {
+      "word": "sailor",
+      "meaning": "Oxford 3000 · B1 · sailor"
+    },
+    {
+      "word": "sample",
+      "meaning": "Oxford 3000 · B1 · sample"
+    },
+    {
+      "word": "sand",
+      "meaning": "Oxford 3000 · B1 · sand"
+    },
+    {
+      "word": "scan",
+      "meaning": "Oxford 3000 · B1 · scan"
+    },
+    {
+      "word": "scientific",
+      "meaning": "Oxford 3000 · B1 · scientific"
+    },
+    {
+      "word": "script",
+      "meaning": "Oxford 3000 · B1 · script"
+    },
+    {
+      "word": "security",
+      "meaning": "Oxford 3000 · B1 · security"
+    },
+    {
+      "word": "seed",
+      "meaning": "Oxford 3000 · B1 · seed"
+    },
+    {
+      "word": "sensible",
+      "meaning": "Oxford 3000 · B1 · sensible"
+    },
+    {
+      "word": "separate",
+      "meaning": "Oxford 3000 · B1 · separate"
+    },
+    {
+      "word": "seriously",
+      "meaning": "Oxford 3000 · B1 · seriously"
+    },
+    {
+      "word": "servant",
+      "meaning": "Oxford 3000 · B1 · servant"
+    },
+    {
+      "word": "set (put)",
+      "meaning": "Oxford 3000 · B1 · set (put)"
+    },
+    {
+      "word": "set (group)",
+      "meaning": "Oxford 3000 · B1 · set (group)"
+    },
+    {
+      "word": "setting",
+      "meaning": "Oxford 3000 · B1 · setting"
+    },
+    {
+      "word": "sex",
+      "meaning": "Oxford 3000 · B1 · sex"
+    },
+    {
+      "word": "sexual",
+      "meaning": "Oxford 3000 · B1 · sexual"
+    },
+    {
+      "word": "shake",
+      "meaning": "Oxford 3000 · B1 · shake"
+    },
+    {
+      "word": "share",
+      "meaning": "Oxford 3000 · B1 · share"
+    },
+    {
+      "word": "sharp",
+      "meaning": "Oxford 3000 · B1 · sharp"
+    },
+    {
+      "word": "shelf",
+      "meaning": "Oxford 3000 · B1 · shelf"
+    },
+    {
+      "word": "shell",
+      "meaning": "Oxford 3000 · B1 · shell"
+    },
+    {
+      "word": "shift",
+      "meaning": "Oxford 3000 · B1 · shift"
+    },
+    {
+      "word": "shine",
+      "meaning": "Oxford 3000 · B1 · shine"
+    },
+    {
+      "word": "shiny",
+      "meaning": "Oxford 3000 · B1 · shiny"
+    },
+    {
+      "word": "shoot",
+      "meaning": "Oxford 3000 · B1 · shoot"
+    },
+    {
+      "word": "shy",
+      "meaning": "Oxford 3000 · B1 · shy"
+    },
+    {
+      "word": "sight",
+      "meaning": "Oxford 3000 · B1 · sight"
+    },
+    {
+      "word": "signal",
+      "meaning": "Oxford 3000 · B1 · signal"
+    },
+    {
+      "word": "silent",
+      "meaning": "Oxford 3000 · B1 · silent"
+    },
+    {
+      "word": "silly",
+      "meaning": "Oxford 3000 · B1 · silly"
+    },
+    {
+      "word": "similarity",
+      "meaning": "Oxford 3000 · B1 · similarity"
+    },
+    {
+      "word": "similarly",
+      "meaning": "Oxford 3000 · B1 · similarly"
+    },
+    {
+      "word": "simply",
+      "meaning": "Oxford 3000 · B1 · simply"
+    },
+    {
+      "word": "since",
+      "meaning": "Oxford 3000 · B1 · since"
+    },
+    {
+      "word": "sink",
+      "meaning": "Oxford 3000 · B1 · sink"
+    },
+    {
+      "word": "slice",
+      "meaning": "Oxford 3000 · B1 · slice"
+    },
+    {
+      "word": "slightly",
+      "meaning": "Oxford 3000 · B1 · slightly"
+    },
+    {
+      "word": "slow",
+      "meaning": "Oxford 3000 · B1 · slow"
+    },
+    {
+      "word": "smart",
+      "meaning": "Oxford 3000 · B1 · smart"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

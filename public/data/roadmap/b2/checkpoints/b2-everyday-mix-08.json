@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-08",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 8,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "leave",
+      "meaning": "Oxford 3000 · B2 · leave"
+    },
+    {
+      "word": "level",
+      "meaning": "Oxford 3000 · B2 · level"
+    },
+    {
+      "word": "licence",
+      "meaning": "Oxford 3000 · B2 · licence"
+    },
+    {
+      "word": "limited",
+      "meaning": "Oxford 3000 · B2 · limited"
+    },
+    {
+      "word": "line",
+      "meaning": "Oxford 3000 · B2 · line"
+    },
+    {
+      "word": "load",
+      "meaning": "Oxford 3000 · B2 · load"
+    },
+    {
+      "word": "loan",
+      "meaning": "Oxford 3000 · B2 · loan"
+    },
+    {
+      "word": "logical",
+      "meaning": "Oxford 3000 · B2 · logical"
+    },
+    {
+      "word": "long-term",
+      "meaning": "Oxford 3000 · B2 · long-term"
+    },
+    {
+      "word": "loose",
+      "meaning": "Oxford 3000 · B2 · loose"
+    },
+    {
+      "word": "lord",
+      "meaning": "Oxford 3000 · B2 · lord"
+    },
+    {
+      "word": "low",
+      "meaning": "Oxford 3000 · B2 · low"
+    },
+    {
+      "word": "lower",
+      "meaning": "Oxford 3000 · B2 · lower"
+    },
+    {
+      "word": "lung",
+      "meaning": "Oxford 3000 · B2 · lung"
+    },
+    {
+      "word": "maintain",
+      "meaning": "Oxford 3000 · B2 · maintain"
+    },
+    {
+      "word": "majority",
+      "meaning": "Oxford 3000 · B2 · majority"
+    },
+    {
+      "word": "make",
+      "meaning": "Oxford 3000 · B2 · make"
+    },
+    {
+      "word": "mass",
+      "meaning": "Oxford 3000 · B2 · mass"
+    },
+    {
+      "word": "massive",
+      "meaning": "Oxford 3000 · B2 · massive"
+    },
+    {
+      "word": "master",
+      "meaning": "Oxford 3000 · B2 · master"
+    },
+    {
+      "word": "matching",
+      "meaning": "Oxford 3000 · B2 · matching"
+    },
+    {
+      "word": "material",
+      "meaning": "Oxford 3000 · B2 · material"
+    },
+    {
+      "word": "maximum",
+      "meaning": "Oxford 3000 · B2 · maximum"
+    },
+    {
+      "word": "means",
+      "meaning": "Oxford 3000 · B2 · means"
+    },
+    {
+      "word": "measurement",
+      "meaning": "Oxford 3000 · B2 · measurement"
+    },
+    {
+      "word": "medium",
+      "meaning": "Oxford 3000 · B2 · medium"
+    },
+    {
+      "word": "melt",
+      "meaning": "Oxford 3000 · B2 · melt"
+    },
+    {
+      "word": "military",
+      "meaning": "Oxford 3000 · B2 · military"
+    },
+    {
+      "word": "mineral",
+      "meaning": "Oxford 3000 · B2 · mineral"
+    },
+    {
+      "word": "minimum",
+      "meaning": "Oxford 3000 · B2 · minimum"
+    },
+    {
+      "word": "minister",
+      "meaning": "Oxford 3000 · B2 · minister"
+    },
+    {
+      "word": "minor",
+      "meaning": "Oxford 3000 · B2 · minor"
+    },
+    {
+      "word": "minority",
+      "meaning": "Oxford 3000 · B2 · minority"
+    },
+    {
+      "word": "mission",
+      "meaning": "Oxford 3000 · B2 · mission"
+    },
+    {
+      "word": "mistake",
+      "meaning": "Oxford 3000 · B2 · mistake"
+    },
+    {
+      "word": "mixed",
+      "meaning": "Oxford 3000 · B2 · mixed"
+    },
+    {
+      "word": "model",
+      "meaning": "Oxford 3000 · B2 · model"
+    },
+    {
+      "word": "modify",
+      "meaning": "Oxford 3000 · B2 · modify"
+    },
+    {
+      "word": "monitor",
+      "meaning": "Oxford 3000 · B2 · monitor"
+    },
+    {
+      "word": "moral",
+      "meaning": "Oxford 3000 · B2 · moral"
+    },
+    {
+      "word": "motor",
+      "meaning": "Oxford 3000 · B2 · motor"
+    },
+    {
+      "word": "multiple",
+      "meaning": "Oxford 3000 · B2 · multiple"
+    },
+    {
+      "word": "multiply",
+      "meaning": "Oxford 3000 · B2 · multiply"
+    },
+    {
+      "word": "mysterious",
+      "meaning": "Oxford 3000 · B2 · mysterious"
+    },
+    {
+      "word": "narrow",
+      "meaning": "Oxford 3000 · B2 · narrow"
+    },
+    {
+      "word": "national",
+      "meaning": "Oxford 3000 · B2 · national"
+    },
+    {
+      "word": "neat",
+      "meaning": "Oxford 3000 · B2 · neat"
+    },
+    {
+      "word": "negative",
+      "meaning": "Oxford 3000 · B2 · negative"
+    },
+    {
+      "word": "nerve",
+      "meaning": "Oxford 3000 · B2 · nerve"
+    },
+    {
+      "word": "notion",
+      "meaning": "Oxford 3000 · B2 · notion"
+    },
+    {
+      "word": "numerous",
+      "meaning": "Oxford 3000 · B2 · numerous"
+    },
+    {
+      "word": "obey",
+      "meaning": "Oxford 3000 · B2 · obey"
+    },
+    {
+      "word": "object",
+      "meaning": "Oxford 3000 · B2 · object"
+    },
+    {
+      "word": "objective",
+      "meaning": "Oxford 3000 · B2 · objective"
+    },
+    {
+      "word": "obligation",
+      "meaning": "Oxford 3000 · B2 · obligation"
+    },
+    {
+      "word": "observation",
+      "meaning": "Oxford 3000 · B2 · observation"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

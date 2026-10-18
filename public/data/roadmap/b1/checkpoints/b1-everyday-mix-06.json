@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-06",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "When Easter changed the plan",
+  "scene": "A flexible everyday episode with Easter: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 7,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "frightening",
+      "meaning": "Oxford 3000 · B1 · frightening"
+    },
+    {
+      "word": "frozen",
+      "meaning": "Oxford 3000 · B1 · frozen"
+    },
+    {
+      "word": "fry",
+      "meaning": "Oxford 3000 · B1 · fry"
+    },
+    {
+      "word": "fuel",
+      "meaning": "Oxford 3000 · B1 · fuel"
+    },
+    {
+      "word": "function",
+      "meaning": "Oxford 3000 · B1 · function"
+    },
+    {
+      "word": "fur",
+      "meaning": "Oxford 3000 · B1 · fur"
+    },
+    {
+      "word": "further",
+      "meaning": "Oxford 3000 · B1 · further"
+    },
+    {
+      "word": "garage",
+      "meaning": "Oxford 3000 · B1 · garage"
+    },
+    {
+      "word": "gather",
+      "meaning": "Oxford 3000 · B1 · gather"
+    },
+    {
+      "word": "generally",
+      "meaning": "Oxford 3000 · B1 · generally"
+    },
+    {
+      "word": "generation",
+      "meaning": "Oxford 3000 · B1 · generation"
+    },
+    {
+      "word": "generous",
+      "meaning": "Oxford 3000 · B1 · generous"
+    },
+    {
+      "word": "gentle",
+      "meaning": "Oxford 3000 · B1 · gentle"
+    },
+    {
+      "word": "ghost",
+      "meaning": "Oxford 3000 · B1 · ghost"
+    },
+    {
+      "word": "giant",
+      "meaning": "Oxford 3000 · B1 · giant"
+    },
+    {
+      "word": "glad",
+      "meaning": "Oxford 3000 · B1 · glad"
+    },
+    {
+      "word": "global",
+      "meaning": "Oxford 3000 · B1 · global"
+    },
+    {
+      "word": "glove",
+      "meaning": "Oxford 3000 · B1 · glove"
+    },
+    {
+      "word": "grade",
+      "meaning": "Oxford 3000 · B1 · grade"
+    },
+    {
+      "word": "graduate",
+      "meaning": "Oxford 3000 · B1 · graduate"
+    },
+    {
+      "word": "grain",
+      "meaning": "Oxford 3000 · B1 · grain"
+    },
+    {
+      "word": "grateful",
+      "meaning": "Oxford 3000 · B1 · grateful"
+    },
+    {
+      "word": "growth",
+      "meaning": "Oxford 3000 · B1 · growth"
+    },
+    {
+      "word": "guard",
+      "meaning": "Oxford 3000 · B1 · guard"
+    },
+    {
+      "word": "guilty",
+      "meaning": "Oxford 3000 · B1 · guilty"
+    },
+    {
+      "word": "hang",
+      "meaning": "Oxford 3000 · B1 · hang"
+    },
+    {
+      "word": "happiness",
+      "meaning": "Oxford 3000 · B1 · happiness"
+    },
+    {
+      "word": "hardly",
+      "meaning": "Oxford 3000 · B1 · hardly"
+    },
+    {
+      "word": "heating",
+      "meaning": "Oxford 3000 · B1 · heating"
+    },
+    {
+      "word": "heavily",
+      "meaning": "Oxford 3000 · B1 · heavily"
+    },
+    {
+      "word": "helicopter",
+      "meaning": "Oxford 3000 · B1 · helicopter"
+    },
+    {
+      "word": "highlight",
+      "meaning": "Oxford 3000 · B1 · highlight"
+    },
+    {
+      "word": "highly",
+      "meaning": "Oxford 3000 · B1 · highly"
+    },
+    {
+      "word": "hire",
+      "meaning": "Oxford 3000 · B1 · hire"
+    },
+    {
+      "word": "historic",
+      "meaning": "Oxford 3000 · B1 · historic"
+    },
+    {
+      "word": "historical",
+      "meaning": "Oxford 3000 · B1 · historical"
+    },
+    {
+      "word": "honest",
+      "meaning": "Oxford 3000 · B1 · honest"
+    },
+    {
+      "word": "horrible",
+      "meaning": "Oxford 3000 · B1 · horrible"
+    },
+    {
+      "word": "horror",
+      "meaning": "Oxford 3000 · B1 · horror"
+    },
+    {
+      "word": "host",
+      "meaning": "Oxford 3000 · B1 · host"
+    },
+    {
+      "word": "hunt",
+      "meaning": "Oxford 3000 · B1 · hunt"
+    },
+    {
+      "word": "hurricane",
+      "meaning": "Oxford 3000 · B1 · hurricane"
+    },
+    {
+      "word": "hurry",
+      "meaning": "Oxford 3000 · B1 · hurry"
+    },
+    {
+      "word": "identity",
+      "meaning": "Oxford 3000 · B1 · identity"
+    },
+    {
+      "word": "ignore",
+      "meaning": "Oxford 3000 · B1 · ignore"
+    },
+    {
+      "word": "illegal",
+      "meaning": "Oxford 3000 · B1 · illegal"
+    },
+    {
+      "word": "imaginary",
+      "meaning": "Oxford 3000 · B1 · imaginary"
+    },
+    {
+      "word": "immediate",
+      "meaning": "Oxford 3000 · B1 · immediate"
+    },
+    {
+      "word": "immigrant",
+      "meaning": "Oxford 3000 · B1 · immigrant"
+    },
+    {
+      "word": "impact",
+      "meaning": "Oxford 3000 · B1 · impact"
+    },
+    {
+      "word": "import",
+      "meaning": "Oxford 3000 · B1 · import"
+    },
+    {
+      "word": "importance",
+      "meaning": "Oxford 3000 · B1 · importance"
+    },
+    {
+      "word": "impression",
+      "meaning": "Oxford 3000 · B1 · impression"
+    },
+    {
+      "word": "impressive",
+      "meaning": "Oxford 3000 · B1 · impressive"
+    },
+    {
+      "word": "improvement",
+      "meaning": "Oxford 3000 · B1 · improvement"
+    },
+    {
+      "word": "incredibly",
+      "meaning": "Oxford 3000 · B1 · incredibly"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-10",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "A B2 story — Everyday mix",
+  "scene": "A flexible everyday episode with Sean: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 10,
+  "characters": [
+    "javi",
+    "sean"
+  ],
+  "vocab": [
+    {
+      "word": "prime",
+      "meaning": "Oxford 3000 · B2 · prime"
+    },
+    {
+      "word": "principle",
+      "meaning": "Oxford 3000 · B2 · principle"
+    },
+    {
+      "word": "print",
+      "meaning": "Oxford 3000 · B2 · print"
+    },
+    {
+      "word": "priority",
+      "meaning": "Oxford 3000 · B2 · priority"
+    },
+    {
+      "word": "privacy",
+      "meaning": "Oxford 3000 · B2 · privacy"
+    },
+    {
+      "word": "procedure",
+      "meaning": "Oxford 3000 · B2 · procedure"
+    },
+    {
+      "word": "process",
+      "meaning": "Oxford 3000 · B2 · process"
+    },
+    {
+      "word": "produce",
+      "meaning": "Oxford 3000 · B2 · produce"
+    },
+    {
+      "word": "professional",
+      "meaning": "Oxford 3000 · B2 · professional"
+    },
+    {
+      "word": "progress",
+      "meaning": "Oxford 3000 · B2 · progress"
+    },
+    {
+      "word": "proof",
+      "meaning": "Oxford 3000 · B2 · proof"
+    },
+    {
+      "word": "proposal",
+      "meaning": "Oxford 3000 · B2 · proposal"
+    },
+    {
+      "word": "propose",
+      "meaning": "Oxford 3000 · B2 · propose"
+    },
+    {
+      "word": "prospect",
+      "meaning": "Oxford 3000 · B2 · prospect"
+    },
+    {
+      "word": "protection",
+      "meaning": "Oxford 3000 · B2 · protection"
+    },
+    {
+      "word": "psychologist",
+      "meaning": "Oxford 3000 · B2 · psychologist"
+    },
+    {
+      "word": "psychology",
+      "meaning": "Oxford 3000 · B2 · psychology"
+    },
+    {
+      "word": "publication",
+      "meaning": "Oxford 3000 · B2 · publication"
+    },
+    {
+      "word": "pupil",
+      "meaning": "Oxford 3000 · B2 · pupil"
+    },
+    {
+      "word": "purchase",
+      "meaning": "Oxford 3000 · B2 · purchase"
+    },
+    {
+      "word": "pure",
+      "meaning": "Oxford 3000 · B2 · pure"
+    },
+    {
+      "word": "pursue",
+      "meaning": "Oxford 3000 · B2 · pursue"
+    },
+    {
+      "word": "range",
+      "meaning": "Oxford 3000 · B2 · range"
+    },
+    {
+      "word": "rank",
+      "meaning": "Oxford 3000 · B2 · rank"
+    },
+    {
+      "word": "rapid",
+      "meaning": "Oxford 3000 · B2 · rapid"
+    },
+    {
+      "word": "rapidly",
+      "meaning": "Oxford 3000 · B2 · rapidly"
+    },
+    {
+      "word": "rate",
+      "meaning": "Oxford 3000 · B2 · rate"
+    },
+    {
+      "word": "raw",
+      "meaning": "Oxford 3000 · B2 · raw"
+    },
+    {
+      "word": "reach",
+      "meaning": "Oxford 3000 · B2 · reach"
+    },
+    {
+      "word": "realistic",
+      "meaning": "Oxford 3000 · B2 · realistic"
+    },
+    {
+      "word": "reasonable",
+      "meaning": "Oxford 3000 · B2 · reasonable"
+    },
+    {
+      "word": "recall",
+      "meaning": "Oxford 3000 · B2 · recall"
+    },
+    {
+      "word": "recover",
+      "meaning": "Oxford 3000 · B2 · recover"
+    },
+    {
+      "word": "reduction",
+      "meaning": "Oxford 3000 · B2 · reduction"
+    },
+    {
+      "word": "regard",
+      "meaning": "Oxford 3000 · B2 · regard"
+    },
+    {
+      "word": "regional",
+      "meaning": "Oxford 3000 · B2 · regional"
+    },
+    {
+      "word": "register",
+      "meaning": "Oxford 3000 · B2 · register"
+    },
+    {
+      "word": "regret",
+      "meaning": "Oxford 3000 · B2 · regret"
+    },
+    {
+      "word": "regulation",
+      "meaning": "Oxford 3000 · B2 · regulation"
+    },
+    {
+      "word": "relatively",
+      "meaning": "Oxford 3000 · B2 · relatively"
+    },
+    {
+      "word": "relevant",
+      "meaning": "Oxford 3000 · B2 · relevant"
+    },
+    {
+      "word": "relief",
+      "meaning": "Oxford 3000 · B2 · relief"
+    },
+    {
+      "word": "rely",
+      "meaning": "Oxford 3000 · B2 · rely"
+    },
+    {
+      "word": "remark",
+      "meaning": "Oxford 3000 · B2 · remark"
+    },
+    {
+      "word": "representative",
+      "meaning": "Oxford 3000 · B2 · representative"
+    },
+    {
+      "word": "reputation",
+      "meaning": "Oxford 3000 · B2 · reputation"
+    },
+    {
+      "word": "requirement",
+      "meaning": "Oxford 3000 · B2 · requirement"
+    },
+    {
+      "word": "rescue",
+      "meaning": "Oxford 3000 · B2 · rescue"
+    },
+    {
+      "word": "reserve",
+      "meaning": "Oxford 3000 · B2 · reserve"
+    },
+    {
+      "word": "resident",
+      "meaning": "Oxford 3000 · B2 · resident"
+    },
+    {
+      "word": "resist",
+      "meaning": "Oxford 3000 · B2 · resist"
+    },
+    {
+      "word": "resolve",
+      "meaning": "Oxford 3000 · B2 · resolve"
+    },
+    {
+      "word": "resort",
+      "meaning": "Oxford 3000 · B2 · resort"
+    },
+    {
+      "word": "retain",
+      "meaning": "Oxford 3000 · B2 · retain"
+    },
+    {
+      "word": "reveal",
+      "meaning": "Oxford 3000 · B2 · reveal"
+    },
+    {
+      "word": "revolution",
+      "meaning": "Oxford 3000 · B2 · revolution"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Sean (hobby friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

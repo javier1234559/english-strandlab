@@ -1,0 +1,240 @@
+{
+  "id": "a1-everyday-mix-05",
+  "level": "a1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "When Easter changed the plan",
+  "scene": "A flexible everyday episode with Easter: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 12,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "include",
+      "meaning": "Oxford 3000 · A1 · include"
+    },
+    {
+      "word": "interested",
+      "meaning": "Oxford 3000 · A1 · interested"
+    },
+    {
+      "word": "interview",
+      "meaning": "Oxford 3000 · A1 · interview"
+    },
+    {
+      "word": "into",
+      "meaning": "Oxford 3000 · A1 · into"
+    },
+    {
+      "word": "introduce",
+      "meaning": "Oxford 3000 · A1 · introduce"
+    },
+    {
+      "word": "island",
+      "meaning": "Oxford 3000 · A1 · island"
+    },
+    {
+      "word": "it",
+      "meaning": "Oxford 3000 · A1 · it"
+    },
+    {
+      "word": "its",
+      "meaning": "Oxford 3000 · A1 · its"
+    },
+    {
+      "word": "jeans",
+      "meaning": "Oxford 3000 · A1 · jeans"
+    },
+    {
+      "word": "join",
+      "meaning": "Oxford 3000 · A1 · join"
+    },
+    {
+      "word": "just",
+      "meaning": "Oxford 3000 · A1 · just"
+    },
+    {
+      "word": "keep",
+      "meaning": "Oxford 3000 · A1 · keep"
+    },
+    {
+      "word": "key",
+      "meaning": "Oxford 3000 · A1 · key"
+    },
+    {
+      "word": "kilometre",
+      "meaning": "Oxford 3000 · A1 · kilometre"
+    },
+    {
+      "word": "kind (type)",
+      "meaning": "Oxford 3000 · A1 · kind (type)"
+    },
+    {
+      "word": "know",
+      "meaning": "Oxford 3000 · A1 · know"
+    },
+    {
+      "word": "land",
+      "meaning": "Oxford 3000 · A1 · land"
+    },
+    {
+      "word": "large",
+      "meaning": "Oxford 3000 · A1 · large"
+    },
+    {
+      "word": "last (final)",
+      "meaning": "Oxford 3000 · A1 · last (final)"
+    },
+    {
+      "word": "laugh",
+      "meaning": "Oxford 3000 · A1 · laugh"
+    },
+    {
+      "word": "leave",
+      "meaning": "Oxford 3000 · A1 · leave"
+    },
+    {
+      "word": "left",
+      "meaning": "Oxford 3000 · A1 · left"
+    },
+    {
+      "word": "let",
+      "meaning": "Oxford 3000 · A1 · let"
+    },
+    {
+      "word": "letter",
+      "meaning": "Oxford 3000 · A1 · letter"
+    },
+    {
+      "word": "lie",
+      "meaning": "Oxford 3000 · A1 · lie"
+    },
+    {
+      "word": "life",
+      "meaning": "Oxford 3000 · A1 · life"
+    },
+    {
+      "word": "line",
+      "meaning": "Oxford 3000 · A1 · line"
+    },
+    {
+      "word": "lion",
+      "meaning": "Oxford 3000 · A1 · lion"
+    },
+    {
+      "word": "little",
+      "meaning": "Oxford 3000 · A1 · little"
+    },
+    {
+      "word": "local",
+      "meaning": "Oxford 3000 · A1 · local"
+    },
+    {
+      "word": "long",
+      "meaning": "Oxford 3000 · A1 · long"
+    },
+    {
+      "word": "look",
+      "meaning": "Oxford 3000 · A1 · look"
+    },
+    {
+      "word": "lose",
+      "meaning": "Oxford 3000 · A1 · lose"
+    },
+    {
+      "word": "lot",
+      "meaning": "Oxford 3000 · A1 · lot"
+    },
+    {
+      "word": "machine",
+      "meaning": "Oxford 3000 · A1 · machine"
+    },
+    {
+      "word": "magazine",
+      "meaning": "Oxford 3000 · A1 · magazine"
+    },
+    {
+      "word": "main",
+      "meaning": "Oxford 3000 · A1 · main"
+    },
+    {
+      "word": "make",
+      "meaning": "Oxford 3000 · A1 · make"
+    },
+    {
+      "word": "many",
+      "meaning": "Oxford 3000 · A1 · many"
+    },
+    {
+      "word": "married",
+      "meaning": "Oxford 3000 · A1 · married"
+    },
+    {
+      "word": "match (contest/correspond)",
+      "meaning": "Oxford 3000 · A1 · match (contest/correspond)"
+    },
+    {
+      "word": "maybe",
+      "meaning": "Oxford 3000 · A1 · maybe"
+    },
+    {
+      "word": "mean",
+      "meaning": "Oxford 3000 · A1 · mean"
+    },
+    {
+      "word": "meaning",
+      "meaning": "Oxford 3000 · A1 · meaning"
+    },
+    {
+      "word": "member",
+      "meaning": "Oxford 3000 · A1 · member"
+    },
+    {
+      "word": "metre",
+      "meaning": "Oxford 3000 · A1 · metre"
+    },
+    {
+      "word": "midnight",
+      "meaning": "Oxford 3000 · A1 · midnight"
+    },
+    {
+      "word": "mile",
+      "meaning": "Oxford 3000 · A1 · mile"
+    },
+    {
+      "word": "million",
+      "meaning": "Oxford 3000 · A1 · million"
+    },
+    {
+      "word": "miss",
+      "meaning": "Oxford 3000 · A1 · miss"
+    },
+    {
+      "word": "mistake",
+      "meaning": "Oxford 3000 · A1 · mistake"
+    },
+    {
+      "word": "model",
+      "meaning": "Oxford 3000 · A1 · model"
+    },
+    {
+      "word": "modern",
+      "meaning": "Oxford 3000 · A1 · modern"
+    },
+    {
+      "word": "moment",
+      "meaning": "Oxford 3000 · A1 · moment"
+    },
+    {
+      "word": "more",
+      "meaning": "Oxford 3000 · A1 · more"
+    },
+    {
+      "word": "most",
+      "meaning": "Oxford 3000 · A1 · most"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

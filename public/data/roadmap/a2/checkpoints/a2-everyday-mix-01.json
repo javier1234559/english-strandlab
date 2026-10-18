@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-01",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 3,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "media",
+      "meaning": "Oxford 3000 · A2 · media"
+    },
+    {
+      "word": "present",
+      "meaning": "Oxford 3000 · A2 · present"
+    },
+    {
+      "word": "research",
+      "meaning": "Oxford 3000 · A2 · research"
+    },
+    {
+      "word": "researcher",
+      "meaning": "Oxford 3000 · A2 · researcher"
+    },
+    {
+      "word": "society",
+      "meaning": "Oxford 3000 · A2 · society"
+    },
+    {
+      "word": "solution",
+      "meaning": "Oxford 3000 · A2 · solution"
+    },
+    {
+      "word": "system",
+      "meaning": "Oxford 3000 · A2 · system"
+    },
+    {
+      "word": "technology",
+      "meaning": "Oxford 3000 · A2 · technology"
+    },
+    {
+      "word": "tradition",
+      "meaning": "Oxford 3000 · A2 · tradition"
+    },
+    {
+      "word": "traditional",
+      "meaning": "Oxford 3000 · A2 · traditional"
+    },
+    {
+      "word": "ability",
+      "meaning": "Oxford 3000 · A2 · ability"
+    },
+    {
+      "word": "able",
+      "meaning": "Oxford 3000 · A2 · able"
+    },
+    {
+      "word": "accept",
+      "meaning": "Oxford 3000 · A2 · accept"
+    },
+    {
+      "word": "accident",
+      "meaning": "Oxford 3000 · A2 · accident"
+    },
+    {
+      "word": "according to",
+      "meaning": "Oxford 3000 · A2 · according to"
+    },
+    {
+      "word": "achieve",
+      "meaning": "Oxford 3000 · A2 · achieve"
+    },
+    {
+      "word": "act",
+      "meaning": "Oxford 3000 · A2 · act"
+    },
+    {
+      "word": "active",
+      "meaning": "Oxford 3000 · A2 · active"
+    },
+    {
+      "word": "actually",
+      "meaning": "Oxford 3000 · A2 · actually"
+    },
+    {
+      "word": "adult",
+      "meaning": "Oxford 3000 · A2 · adult"
+    },
+    {
+      "word": "advantage",
+      "meaning": "Oxford 3000 · A2 · advantage"
+    },
+    {
+      "word": "adventure",
+      "meaning": "Oxford 3000 · A2 · adventure"
+    },
+    {
+      "word": "advertise",
+      "meaning": "Oxford 3000 · A2 · advertise"
+    },
+    {
+      "word": "advertisement",
+      "meaning": "Oxford 3000 · A2 · advertisement"
+    },
+    {
+      "word": "advertising",
+      "meaning": "Oxford 3000 · A2 · advertising"
+    },
+    {
+      "word": "affect",
+      "meaning": "Oxford 3000 · A2 · affect"
+    },
+    {
+      "word": "against",
+      "meaning": "Oxford 3000 · A2 · against"
+    },
+    {
+      "word": "ah",
+      "meaning": "Oxford 3000 · A2 · ah"
+    },
+    {
+      "word": "airline",
+      "meaning": "Oxford 3000 · A2 · airline"
+    },
+    {
+      "word": "alive",
+      "meaning": "Oxford 3000 · A2 · alive"
+    },
+    {
+      "word": "all",
+      "meaning": "Oxford 3000 · A2 · all"
+    },
+    {
+      "word": "all right",
+      "meaning": "Oxford 3000 · A2 · all right"
+    },
+    {
+      "word": "allow",
+      "meaning": "Oxford 3000 · A2 · allow"
+    },
+    {
+      "word": "almost",
+      "meaning": "Oxford 3000 · A2 · almost"
+    },
+    {
+      "word": "alone",
+      "meaning": "Oxford 3000 · A2 · alone"
+    },
+    {
+      "word": "along",
+      "meaning": "Oxford 3000 · A2 · along"
+    },
+    {
+      "word": "already",
+      "meaning": "Oxford 3000 · A2 · already"
+    },
+    {
+      "word": "alternative",
+      "meaning": "Oxford 3000 · A2 · alternative"
+    },
+    {
+      "word": "although",
+      "meaning": "Oxford 3000 · A2 · although"
+    },
+    {
+      "word": "among",
+      "meaning": "Oxford 3000 · A2 · among"
+    },
+    {
+      "word": "amount",
+      "meaning": "Oxford 3000 · A2 · amount"
+    },
+    {
+      "word": "ancient",
+      "meaning": "Oxford 3000 · A2 · ancient"
+    },
+    {
+      "word": "ankle",
+      "meaning": "Oxford 3000 · A2 · ankle"
+    },
+    {
+      "word": "any more",
+      "meaning": "Oxford 3000 · A2 · any more"
+    },
+    {
+      "word": "anyway",
+      "meaning": "Oxford 3000 · A2 · anyway"
+    },
+    {
+      "word": "anywhere",
+      "meaning": "Oxford 3000 · A2 · anywhere"
+    },
+    {
+      "word": "appear",
+      "meaning": "Oxford 3000 · A2 · appear"
+    },
+    {
+      "word": "appearance",
+      "meaning": "Oxford 3000 · A2 · appearance"
+    },
+    {
+      "word": "apply",
+      "meaning": "Oxford 3000 · A2 · apply"
+    },
+    {
+      "word": "architect",
+      "meaning": "Oxford 3000 · A2 · architect"
+    },
+    {
+      "word": "architecture",
+      "meaning": "Oxford 3000 · A2 · architecture"
+    },
+    {
+      "word": "argue",
+      "meaning": "Oxford 3000 · A2 · argue"
+    },
+    {
+      "word": "argument",
+      "meaning": "Oxford 3000 · A2 · argument"
+    },
+    {
+      "word": "army",
+      "meaning": "Oxford 3000 · A2 · army"
+    },
+    {
+      "word": "arrange",
+      "meaning": "Oxford 3000 · A2 · arrange"
+    },
+    {
+      "word": "arrangement",
+      "meaning": "Oxford 3000 · A2 · arrangement"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-04",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "A B1 story — Everyday mix",
+  "scene": "A flexible everyday episode with Sean: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 5,
+  "characters": [
+    "javi",
+    "sean"
+  ],
+  "vocab": [
+    {
+      "word": "decade",
+      "meaning": "Oxford 3000 · B1 · decade"
+    },
+    {
+      "word": "decorate",
+      "meaning": "Oxford 3000 · B1 · decorate"
+    },
+    {
+      "word": "deep",
+      "meaning": "Oxford 3000 · B1 · deep"
+    },
+    {
+      "word": "define",
+      "meaning": "Oxford 3000 · B1 · define"
+    },
+    {
+      "word": "definite",
+      "meaning": "Oxford 3000 · B1 · definite"
+    },
+    {
+      "word": "definition",
+      "meaning": "Oxford 3000 · B1 · definition"
+    },
+    {
+      "word": "deliver",
+      "meaning": "Oxford 3000 · B1 · deliver"
+    },
+    {
+      "word": "departure",
+      "meaning": "Oxford 3000 · B1 · departure"
+    },
+    {
+      "word": "despite",
+      "meaning": "Oxford 3000 · B1 · despite"
+    },
+    {
+      "word": "destination",
+      "meaning": "Oxford 3000 · B1 · destination"
+    },
+    {
+      "word": "determine",
+      "meaning": "Oxford 3000 · B1 · determine"
+    },
+    {
+      "word": "determined",
+      "meaning": "Oxford 3000 · B1 · determined"
+    },
+    {
+      "word": "development",
+      "meaning": "Oxford 3000 · B1 · development"
+    },
+    {
+      "word": "diagram",
+      "meaning": "Oxford 3000 · B1 · diagram"
+    },
+    {
+      "word": "diamond",
+      "meaning": "Oxford 3000 · B1 · diamond"
+    },
+    {
+      "word": "difficulty",
+      "meaning": "Oxford 3000 · B1 · difficulty"
+    },
+    {
+      "word": "direct",
+      "meaning": "Oxford 3000 · B1 · direct"
+    },
+    {
+      "word": "directly",
+      "meaning": "Oxford 3000 · B1 · directly"
+    },
+    {
+      "word": "dirt",
+      "meaning": "Oxford 3000 · B1 · dirt"
+    },
+    {
+      "word": "disadvantage",
+      "meaning": "Oxford 3000 · B1 · disadvantage"
+    },
+    {
+      "word": "disappointed",
+      "meaning": "Oxford 3000 · B1 · disappointed"
+    },
+    {
+      "word": "disappointing",
+      "meaning": "Oxford 3000 · B1 · disappointing"
+    },
+    {
+      "word": "discount",
+      "meaning": "Oxford 3000 · B1 · discount"
+    },
+    {
+      "word": "dislike",
+      "meaning": "Oxford 3000 · B1 · dislike"
+    },
+    {
+      "word": "divide",
+      "meaning": "Oxford 3000 · B1 · divide"
+    },
+    {
+      "word": "documentary",
+      "meaning": "Oxford 3000 · B1 · documentary"
+    },
+    {
+      "word": "donate",
+      "meaning": "Oxford 3000 · B1 · donate"
+    },
+    {
+      "word": "double",
+      "meaning": "Oxford 3000 · B1 · double"
+    },
+    {
+      "word": "doubt",
+      "meaning": "Oxford 3000 · B1 · doubt"
+    },
+    {
+      "word": "drop",
+      "meaning": "Oxford 3000 · B1 · drop"
+    },
+    {
+      "word": "drum",
+      "meaning": "Oxford 3000 · B1 · drum"
+    },
+    {
+      "word": "drunk",
+      "meaning": "Oxford 3000 · B1 · drunk"
+    },
+    {
+      "word": "due",
+      "meaning": "Oxford 3000 · B1 · due"
+    },
+    {
+      "word": "dust",
+      "meaning": "Oxford 3000 · B1 · dust"
+    },
+    {
+      "word": "duty",
+      "meaning": "Oxford 3000 · B1 · duty"
+    },
+    {
+      "word": "earthquake",
+      "meaning": "Oxford 3000 · B1 · earthquake"
+    },
+    {
+      "word": "eastern",
+      "meaning": "Oxford 3000 · B1 · eastern"
+    },
+    {
+      "word": "economic",
+      "meaning": "Oxford 3000 · B1 · economic"
+    },
+    {
+      "word": "edge",
+      "meaning": "Oxford 3000 · B1 · edge"
+    },
+    {
+      "word": "editor",
+      "meaning": "Oxford 3000 · B1 · editor"
+    },
+    {
+      "word": "educate",
+      "meaning": "Oxford 3000 · B1 · educate"
+    },
+    {
+      "word": "educated",
+      "meaning": "Oxford 3000 · B1 · educated"
+    },
+    {
+      "word": "educational",
+      "meaning": "Oxford 3000 · B1 · educational"
+    },
+    {
+      "word": "effective",
+      "meaning": "Oxford 3000 · B1 · effective"
+    },
+    {
+      "word": "effectively",
+      "meaning": "Oxford 3000 · B1 · effectively"
+    },
+    {
+      "word": "effort",
+      "meaning": "Oxford 3000 · B1 · effort"
+    },
+    {
+      "word": "election",
+      "meaning": "Oxford 3000 · B1 · election"
+    },
+    {
+      "word": "element",
+      "meaning": "Oxford 3000 · B1 · element"
+    },
+    {
+      "word": "embarrassed",
+      "meaning": "Oxford 3000 · B1 · embarrassed"
+    },
+    {
+      "word": "embarrassing",
+      "meaning": "Oxford 3000 · B1 · embarrassing"
+    },
+    {
+      "word": "emergency",
+      "meaning": "Oxford 3000 · B1 · emergency"
+    },
+    {
+      "word": "emotion",
+      "meaning": "Oxford 3000 · B1 · emotion"
+    },
+    {
+      "word": "employment",
+      "meaning": "Oxford 3000 · B1 · employment"
+    },
+    {
+      "word": "empty",
+      "meaning": "Oxford 3000 · B1 · empty"
+    },
+    {
+      "word": "encourage",
+      "meaning": "Oxford 3000 · B1 · encourage"
+    },
+    {
+      "word": "enemy",
+      "meaning": "Oxford 3000 · B1 · enemy"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Sean (hobby friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

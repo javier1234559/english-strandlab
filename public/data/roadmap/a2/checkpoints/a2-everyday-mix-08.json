@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-08",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "A A2 story — Everyday mix",
+  "scene": "A flexible everyday episode with Sean: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 10,
+  "characters": [
+    "javi",
+    "sean"
+  ],
+  "vocab": [
+    {
+      "word": "knowledge",
+      "meaning": "Oxford 3000 · A2 · knowledge"
+    },
+    {
+      "word": "lab",
+      "meaning": "Oxford 3000 · A2 · lab"
+    },
+    {
+      "word": "lady",
+      "meaning": "Oxford 3000 · A2 · lady"
+    },
+    {
+      "word": "lake",
+      "meaning": "Oxford 3000 · A2 · lake"
+    },
+    {
+      "word": "land",
+      "meaning": "Oxford 3000 · A2 · land"
+    },
+    {
+      "word": "laptop",
+      "meaning": "Oxford 3000 · A2 · laptop"
+    },
+    {
+      "word": "last (final)",
+      "meaning": "Oxford 3000 · A2 · last (final)"
+    },
+    {
+      "word": "laughter",
+      "meaning": "Oxford 3000 · A2 · laughter"
+    },
+    {
+      "word": "lawyer",
+      "meaning": "Oxford 3000 · A2 · lawyer"
+    },
+    {
+      "word": "lazy",
+      "meaning": "Oxford 3000 · A2 · lazy"
+    },
+    {
+      "word": "lead",
+      "meaning": "Oxford 3000 · A2 · lead"
+    },
+    {
+      "word": "leader",
+      "meaning": "Oxford 3000 · A2 · leader"
+    },
+    {
+      "word": "least",
+      "meaning": "Oxford 3000 · A2 · least"
+    },
+    {
+      "word": "lecture",
+      "meaning": "Oxford 3000 · A2 · lecture"
+    },
+    {
+      "word": "lemon",
+      "meaning": "Oxford 3000 · A2 · lemon"
+    },
+    {
+      "word": "lend",
+      "meaning": "Oxford 3000 · A2 · lend"
+    },
+    {
+      "word": "level",
+      "meaning": "Oxford 3000 · A2 · level"
+    },
+    {
+      "word": "lifestyle",
+      "meaning": "Oxford 3000 · A2 · lifestyle"
+    },
+    {
+      "word": "lift",
+      "meaning": "Oxford 3000 · A2 · lift"
+    },
+    {
+      "word": "light (not heavy)",
+      "meaning": "Oxford 3000 · A2 · light (not heavy)"
+    },
+    {
+      "word": "link",
+      "meaning": "Oxford 3000 · A2 · link"
+    },
+    {
+      "word": "little",
+      "meaning": "Oxford 3000 · A2 · little"
+    },
+    {
+      "word": "lock",
+      "meaning": "Oxford 3000 · A2 · lock"
+    },
+    {
+      "word": "look",
+      "meaning": "Oxford 3000 · A2 · look"
+    },
+    {
+      "word": "lorry",
+      "meaning": "Oxford 3000 · A2 · lorry"
+    },
+    {
+      "word": "lost",
+      "meaning": "Oxford 3000 · A2 · lost"
+    },
+    {
+      "word": "loud",
+      "meaning": "Oxford 3000 · A2 · loud"
+    },
+    {
+      "word": "loudly",
+      "meaning": "Oxford 3000 · A2 · loudly"
+    },
+    {
+      "word": "low",
+      "meaning": "Oxford 3000 · A2 · low"
+    },
+    {
+      "word": "luck",
+      "meaning": "Oxford 3000 · A2 · luck"
+    },
+    {
+      "word": "lucky",
+      "meaning": "Oxford 3000 · A2 · lucky"
+    },
+    {
+      "word": "mail",
+      "meaning": "Oxford 3000 · A2 · mail"
+    },
+    {
+      "word": "major",
+      "meaning": "Oxford 3000 · A2 · major"
+    },
+    {
+      "word": "male",
+      "meaning": "Oxford 3000 · A2 · male"
+    },
+    {
+      "word": "manner",
+      "meaning": "Oxford 3000 · A2 · manner"
+    },
+    {
+      "word": "marry",
+      "meaning": "Oxford 3000 · A2 · marry"
+    },
+    {
+      "word": "material",
+      "meaning": "Oxford 3000 · A2 · material"
+    },
+    {
+      "word": "matter",
+      "meaning": "Oxford 3000 · A2 · matter"
+    },
+    {
+      "word": "medical",
+      "meaning": "Oxford 3000 · A2 · medical"
+    },
+    {
+      "word": "memory",
+      "meaning": "Oxford 3000 · A2 · memory"
+    },
+    {
+      "word": "mention",
+      "meaning": "Oxford 3000 · A2 · mention"
+    },
+    {
+      "word": "metal",
+      "meaning": "Oxford 3000 · A2 · metal"
+    },
+    {
+      "word": "method",
+      "meaning": "Oxford 3000 · A2 · method"
+    },
+    {
+      "word": "middle",
+      "meaning": "Oxford 3000 · A2 · middle"
+    },
+    {
+      "word": "might",
+      "meaning": "Oxford 3000 · A2 · might"
+    },
+    {
+      "word": "mind",
+      "meaning": "Oxford 3000 · A2 · mind"
+    },
+    {
+      "word": "mine (belongs to me)",
+      "meaning": "Oxford 3000 · A2 · mine (belongs to me)"
+    },
+    {
+      "word": "mirror",
+      "meaning": "Oxford 3000 · A2 · mirror"
+    },
+    {
+      "word": "missing",
+      "meaning": "Oxford 3000 · A2 · missing"
+    },
+    {
+      "word": "mobile",
+      "meaning": "Oxford 3000 · A2 · mobile"
+    },
+    {
+      "word": "monkey",
+      "meaning": "Oxford 3000 · A2 · monkey"
+    },
+    {
+      "word": "moon",
+      "meaning": "Oxford 3000 · A2 · moon"
+    },
+    {
+      "word": "mostly",
+      "meaning": "Oxford 3000 · A2 · mostly"
+    },
+    {
+      "word": "motorcycle",
+      "meaning": "Oxford 3000 · A2 · motorcycle"
+    },
+    {
+      "word": "movement",
+      "meaning": "Oxford 3000 · A2 · movement"
+    },
+    {
+      "word": "myself",
+      "meaning": "Oxford 3000 · A2 · myself"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Sean (hobby friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

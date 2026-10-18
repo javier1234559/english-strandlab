@@ -1,0 +1,17 @@
+{
+  "words_by_level": {
+    "a1": 902,
+    "a2": 871,
+    "b1": 810,
+    "b2": 728
+  },
+  "stories_by_level": {
+    "a1": 16,
+    "a2": 15,
+    "b1": 14,
+    "b2": 13
+  },
+  "total_words": 3311,
+  "total_stories": 58,
+  "words_per_story": 56
+}

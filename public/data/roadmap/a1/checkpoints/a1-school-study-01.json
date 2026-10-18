@@ -1,0 +1,240 @@
+{
+  "id": "a1-school-study-01",
+  "level": "a1",
+  "topic": "school-study",
+  "topicLabel": "School & study",
+  "title": "Chapter 4: School & study",
+  "scene": "A school/study episode with Nathan: a challenge, teamwork, and something Javi learns beyond the lesson.",
+  "order": 4,
+  "characters": [
+    "javi",
+    "nathan"
+  ],
+  "vocab": [
+    {
+      "word": "Wednesday",
+      "meaning": "Oxford 3000 · A1 · Wednesday"
+    },
+    {
+      "word": "week",
+      "meaning": "Oxford 3000 · A1 · week"
+    },
+    {
+      "word": "weekend",
+      "meaning": "Oxford 3000 · A1 · weekend"
+    },
+    {
+      "word": "year",
+      "meaning": "Oxford 3000 · A1 · year"
+    },
+    {
+      "word": "yes",
+      "meaning": "Oxford 3000 · A1 · yes"
+    },
+    {
+      "word": "yesterday",
+      "meaning": "Oxford 3000 · A1 · yesterday"
+    },
+    {
+      "word": "answer",
+      "meaning": "Oxford 3000 · A1 · answer"
+    },
+    {
+      "word": "book",
+      "meaning": "Oxford 3000 · A1 · book"
+    },
+    {
+      "word": "class",
+      "meaning": "Oxford 3000 · A1 · class"
+    },
+    {
+      "word": "classroom",
+      "meaning": "Oxford 3000 · A1 · classroom"
+    },
+    {
+      "word": "college",
+      "meaning": "Oxford 3000 · A1 · college"
+    },
+    {
+      "word": "course",
+      "meaning": "Oxford 3000 · A1 · course"
+    },
+    {
+      "word": "dictionary",
+      "meaning": "Oxford 3000 · A1 · dictionary"
+    },
+    {
+      "word": "exam",
+      "meaning": "Oxford 3000 · A1 · exam"
+    },
+    {
+      "word": "example",
+      "meaning": "Oxford 3000 · A1 · example"
+    },
+    {
+      "word": "hi",
+      "meaning": "Oxford 3000 · A1 · hi"
+    },
+    {
+      "word": "his",
+      "meaning": "Oxford 3000 · A1 · his"
+    },
+    {
+      "word": "history",
+      "meaning": "Oxford 3000 · A1 · history"
+    },
+    {
+      "word": "learn",
+      "meaning": "Oxford 3000 · A1 · learn"
+    },
+    {
+      "word": "lesson",
+      "meaning": "Oxford 3000 · A1 · lesson"
+    },
+    {
+      "word": "library",
+      "meaning": "Oxford 3000 · A1 · library"
+    },
+    {
+      "word": "page",
+      "meaning": "Oxford 3000 · A1 · page"
+    },
+    {
+      "word": "pen",
+      "meaning": "Oxford 3000 · A1 · pen"
+    },
+    {
+      "word": "pencil",
+      "meaning": "Oxford 3000 · A1 · pencil"
+    },
+    {
+      "word": "question",
+      "meaning": "Oxford 3000 · A1 · question"
+    },
+    {
+      "word": "read",
+      "meaning": "Oxford 3000 · A1 · read"
+    },
+    {
+      "word": "reader",
+      "meaning": "Oxford 3000 · A1 · reader"
+    },
+    {
+      "word": "reading",
+      "meaning": "Oxford 3000 · A1 · reading"
+    },
+    {
+      "word": "ready",
+      "meaning": "Oxford 3000 · A1 · ready"
+    },
+    {
+      "word": "school",
+      "meaning": "Oxford 3000 · A1 · school"
+    },
+    {
+      "word": "science",
+      "meaning": "Oxford 3000 · A1 · science"
+    },
+    {
+      "word": "student",
+      "meaning": "Oxford 3000 · A1 · student"
+    },
+    {
+      "word": "study",
+      "meaning": "Oxford 3000 · A1 · study"
+    },
+    {
+      "word": "subject",
+      "meaning": "Oxford 3000 · A1 · subject"
+    },
+    {
+      "word": "teach",
+      "meaning": "Oxford 3000 · A1 · teach"
+    },
+    {
+      "word": "teacher",
+      "meaning": "Oxford 3000 · A1 · teacher"
+    },
+    {
+      "word": "test",
+      "meaning": "Oxford 3000 · A1 · test"
+    },
+    {
+      "word": "university",
+      "meaning": "Oxford 3000 · A1 · university"
+    },
+    {
+      "word": "write",
+      "meaning": "Oxford 3000 · A1 · write"
+    },
+    {
+      "word": "writer",
+      "meaning": "Oxford 3000 · A1 · writer"
+    },
+    {
+      "word": "bank (money)",
+      "meaning": "Oxford 3000 · A1 · bank (money)"
+    },
+    {
+      "word": "bus",
+      "meaning": "Oxford 3000 · A1 · bus"
+    },
+    {
+      "word": "business",
+      "meaning": "Oxford 3000 · A1 · business"
+    },
+    {
+      "word": "buy",
+      "meaning": "Oxford 3000 · A1 · buy"
+    },
+    {
+      "word": "car",
+      "meaning": "Oxford 3000 · A1 · car"
+    },
+    {
+      "word": "career",
+      "meaning": "Oxford 3000 · A1 · career"
+    },
+    {
+      "word": "company",
+      "meaning": "Oxford 3000 · A1 · company"
+    },
+    {
+      "word": "computer",
+      "meaning": "Oxford 3000 · A1 · computer"
+    },
+    {
+      "word": "customer",
+      "meaning": "Oxford 3000 · A1 · customer"
+    },
+    {
+      "word": "desk",
+      "meaning": "Oxford 3000 · A1 · desk"
+    },
+    {
+      "word": "email",
+      "meaning": "Oxford 3000 · A1 · email"
+    },
+    {
+      "word": "job",
+      "meaning": "Oxford 3000 · A1 · job"
+    },
+    {
+      "word": "market",
+      "meaning": "Oxford 3000 · A1 · market"
+    },
+    {
+      "word": "meet",
+      "meaning": "Oxford 3000 · A1 · meet"
+    },
+    {
+      "word": "meeting",
+      "meaning": "Oxford 3000 · A1 · meeting"
+    },
+    {
+      "word": "money",
+      "meaning": "Oxford 3000 · A1 · money"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Nathan (neighbour) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-05",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "A B2 story — Everyday mix",
+  "scene": "A flexible everyday episode with Sean: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 5,
+  "characters": [
+    "javi",
+    "sean"
+  ],
+  "vocab": [
+    {
+      "word": "dishonest",
+      "meaning": "Oxford 3000 · B2 · dishonest"
+    },
+    {
+      "word": "dismiss",
+      "meaning": "Oxford 3000 · B2 · dismiss"
+    },
+    {
+      "word": "display",
+      "meaning": "Oxford 3000 · B2 · display"
+    },
+    {
+      "word": "distribute",
+      "meaning": "Oxford 3000 · B2 · distribute"
+    },
+    {
+      "word": "distribution",
+      "meaning": "Oxford 3000 · B2 · distribution"
+    },
+    {
+      "word": "district",
+      "meaning": "Oxford 3000 · B2 · district"
+    },
+    {
+      "word": "divide",
+      "meaning": "Oxford 3000 · B2 · divide"
+    },
+    {
+      "word": "division",
+      "meaning": "Oxford 3000 · B2 · division"
+    },
+    {
+      "word": "document",
+      "meaning": "Oxford 3000 · B2 · document"
+    },
+    {
+      "word": "domestic",
+      "meaning": "Oxford 3000 · B2 · domestic"
+    },
+    {
+      "word": "dominate",
+      "meaning": "Oxford 3000 · B2 · dominate"
+    },
+    {
+      "word": "downwards",
+      "meaning": "Oxford 3000 · B2 · downwards"
+    },
+    {
+      "word": "dozen",
+      "meaning": "Oxford 3000 · B2 · dozen"
+    },
+    {
+      "word": "draft",
+      "meaning": "Oxford 3000 · B2 · draft"
+    },
+    {
+      "word": "drag",
+      "meaning": "Oxford 3000 · B2 · drag"
+    },
+    {
+      "word": "dramatic",
+      "meaning": "Oxford 3000 · B2 · dramatic"
+    },
+    {
+      "word": "edit",
+      "meaning": "Oxford 3000 · B2 · edit"
+    },
+    {
+      "word": "edition",
+      "meaning": "Oxford 3000 · B2 · edition"
+    },
+    {
+      "word": "efficient",
+      "meaning": "Oxford 3000 · B2 · efficient"
+    },
+    {
+      "word": "elderly",
+      "meaning": "Oxford 3000 · B2 · elderly"
+    },
+    {
+      "word": "elect",
+      "meaning": "Oxford 3000 · B2 · elect"
+    },
+    {
+      "word": "elsewhere",
+      "meaning": "Oxford 3000 · B2 · elsewhere"
+    },
+    {
+      "word": "emerge",
+      "meaning": "Oxford 3000 · B2 · emerge"
+    },
+    {
+      "word": "emotional",
+      "meaning": "Oxford 3000 · B2 · emotional"
+    },
+    {
+      "word": "emphasis",
+      "meaning": "Oxford 3000 · B2 · emphasis"
+    },
+    {
+      "word": "emphasize",
+      "meaning": "Oxford 3000 · B2 · emphasize"
+    },
+    {
+      "word": "enable",
+      "meaning": "Oxford 3000 · B2 · enable"
+    },
+    {
+      "word": "encounter",
+      "meaning": "Oxford 3000 · B2 · encounter"
+    },
+    {
+      "word": "engage",
+      "meaning": "Oxford 3000 · B2 · engage"
+    },
+    {
+      "word": "enhance",
+      "meaning": "Oxford 3000 · B2 · enhance"
+    },
+    {
+      "word": "enquiry",
+      "meaning": "Oxford 3000 · B2 · enquiry"
+    },
+    {
+      "word": "ensure",
+      "meaning": "Oxford 3000 · B2 · ensure"
+    },
+    {
+      "word": "enthusiasm",
+      "meaning": "Oxford 3000 · B2 · enthusiasm"
+    },
+    {
+      "word": "enthusiastic",
+      "meaning": "Oxford 3000 · B2 · enthusiastic"
+    },
+    {
+      "word": "entire",
+      "meaning": "Oxford 3000 · B2 · entire"
+    },
+    {
+      "word": "entirely",
+      "meaning": "Oxford 3000 · B2 · entirely"
+    },
+    {
+      "word": "equal",
+      "meaning": "Oxford 3000 · B2 · equal"
+    },
+    {
+      "word": "establish",
+      "meaning": "Oxford 3000 · B2 · establish"
+    },
+    {
+      "word": "estate",
+      "meaning": "Oxford 3000 · B2 · estate"
+    },
+    {
+      "word": "estimate",
+      "meaning": "Oxford 3000 · B2 · estimate"
+    },
+    {
+      "word": "ethical",
+      "meaning": "Oxford 3000 · B2 · ethical"
+    },
+    {
+      "word": "evaluate",
+      "meaning": "Oxford 3000 · B2 · evaluate"
+    },
+    {
+      "word": "evil",
+      "meaning": "Oxford 3000 · B2 · evil"
+    },
+    {
+      "word": "executive",
+      "meaning": "Oxford 3000 · B2 · executive"
+    },
+    {
+      "word": "existence",
+      "meaning": "Oxford 3000 · B2 · existence"
+    },
+    {
+      "word": "expectation",
+      "meaning": "Oxford 3000 · B2 · expectation"
+    },
+    {
+      "word": "expense",
+      "meaning": "Oxford 3000 · B2 · expense"
+    },
+    {
+      "word": "exploration",
+      "meaning": "Oxford 3000 · B2 · exploration"
+    },
+    {
+      "word": "expose",
+      "meaning": "Oxford 3000 · B2 · expose"
+    },
+    {
+      "word": "extend",
+      "meaning": "Oxford 3000 · B2 · extend"
+    },
+    {
+      "word": "extent",
+      "meaning": "Oxford 3000 · B2 · extent"
+    },
+    {
+      "word": "external",
+      "meaning": "Oxford 3000 · B2 · external"
+    },
+    {
+      "word": "extraordinary",
+      "meaning": "Oxford 3000 · B2 · extraordinary"
+    },
+    {
+      "word": "extreme",
+      "meaning": "Oxford 3000 · B2 · extreme"
+    },
+    {
+      "word": "facility",
+      "meaning": "Oxford 3000 · B2 · facility"
+    },
+    {
+      "word": "failure",
+      "meaning": "Oxford 3000 · B2 · failure"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Sean (hobby friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

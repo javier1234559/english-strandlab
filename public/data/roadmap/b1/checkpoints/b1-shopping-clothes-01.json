@@ -1,0 +1,240 @@
+{
+  "id": "b1-shopping-clothes-01",
+  "level": "b1",
+  "topic": "shopping-clothes",
+  "topicLabel": "Shopping & clothes",
+  "title": "Shopping & clothes with Anna",
+  "scene": "A shopping episode with Anna: choosing, comparing, a small dilemma, and a final decision.",
+  "order": 1,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "childhood",
+      "meaning": "Oxford 3000 · B1 · childhood"
+    },
+    {
+      "word": "friendship",
+      "meaning": "Oxford 3000 · B1 · friendship"
+    },
+    {
+      "word": "neighbourhood",
+      "meaning": "Oxford 3000 · B1 · neighbourhood"
+    },
+    {
+      "word": "personally",
+      "meaning": "Oxford 3000 · B1 · personally"
+    },
+    {
+      "word": "race (of people)",
+      "meaning": "Oxford 3000 · B1 · race (of people)"
+    },
+    {
+      "word": "apart",
+      "meaning": "Oxford 3000 · B1 · apart"
+    },
+    {
+      "word": "live",
+      "meaning": "Oxford 3000 · B1 · live"
+    },
+    {
+      "word": "win",
+      "meaning": "Oxford 3000 · B1 · win"
+    },
+    {
+      "word": "ban",
+      "meaning": "Oxford 3000 · B1 · ban"
+    },
+    {
+      "word": "bee",
+      "meaning": "Oxford 3000 · B1 · bee"
+    },
+    {
+      "word": "pot",
+      "meaning": "Oxford 3000 · B1 · pot"
+    },
+    {
+      "word": "water",
+      "meaning": "Oxford 3000 · B1 · water"
+    },
+    {
+      "word": "latest",
+      "meaning": "Oxford 3000 · B1 · latest"
+    },
+    {
+      "word": "secondary",
+      "meaning": "Oxford 3000 · B1 · secondary"
+    },
+    {
+      "word": "examine",
+      "meaning": "Oxford 3000 · B1 · examine"
+    },
+    {
+      "word": "client",
+      "meaning": "Oxford 3000 · B1 · client"
+    },
+    {
+      "word": "custom",
+      "meaning": "Oxford 3000 · B1 · custom"
+    },
+    {
+      "word": "market",
+      "meaning": "Oxford 3000 · B1 · market"
+    },
+    {
+      "word": "marketing",
+      "meaning": "Oxford 3000 · B1 · marketing"
+    },
+    {
+      "word": "store",
+      "meaning": "Oxford 3000 · B1 · store"
+    },
+    {
+      "word": "cheap",
+      "meaning": "Oxford 3000 · B1 · cheap"
+    },
+    {
+      "word": "cloth",
+      "meaning": "Oxford 3000 · B1 · cloth"
+    },
+    {
+      "word": "coloured",
+      "meaning": "Oxford 3000 · B1 · coloured"
+    },
+    {
+      "word": "costume",
+      "meaning": "Oxford 3000 · B1 · costume"
+    },
+    {
+      "word": "dressed",
+      "meaning": "Oxford 3000 · B1 · dressed"
+    },
+    {
+      "word": "fashionable",
+      "meaning": "Oxford 3000 · B1 · fashionable"
+    },
+    {
+      "word": "pan",
+      "meaning": "Oxford 3000 · B1 · pan"
+    },
+    {
+      "word": "AI",
+      "meaning": "Oxford 3000 · B1 · AI"
+    },
+    {
+      "word": "count",
+      "meaning": "Oxford 3000 · B1 · count"
+    },
+    {
+      "word": "countryside",
+      "meaning": "Oxford 3000 · B1 · countryside"
+    },
+    {
+      "word": "pass",
+      "meaning": "Oxford 3000 · B1 · pass"
+    },
+    {
+      "word": "tax",
+      "meaning": "Oxford 3000 · B1 · tax"
+    },
+    {
+      "word": "musical",
+      "meaning": "Oxford 3000 · B1 · musical"
+    },
+    {
+      "word": "photographer",
+      "meaning": "Oxford 3000 · B1 · photographer"
+    },
+    {
+      "word": "photography",
+      "meaning": "Oxford 3000 · B1 · photography"
+    },
+    {
+      "word": "swim",
+      "meaning": "Oxford 3000 · B1 · swim"
+    },
+    {
+      "word": "face",
+      "meaning": "Oxford 3000 · B1 · face"
+    },
+    {
+      "word": "hand",
+      "meaning": "Oxford 3000 · B1 · hand"
+    },
+    {
+      "word": "head",
+      "meaning": "Oxford 3000 · B1 · head"
+    },
+    {
+      "word": "headline",
+      "meaning": "Oxford 3000 · B1 · headline"
+    },
+    {
+      "word": "painful",
+      "meaning": "Oxford 3000 · B1 · painful"
+    },
+    {
+      "word": "agreement",
+      "meaning": "Oxford 3000 · B1 · agreement"
+    },
+    {
+      "word": "go",
+      "meaning": "Oxford 3000 · B1 · go"
+    },
+    {
+      "word": "goods",
+      "meaning": "Oxford 3000 · B1 · goods"
+    },
+    {
+      "word": "hate",
+      "meaning": "Oxford 3000 · B1 · hate"
+    },
+    {
+      "word": "like (find sb/sth pleasant)",
+      "meaning": "Oxford 3000 · B1 · like (find sb/sth pleasant)"
+    },
+    {
+      "word": "need",
+      "meaning": "Oxford 3000 · B1 · need"
+    },
+    {
+      "word": "needle",
+      "meaning": "Oxford 3000 · B1 · needle"
+    },
+    {
+      "word": "bank (river)",
+      "meaning": "Oxford 3000 · B1 · bank (river)"
+    },
+    {
+      "word": "cool",
+      "meaning": "Oxford 3000 · B1 · cool"
+    },
+    {
+      "word": "environmental",
+      "meaning": "Oxford 3000 · B1 · environmental"
+    },
+    {
+      "word": "flow",
+      "meaning": "Oxford 3000 · B1 · flow"
+    },
+    {
+      "word": "warm",
+      "meaning": "Oxford 3000 · B1 · warm"
+    },
+    {
+      "word": "lie (tell a lie)",
+      "meaning": "Oxford 3000 · B1 · lie (tell a lie)"
+    },
+    {
+      "word": "mess",
+      "meaning": "Oxford 3000 · B1 · mess"
+    },
+    {
+      "word": "economy",
+      "meaning": "Oxford 3000 · B1 · economy"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

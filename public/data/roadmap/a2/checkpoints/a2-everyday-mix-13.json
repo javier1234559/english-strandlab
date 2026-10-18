@@ -1,0 +1,364 @@
+{
+  "id": "a2-everyday-mix-13",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "A A2 story — Everyday mix",
+  "scene": "A flexible everyday episode with Sean: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 15,
+  "characters": [
+    "javi",
+    "sean"
+  ],
+  "vocab": [
+    {
+      "word": "successful",
+      "meaning": "Oxford 3000 · A2 · successful"
+    },
+    {
+      "word": "such",
+      "meaning": "Oxford 3000 · A2 · such"
+    },
+    {
+      "word": "suddenly",
+      "meaning": "Oxford 3000 · A2 · suddenly"
+    },
+    {
+      "word": "suggest",
+      "meaning": "Oxford 3000 · A2 · suggest"
+    },
+    {
+      "word": "suggestion",
+      "meaning": "Oxford 3000 · A2 · suggestion"
+    },
+    {
+      "word": "suit",
+      "meaning": "Oxford 3000 · A2 · suit"
+    },
+    {
+      "word": "support",
+      "meaning": "Oxford 3000 · A2 · support"
+    },
+    {
+      "word": "suppose",
+      "meaning": "Oxford 3000 · A2 · suppose"
+    },
+    {
+      "word": "sure",
+      "meaning": "Oxford 3000 · A2 · sure"
+    },
+    {
+      "word": "surprise",
+      "meaning": "Oxford 3000 · A2 · surprise"
+    },
+    {
+      "word": "surprised",
+      "meaning": "Oxford 3000 · A2 · surprised"
+    },
+    {
+      "word": "surprising",
+      "meaning": "Oxford 3000 · A2 · surprising"
+    },
+    {
+      "word": "survey",
+      "meaning": "Oxford 3000 · A2 · survey"
+    },
+    {
+      "word": "sweet",
+      "meaning": "Oxford 3000 · A2 · sweet"
+    },
+    {
+      "word": "symbol",
+      "meaning": "Oxford 3000 · A2 · symbol"
+    },
+    {
+      "word": "target",
+      "meaning": "Oxford 3000 · A2 · target"
+    },
+    {
+      "word": "task",
+      "meaning": "Oxford 3000 · A2 · task"
+    },
+    {
+      "word": "teaching",
+      "meaning": "Oxford 3000 · A2 · teaching"
+    },
+    {
+      "word": "teenage",
+      "meaning": "Oxford 3000 · A2 · teenage"
+    },
+    {
+      "word": "temperature",
+      "meaning": "Oxford 3000 · A2 · temperature"
+    },
+    {
+      "word": "term",
+      "meaning": "Oxford 3000 · A2 · term"
+    },
+    {
+      "word": "themselves",
+      "meaning": "Oxford 3000 · A2 · themselves"
+    },
+    {
+      "word": "thick",
+      "meaning": "Oxford 3000 · A2 · thick"
+    },
+    {
+      "word": "thief",
+      "meaning": "Oxford 3000 · A2 · thief"
+    },
+    {
+      "word": "third",
+      "meaning": "Oxford 3000 · A2 · third"
+    },
+    {
+      "word": "thought",
+      "meaning": "Oxford 3000 · A2 · thought"
+    },
+    {
+      "word": "throw",
+      "meaning": "Oxford 3000 · A2 · throw"
+    },
+    {
+      "word": "tidy",
+      "meaning": "Oxford 3000 · A2 · tidy"
+    },
+    {
+      "word": "tie",
+      "meaning": "Oxford 3000 · A2 · tie"
+    },
+    {
+      "word": "tip",
+      "meaning": "Oxford 3000 · A2 · tip"
+    },
+    {
+      "word": "tool",
+      "meaning": "Oxford 3000 · A2 · tool"
+    },
+    {
+      "word": "top",
+      "meaning": "Oxford 3000 · A2 · top"
+    },
+    {
+      "word": "touch",
+      "meaning": "Oxford 3000 · A2 · touch"
+    },
+    {
+      "word": "tour",
+      "meaning": "Oxford 3000 · A2 · tour"
+    },
+    {
+      "word": "tourism",
+      "meaning": "Oxford 3000 · A2 · tourism"
+    },
+    {
+      "word": "towards",
+      "meaning": "Oxford 3000 · A2 · towards"
+    },
+    {
+      "word": "towel",
+      "meaning": "Oxford 3000 · A2 · towel"
+    },
+    {
+      "word": "tower",
+      "meaning": "Oxford 3000 · A2 · tower"
+    },
+    {
+      "word": "toy",
+      "meaning": "Oxford 3000 · A2 · toy"
+    },
+    {
+      "word": "track",
+      "meaning": "Oxford 3000 · A2 · track"
+    },
+    {
+      "word": "transport",
+      "meaning": "Oxford 3000 · A2 · transport"
+    },
+    {
+      "word": "trouble",
+      "meaning": "Oxford 3000 · A2 · trouble"
+    },
+    {
+      "word": "truck",
+      "meaning": "Oxford 3000 · A2 · truck"
+    },
+    {
+      "word": "twin",
+      "meaning": "Oxford 3000 · A2 · twin"
+    },
+    {
+      "word": "typical",
+      "meaning": "Oxford 3000 · A2 · typical"
+    },
+    {
+      "word": "underground",
+      "meaning": "Oxford 3000 · A2 · underground"
+    },
+    {
+      "word": "unfortunately",
+      "meaning": "Oxford 3000 · A2 · unfortunately"
+    },
+    {
+      "word": "unhappy",
+      "meaning": "Oxford 3000 · A2 · unhappy"
+    },
+    {
+      "word": "uniform",
+      "meaning": "Oxford 3000 · A2 · uniform"
+    },
+    {
+      "word": "unit",
+      "meaning": "Oxford 3000 · A2 · unit"
+    },
+    {
+      "word": "united",
+      "meaning": "Oxford 3000 · A2 · united"
+    },
+    {
+      "word": "unusual",
+      "meaning": "Oxford 3000 · A2 · unusual"
+    },
+    {
+      "word": "upstairs",
+      "meaning": "Oxford 3000 · A2 · upstairs"
+    },
+    {
+      "word": "use",
+      "meaning": "Oxford 3000 · A2 · use"
+    },
+    {
+      "word": "used to",
+      "meaning": "Oxford 3000 · A2 · used to"
+    },
+    {
+      "word": "user",
+      "meaning": "Oxford 3000 · A2 · user"
+    },
+    {
+      "word": "valley",
+      "meaning": "Oxford 3000 · A2 · valley"
+    },
+    {
+      "word": "van",
+      "meaning": "Oxford 3000 · A2 · van"
+    },
+    {
+      "word": "variety",
+      "meaning": "Oxford 3000 · A2 · variety"
+    },
+    {
+      "word": "vehicle",
+      "meaning": "Oxford 3000 · A2 · vehicle"
+    },
+    {
+      "word": "view",
+      "meaning": "Oxford 3000 · A2 · view"
+    },
+    {
+      "word": "virus",
+      "meaning": "Oxford 3000 · A2 · virus"
+    },
+    {
+      "word": "voice",
+      "meaning": "Oxford 3000 · A2 · voice"
+    },
+    {
+      "word": "wait",
+      "meaning": "Oxford 3000 · A2 · wait"
+    },
+    {
+      "word": "wave",
+      "meaning": "Oxford 3000 · A2 · wave"
+    },
+    {
+      "word": "weak",
+      "meaning": "Oxford 3000 · A2 · weak"
+    },
+    {
+      "word": "web",
+      "meaning": "Oxford 3000 · A2 · web"
+    },
+    {
+      "word": "wedding",
+      "meaning": "Oxford 3000 · A2 · wedding"
+    },
+    {
+      "word": "weight",
+      "meaning": "Oxford 3000 · A2 · weight"
+    },
+    {
+      "word": "welcome",
+      "meaning": "Oxford 3000 · A2 · welcome"
+    },
+    {
+      "word": "wet",
+      "meaning": "Oxford 3000 · A2 · wet"
+    },
+    {
+      "word": "wheel",
+      "meaning": "Oxford 3000 · A2 · wheel"
+    },
+    {
+      "word": "while",
+      "meaning": "Oxford 3000 · A2 · while"
+    },
+    {
+      "word": "whole",
+      "meaning": "Oxford 3000 · A2 · whole"
+    },
+    {
+      "word": "whose",
+      "meaning": "Oxford 3000 · A2 · whose"
+    },
+    {
+      "word": "wide",
+      "meaning": "Oxford 3000 · A2 · wide"
+    },
+    {
+      "word": "wild",
+      "meaning": "Oxford 3000 · A2 · wild"
+    },
+    {
+      "word": "winner",
+      "meaning": "Oxford 3000 · A2 · winner"
+    },
+    {
+      "word": "wood",
+      "meaning": "Oxford 3000 · A2 · wood"
+    },
+    {
+      "word": "wooden",
+      "meaning": "Oxford 3000 · A2 · wooden"
+    },
+    {
+      "word": "worry",
+      "meaning": "Oxford 3000 · A2 · worry"
+    },
+    {
+      "word": "worse",
+      "meaning": "Oxford 3000 · A2 · worse"
+    },
+    {
+      "word": "worst",
+      "meaning": "Oxford 3000 · A2 · worst"
+    },
+    {
+      "word": "wow",
+      "meaning": "Oxford 3000 · A2 · wow"
+    },
+    {
+      "word": "yet",
+      "meaning": "Oxford 3000 · A2 · yet"
+    },
+    {
+      "word": "yours",
+      "meaning": "Oxford 3000 · A2 · yours"
+    },
+    {
+      "word": "zero",
+      "meaning": "Oxford 3000 · A2 · zero"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Sean (hobby friend) appears throughout. There are 87 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

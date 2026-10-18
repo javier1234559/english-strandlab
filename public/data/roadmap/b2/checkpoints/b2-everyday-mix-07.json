@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-07",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "When Easter changed the plan",
+  "scene": "A flexible everyday episode with Easter: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 7,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "holy",
+      "meaning": "Oxford 3000 · B2 · holy"
+    },
+    {
+      "word": "honour",
+      "meaning": "Oxford 3000 · B2 · honour"
+    },
+    {
+      "word": "host",
+      "meaning": "Oxford 3000 · B2 · host"
+    },
+    {
+      "word": "housing",
+      "meaning": "Oxford 3000 · B2 · housing"
+    },
+    {
+      "word": "however",
+      "meaning": "Oxford 3000 · B2 · however"
+    },
+    {
+      "word": "humorous",
+      "meaning": "Oxford 3000 · B2 · humorous"
+    },
+    {
+      "word": "humour",
+      "meaning": "Oxford 3000 · B2 · humour"
+    },
+    {
+      "word": "hunt",
+      "meaning": "Oxford 3000 · B2 · hunt"
+    },
+    {
+      "word": "hunting",
+      "meaning": "Oxford 3000 · B2 · hunting"
+    },
+    {
+      "word": "illustrate",
+      "meaning": "Oxford 3000 · B2 · illustrate"
+    },
+    {
+      "word": "illustration",
+      "meaning": "Oxford 3000 · B2 · illustration"
+    },
+    {
+      "word": "imagination",
+      "meaning": "Oxford 3000 · B2 · imagination"
+    },
+    {
+      "word": "impatient",
+      "meaning": "Oxford 3000 · B2 · impatient"
+    },
+    {
+      "word": "imply",
+      "meaning": "Oxford 3000 · B2 · imply"
+    },
+    {
+      "word": "impose",
+      "meaning": "Oxford 3000 · B2 · impose"
+    },
+    {
+      "word": "impress",
+      "meaning": "Oxford 3000 · B2 · impress"
+    },
+    {
+      "word": "impressed",
+      "meaning": "Oxford 3000 · B2 · impressed"
+    },
+    {
+      "word": "inch",
+      "meaning": "Oxford 3000 · B2 · inch"
+    },
+    {
+      "word": "incident",
+      "meaning": "Oxford 3000 · B2 · incident"
+    },
+    {
+      "word": "income",
+      "meaning": "Oxford 3000 · B2 · income"
+    },
+    {
+      "word": "increasingly",
+      "meaning": "Oxford 3000 · B2 · increasingly"
+    },
+    {
+      "word": "industrial",
+      "meaning": "Oxford 3000 · B2 · industrial"
+    },
+    {
+      "word": "infection",
+      "meaning": "Oxford 3000 · B2 · infection"
+    },
+    {
+      "word": "initial",
+      "meaning": "Oxford 3000 · B2 · initial"
+    },
+    {
+      "word": "initially",
+      "meaning": "Oxford 3000 · B2 · initially"
+    },
+    {
+      "word": "initiative",
+      "meaning": "Oxford 3000 · B2 · initiative"
+    },
+    {
+      "word": "inner",
+      "meaning": "Oxford 3000 · B2 · inner"
+    },
+    {
+      "word": "inquiry",
+      "meaning": "Oxford 3000 · B2 · inquiry"
+    },
+    {
+      "word": "insight",
+      "meaning": "Oxford 3000 · B2 · insight"
+    },
+    {
+      "word": "insist",
+      "meaning": "Oxford 3000 · B2 · insist"
+    },
+    {
+      "word": "inspire",
+      "meaning": "Oxford 3000 · B2 · inspire"
+    },
+    {
+      "word": "install",
+      "meaning": "Oxford 3000 · B2 · install"
+    },
+    {
+      "word": "instance",
+      "meaning": "Oxford 3000 · B2 · instance"
+    },
+    {
+      "word": "institute",
+      "meaning": "Oxford 3000 · B2 · institute"
+    },
+    {
+      "word": "institution",
+      "meaning": "Oxford 3000 · B2 · institution"
+    },
+    {
+      "word": "insurance",
+      "meaning": "Oxford 3000 · B2 · insurance"
+    },
+    {
+      "word": "intended",
+      "meaning": "Oxford 3000 · B2 · intended"
+    },
+    {
+      "word": "intense",
+      "meaning": "Oxford 3000 · B2 · intense"
+    },
+    {
+      "word": "internal",
+      "meaning": "Oxford 3000 · B2 · internal"
+    },
+    {
+      "word": "interpret",
+      "meaning": "Oxford 3000 · B2 · interpret"
+    },
+    {
+      "word": "interrupt",
+      "meaning": "Oxford 3000 · B2 · interrupt"
+    },
+    {
+      "word": "investigation",
+      "meaning": "Oxford 3000 · B2 · investigation"
+    },
+    {
+      "word": "investment",
+      "meaning": "Oxford 3000 · B2 · investment"
+    },
+    {
+      "word": "issue",
+      "meaning": "Oxford 3000 · B2 · issue"
+    },
+    {
+      "word": "joy",
+      "meaning": "Oxford 3000 · B2 · joy"
+    },
+    {
+      "word": "judgement",
+      "meaning": "Oxford 3000 · B2 · judgement"
+    },
+    {
+      "word": "junior",
+      "meaning": "Oxford 3000 · B2 · junior"
+    },
+    {
+      "word": "justice",
+      "meaning": "Oxford 3000 · B2 · justice"
+    },
+    {
+      "word": "justify",
+      "meaning": "Oxford 3000 · B2 · justify"
+    },
+    {
+      "word": "labour",
+      "meaning": "Oxford 3000 · B2 · labour"
+    },
+    {
+      "word": "landscape",
+      "meaning": "Oxford 3000 · B2 · landscape"
+    },
+    {
+      "word": "largely",
+      "meaning": "Oxford 3000 · B2 · largely"
+    },
+    {
+      "word": "launch",
+      "meaning": "Oxford 3000 · B2 · launch"
+    },
+    {
+      "word": "leadership",
+      "meaning": "Oxford 3000 · B2 · leadership"
+    },
+    {
+      "word": "league",
+      "meaning": "Oxford 3000 · B2 · league"
+    },
+    {
+      "word": "lean",
+      "meaning": "Oxford 3000 · B2 · lean"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

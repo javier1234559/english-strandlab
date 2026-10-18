@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-09",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Everyday mix with Anna",
+  "scene": "A flexible everyday episode with Anna: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 11,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "narrow",
+      "meaning": "Oxford 3000 · A2 · narrow"
+    },
+    {
+      "word": "national",
+      "meaning": "Oxford 3000 · A2 · national"
+    },
+    {
+      "word": "nearly",
+      "meaning": "Oxford 3000 · A2 · nearly"
+    },
+    {
+      "word": "necessary",
+      "meaning": "Oxford 3000 · A2 · necessary"
+    },
+    {
+      "word": "neck",
+      "meaning": "Oxford 3000 · A2 · neck"
+    },
+    {
+      "word": "neither",
+      "meaning": "Oxford 3000 · A2 · neither"
+    },
+    {
+      "word": "nervous",
+      "meaning": "Oxford 3000 · A2 · nervous"
+    },
+    {
+      "word": "network",
+      "meaning": "Oxford 3000 · A2 · network"
+    },
+    {
+      "word": "noise",
+      "meaning": "Oxford 3000 · A2 · noise"
+    },
+    {
+      "word": "noisy",
+      "meaning": "Oxford 3000 · A2 · noisy"
+    },
+    {
+      "word": "none",
+      "meaning": "Oxford 3000 · A2 · none"
+    },
+    {
+      "word": "normal",
+      "meaning": "Oxford 3000 · A2 · normal"
+    },
+    {
+      "word": "normally",
+      "meaning": "Oxford 3000 · A2 · normally"
+    },
+    {
+      "word": "notice",
+      "meaning": "Oxford 3000 · A2 · notice"
+    },
+    {
+      "word": "novel",
+      "meaning": "Oxford 3000 · A2 · novel"
+    },
+    {
+      "word": "nowhere",
+      "meaning": "Oxford 3000 · A2 · nowhere"
+    },
+    {
+      "word": "number",
+      "meaning": "Oxford 3000 · A2 · number"
+    },
+    {
+      "word": "nut",
+      "meaning": "Oxford 3000 · A2 · nut"
+    },
+    {
+      "word": "ocean",
+      "meaning": "Oxford 3000 · A2 · ocean"
+    },
+    {
+      "word": "offer",
+      "meaning": "Oxford 3000 · A2 · offer"
+    },
+    {
+      "word": "oil",
+      "meaning": "Oxford 3000 · A2 · oil"
+    },
+    {
+      "word": "onto",
+      "meaning": "Oxford 3000 · A2 · onto"
+    },
+    {
+      "word": "opportunity",
+      "meaning": "Oxford 3000 · A2 · opportunity"
+    },
+    {
+      "word": "option",
+      "meaning": "Oxford 3000 · A2 · option"
+    },
+    {
+      "word": "ordinary",
+      "meaning": "Oxford 3000 · A2 · ordinary"
+    },
+    {
+      "word": "organization",
+      "meaning": "Oxford 3000 · A2 · organization"
+    },
+    {
+      "word": "organize",
+      "meaning": "Oxford 3000 · A2 · organize"
+    },
+    {
+      "word": "original",
+      "meaning": "Oxford 3000 · A2 · original"
+    },
+    {
+      "word": "ourselves",
+      "meaning": "Oxford 3000 · A2 · ourselves"
+    },
+    {
+      "word": "outside",
+      "meaning": "Oxford 3000 · A2 · outside"
+    },
+    {
+      "word": "oven",
+      "meaning": "Oxford 3000 · A2 · oven"
+    },
+    {
+      "word": "own",
+      "meaning": "Oxford 3000 · A2 · own"
+    },
+    {
+      "word": "owner",
+      "meaning": "Oxford 3000 · A2 · owner"
+    },
+    {
+      "word": "pack",
+      "meaning": "Oxford 3000 · A2 · pack"
+    },
+    {
+      "word": "palace",
+      "meaning": "Oxford 3000 · A2 · palace"
+    },
+    {
+      "word": "particular",
+      "meaning": "Oxford 3000 · A2 · particular"
+    },
+    {
+      "word": "patient",
+      "meaning": "Oxford 3000 · A2 · patient"
+    },
+    {
+      "word": "pattern",
+      "meaning": "Oxford 3000 · A2 · pattern"
+    },
+    {
+      "word": "peace",
+      "meaning": "Oxford 3000 · A2 · peace"
+    },
+    {
+      "word": "penny",
+      "meaning": "Oxford 3000 · A2 · penny"
+    },
+    {
+      "word": "per cent noun.",
+      "meaning": "Oxford 3000 · A2 · per cent noun."
+    },
+    {
+      "word": "perform",
+      "meaning": "Oxford 3000 · A2 · perform"
+    },
+    {
+      "word": "perhaps",
+      "meaning": "Oxford 3000 · A2 · perhaps"
+    },
+    {
+      "word": "permission",
+      "meaning": "Oxford 3000 · A2 · permission"
+    },
+    {
+      "word": "pet",
+      "meaning": "Oxford 3000 · A2 · pet"
+    },
+    {
+      "word": "petrol",
+      "meaning": "Oxford 3000 · A2 · petrol"
+    },
+    {
+      "word": "physical",
+      "meaning": "Oxford 3000 · A2 · physical"
+    },
+    {
+      "word": "physics",
+      "meaning": "Oxford 3000 · A2 · physics"
+    },
+    {
+      "word": "pick",
+      "meaning": "Oxford 3000 · A2 · pick"
+    },
+    {
+      "word": "pilot",
+      "meaning": "Oxford 3000 · A2 · pilot"
+    },
+    {
+      "word": "plant",
+      "meaning": "Oxford 3000 · A2 · plant"
+    },
+    {
+      "word": "plastic",
+      "meaning": "Oxford 3000 · A2 · plastic"
+    },
+    {
+      "word": "plate",
+      "meaning": "Oxford 3000 · A2 · plate"
+    },
+    {
+      "word": "platform",
+      "meaning": "Oxford 3000 · A2 · platform"
+    },
+    {
+      "word": "pocket",
+      "meaning": "Oxford 3000 · A2 · pocket"
+    },
+    {
+      "word": "polite",
+      "meaning": "Oxford 3000 · A2 · polite"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

@@ -1,0 +1,240 @@
+{
+  "id": "a2-transport-travel-01",
+  "level": "a2",
+  "topic": "transport-travel",
+  "topicLabel": "Transport & travel",
+  "title": "When Easter changed the plan",
+  "scene": "A travel/transport episode with Easter: a journey, something that goes wrong, and how they get through it.",
+  "order": 2,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "abroad",
+      "meaning": "Oxford 3000 · A2 · abroad"
+    },
+    {
+      "word": "count",
+      "meaning": "Oxford 3000 · A2 · count"
+    },
+    {
+      "word": "drive",
+      "meaning": "Oxford 3000 · A2 · drive"
+    },
+    {
+      "word": "fly",
+      "meaning": "Oxford 3000 · A2 · fly"
+    },
+    {
+      "word": "pass",
+      "meaning": "Oxford 3000 · A2 · pass"
+    },
+    {
+      "word": "passenger",
+      "meaning": "Oxford 3000 · A2 · passenger"
+    },
+    {
+      "word": "planet",
+      "meaning": "Oxford 3000 · A2 · planet"
+    },
+    {
+      "word": "train",
+      "meaning": "Oxford 3000 · A2 · train"
+    },
+    {
+      "word": "trainer",
+      "meaning": "Oxford 3000 · A2 · trainer"
+    },
+    {
+      "word": "training",
+      "meaning": "Oxford 3000 · A2 · training"
+    },
+    {
+      "word": "traveller",
+      "meaning": "Oxford 3000 · A2 · traveller"
+    },
+    {
+      "word": "film",
+      "meaning": "Oxford 3000 · A2 · film"
+    },
+    {
+      "word": "fun",
+      "meaning": "Oxford 3000 · A2 · fun"
+    },
+    {
+      "word": "listener",
+      "meaning": "Oxford 3000 · A2 · listener"
+    },
+    {
+      "word": "musical",
+      "meaning": "Oxford 3000 · A2 · musical"
+    },
+    {
+      "word": "musician",
+      "meaning": "Oxford 3000 · A2 · musician"
+    },
+    {
+      "word": "photograph",
+      "meaning": "Oxford 3000 · A2 · photograph"
+    },
+    {
+      "word": "rock (music)",
+      "meaning": "Oxford 3000 · A2 · rock (music)"
+    },
+    {
+      "word": "run",
+      "meaning": "Oxford 3000 · A2 · run"
+    },
+    {
+      "word": "running",
+      "meaning": "Oxford 3000 · A2 · running"
+    },
+    {
+      "word": "fit",
+      "meaning": "Oxford 3000 · A2 · fit"
+    },
+    {
+      "word": "headache",
+      "meaning": "Oxford 3000 · A2 · headache"
+    },
+    {
+      "word": "hurt",
+      "meaning": "Oxford 3000 · A2 · hurt"
+    },
+    {
+      "word": "ill",
+      "meaning": "Oxford 3000 · A2 · ill"
+    },
+    {
+      "word": "medicine",
+      "meaning": "Oxford 3000 · A2 · medicine"
+    },
+    {
+      "word": "pain",
+      "meaning": "Oxford 3000 · A2 · pain"
+    },
+    {
+      "word": "painter",
+      "meaning": "Oxford 3000 · A2 · painter"
+    },
+    {
+      "word": "disagree",
+      "meaning": "Oxford 3000 · A2 · disagree"
+    },
+    {
+      "word": "good",
+      "meaning": "Oxford 3000 · A2 · good"
+    },
+    {
+      "word": "hope",
+      "meaning": "Oxford 3000 · A2 · hope"
+    },
+    {
+      "word": "ideal",
+      "meaning": "Oxford 3000 · A2 · ideal"
+    },
+    {
+      "word": "likely",
+      "meaning": "Oxford 3000 · A2 · likely"
+    },
+    {
+      "word": "lovely",
+      "meaning": "Oxford 3000 · A2 · lovely"
+    },
+    {
+      "word": "need",
+      "meaning": "Oxford 3000 · A2 · need"
+    },
+    {
+      "word": "thin",
+      "meaning": "Oxford 3000 · A2 · thin"
+    },
+    {
+      "word": "thinking",
+      "meaning": "Oxford 3000 · A2 · thinking"
+    },
+    {
+      "word": "wish",
+      "meaning": "Oxford 3000 · A2 · wish"
+    },
+    {
+      "word": "worried",
+      "meaning": "Oxford 3000 · A2 · worried"
+    },
+    {
+      "word": "bear (animal)",
+      "meaning": "Oxford 3000 · A2 · bear (animal)"
+    },
+    {
+      "word": "cloud",
+      "meaning": "Oxford 3000 · A2 · cloud"
+    },
+    {
+      "word": "environment",
+      "meaning": "Oxford 3000 · A2 · environment"
+    },
+    {
+      "word": "nature",
+      "meaning": "Oxford 3000 · A2 · nature"
+    },
+    {
+      "word": "parking",
+      "meaning": "Oxford 3000 · A2 · parking"
+    },
+    {
+      "word": "war",
+      "meaning": "Oxford 3000 · A2 · war"
+    },
+    {
+      "word": "please",
+      "meaning": "Oxford 3000 · A2 · please"
+    },
+    {
+      "word": "pleased",
+      "meaning": "Oxford 3000 · A2 · pleased"
+    },
+    {
+      "word": "speaker",
+      "meaning": "Oxford 3000 · A2 · speaker"
+    },
+    {
+      "word": "talk",
+      "meaning": "Oxford 3000 · A2 · talk"
+    },
+    {
+      "word": "understanding",
+      "meaning": "Oxford 3000 · A2 · understanding"
+    },
+    {
+      "word": "community",
+      "meaning": "Oxford 3000 · A2 · community"
+    },
+    {
+      "word": "decision",
+      "meaning": "Oxford 3000 · A2 · decision"
+    },
+    {
+      "word": "factor",
+      "meaning": "Oxford 3000 · A2 · factor"
+    },
+    {
+      "word": "factory",
+      "meaning": "Oxford 3000 · A2 · factory"
+    },
+    {
+      "word": "future",
+      "meaning": "Oxford 3000 · A2 · future"
+    },
+    {
+      "word": "government",
+      "meaning": "Oxford 3000 · A2 · government"
+    },
+    {
+      "word": "law",
+      "meaning": "Oxford 3000 · A2 · law"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

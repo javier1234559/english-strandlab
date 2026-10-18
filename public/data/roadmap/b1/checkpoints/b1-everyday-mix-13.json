@@ -1,0 +1,344 @@
+{
+  "id": "b1-everyday-mix-13",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Chapter 14: Everyday mix",
+  "scene": "A flexible everyday episode with Nathan: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 14,
+  "characters": [
+    "javi",
+    "nathan"
+  ],
+  "vocab": [
+    {
+      "word": "this",
+      "meaning": "Oxford 3000 · B1 · this"
+    },
+    {
+      "word": "though",
+      "meaning": "Oxford 3000 · B1 · though"
+    },
+    {
+      "word": "throat",
+      "meaning": "Oxford 3000 · B1 · throat"
+    },
+    {
+      "word": "throughout",
+      "meaning": "Oxford 3000 · B1 · throughout"
+    },
+    {
+      "word": "tight",
+      "meaning": "Oxford 3000 · B1 · tight"
+    },
+    {
+      "word": "till",
+      "meaning": "Oxford 3000 · B1 · till"
+    },
+    {
+      "word": "tin",
+      "meaning": "Oxford 3000 · B1 · tin"
+    },
+    {
+      "word": "tiny",
+      "meaning": "Oxford 3000 · B1 · tiny"
+    },
+    {
+      "word": "tip",
+      "meaning": "Oxford 3000 · B1 · tip"
+    },
+    {
+      "word": "toe",
+      "meaning": "Oxford 3000 · B1 · toe"
+    },
+    {
+      "word": "tongue",
+      "meaning": "Oxford 3000 · B1 · tongue"
+    },
+    {
+      "word": "total",
+      "meaning": "Oxford 3000 · B1 · total"
+    },
+    {
+      "word": "totally",
+      "meaning": "Oxford 3000 · B1 · totally"
+    },
+    {
+      "word": "touch",
+      "meaning": "Oxford 3000 · B1 · touch"
+    },
+    {
+      "word": "tour",
+      "meaning": "Oxford 3000 · B1 · tour"
+    },
+    {
+      "word": "trade",
+      "meaning": "Oxford 3000 · B1 · trade"
+    },
+    {
+      "word": "translate",
+      "meaning": "Oxford 3000 · B1 · translate"
+    },
+    {
+      "word": "translation",
+      "meaning": "Oxford 3000 · B1 · translation"
+    },
+    {
+      "word": "transport",
+      "meaning": "Oxford 3000 · B1 · transport"
+    },
+    {
+      "word": "treat",
+      "meaning": "Oxford 3000 · B1 · treat"
+    },
+    {
+      "word": "treatment",
+      "meaning": "Oxford 3000 · B1 · treatment"
+    },
+    {
+      "word": "trend",
+      "meaning": "Oxford 3000 · B1 · trend"
+    },
+    {
+      "word": "trick",
+      "meaning": "Oxford 3000 · B1 · trick"
+    },
+    {
+      "word": "tube",
+      "meaning": "Oxford 3000 · B1 · tube"
+    },
+    {
+      "word": "type",
+      "meaning": "Oxford 3000 · B1 · type"
+    },
+    {
+      "word": "typically",
+      "meaning": "Oxford 3000 · B1 · typically"
+    },
+    {
+      "word": "tyre",
+      "meaning": "Oxford 3000 · B1 · tyre"
+    },
+    {
+      "word": "ugly",
+      "meaning": "Oxford 3000 · B1 · ugly"
+    },
+    {
+      "word": "unable",
+      "meaning": "Oxford 3000 · B1 · unable"
+    },
+    {
+      "word": "uncomfortable",
+      "meaning": "Oxford 3000 · B1 · uncomfortable"
+    },
+    {
+      "word": "underwear",
+      "meaning": "Oxford 3000 · B1 · underwear"
+    },
+    {
+      "word": "unemployed",
+      "meaning": "Oxford 3000 · B1 · unemployed"
+    },
+    {
+      "word": "unemployment",
+      "meaning": "Oxford 3000 · B1 · unemployment"
+    },
+    {
+      "word": "unfair",
+      "meaning": "Oxford 3000 · B1 · unfair"
+    },
+    {
+      "word": "union",
+      "meaning": "Oxford 3000 · B1 · union"
+    },
+    {
+      "word": "unless",
+      "meaning": "Oxford 3000 · B1 · unless"
+    },
+    {
+      "word": "unlike",
+      "meaning": "Oxford 3000 · B1 · unlike"
+    },
+    {
+      "word": "unlikely",
+      "meaning": "Oxford 3000 · B1 · unlikely"
+    },
+    {
+      "word": "unnecessary",
+      "meaning": "Oxford 3000 · B1 · unnecessary"
+    },
+    {
+      "word": "unpleasant",
+      "meaning": "Oxford 3000 · B1 · unpleasant"
+    },
+    {
+      "word": "update",
+      "meaning": "Oxford 3000 · B1 · update"
+    },
+    {
+      "word": "upset",
+      "meaning": "Oxford 3000 · B1 · upset"
+    },
+    {
+      "word": "used",
+      "meaning": "Oxford 3000 · B1 · used"
+    },
+    {
+      "word": "used to",
+      "meaning": "Oxford 3000 · B1 · used to"
+    },
+    {
+      "word": "valuable",
+      "meaning": "Oxford 3000 · B1 · valuable"
+    },
+    {
+      "word": "value",
+      "meaning": "Oxford 3000 · B1 · value"
+    },
+    {
+      "word": "various",
+      "meaning": "Oxford 3000 · B1 · various"
+    },
+    {
+      "word": "version",
+      "meaning": "Oxford 3000 · B1 · version"
+    },
+    {
+      "word": "victim",
+      "meaning": "Oxford 3000 · B1 · victim"
+    },
+    {
+      "word": "view",
+      "meaning": "Oxford 3000 · B1 · view"
+    },
+    {
+      "word": "viewer",
+      "meaning": "Oxford 3000 · B1 · viewer"
+    },
+    {
+      "word": "violent",
+      "meaning": "Oxford 3000 · B1 · violent"
+    },
+    {
+      "word": "volunteer",
+      "meaning": "Oxford 3000 · B1 · volunteer"
+    },
+    {
+      "word": "vote",
+      "meaning": "Oxford 3000 · B1 · vote"
+    },
+    {
+      "word": "warn",
+      "meaning": "Oxford 3000 · B1 · warn"
+    },
+    {
+      "word": "warning",
+      "meaning": "Oxford 3000 · B1 · warning"
+    },
+    {
+      "word": "waste",
+      "meaning": "Oxford 3000 · B1 · waste"
+    },
+    {
+      "word": "wave",
+      "meaning": "Oxford 3000 · B1 · wave"
+    },
+    {
+      "word": "weapon",
+      "meaning": "Oxford 3000 · B1 · weapon"
+    },
+    {
+      "word": "weigh",
+      "meaning": "Oxford 3000 · B1 · weigh"
+    },
+    {
+      "word": "western",
+      "meaning": "Oxford 3000 · B1 · western"
+    },
+    {
+      "word": "whatever",
+      "meaning": "Oxford 3000 · B1 · whatever"
+    },
+    {
+      "word": "whenever",
+      "meaning": "Oxford 3000 · B1 · whenever"
+    },
+    {
+      "word": "whether",
+      "meaning": "Oxford 3000 · B1 · whether"
+    },
+    {
+      "word": "while",
+      "meaning": "Oxford 3000 · B1 · while"
+    },
+    {
+      "word": "whole",
+      "meaning": "Oxford 3000 · B1 · whole"
+    },
+    {
+      "word": "Wi-Fi™",
+      "meaning": "Oxford 3000 · B1 · Wi-Fi™"
+    },
+    {
+      "word": "will",
+      "meaning": "Oxford 3000 · B1 · will"
+    },
+    {
+      "word": "wing",
+      "meaning": "Oxford 3000 · B1 · wing"
+    },
+    {
+      "word": "within",
+      "meaning": "Oxford 3000 · B1 · within"
+    },
+    {
+      "word": "wonder",
+      "meaning": "Oxford 3000 · B1 · wonder"
+    },
+    {
+      "word": "wool",
+      "meaning": "Oxford 3000 · B1 · wool"
+    },
+    {
+      "word": "worldwide",
+      "meaning": "Oxford 3000 · B1 · worldwide"
+    },
+    {
+      "word": "worry",
+      "meaning": "Oxford 3000 · B1 · worry"
+    },
+    {
+      "word": "worse",
+      "meaning": "Oxford 3000 · B1 · worse"
+    },
+    {
+      "word": "worst",
+      "meaning": "Oxford 3000 · B1 · worst"
+    },
+    {
+      "word": "worth",
+      "meaning": "Oxford 3000 · B1 · worth"
+    },
+    {
+      "word": "written",
+      "meaning": "Oxford 3000 · B1 · written"
+    },
+    {
+      "word": "wrong",
+      "meaning": "Oxford 3000 · B1 · wrong"
+    },
+    {
+      "word": "yard",
+      "meaning": "Oxford 3000 · B1 · yard"
+    },
+    {
+      "word": "young",
+      "meaning": "Oxford 3000 · B1 · young"
+    },
+    {
+      "word": "youth",
+      "meaning": "Oxford 3000 · B1 · youth"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Nathan (neighbour) appears throughout. There are 82 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

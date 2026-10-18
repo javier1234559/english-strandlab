@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-01",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "When Easter changed the plan",
+  "scene": "A flexible everyday episode with Easter: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 2,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "politics",
+      "meaning": "Oxford 3000 · B1 · politics"
+    },
+    {
+      "word": "presentation",
+      "meaning": "Oxford 3000 · B1 · presentation"
+    },
+    {
+      "word": "religion",
+      "meaning": "Oxford 3000 · B1 · religion"
+    },
+    {
+      "word": "risk",
+      "meaning": "Oxford 3000 · B1 · risk"
+    },
+    {
+      "word": "truth",
+      "meaning": "Oxford 3000 · B1 · truth"
+    },
+    {
+      "word": "about",
+      "meaning": "Oxford 3000 · B1 · about"
+    },
+    {
+      "word": "absolutely",
+      "meaning": "Oxford 3000 · B1 · absolutely"
+    },
+    {
+      "word": "academic",
+      "meaning": "Oxford 3000 · B1 · academic"
+    },
+    {
+      "word": "access",
+      "meaning": "Oxford 3000 · B1 · access"
+    },
+    {
+      "word": "accommodation",
+      "meaning": "Oxford 3000 · B1 · accommodation"
+    },
+    {
+      "word": "account",
+      "meaning": "Oxford 3000 · B1 · account"
+    },
+    {
+      "word": "achievement",
+      "meaning": "Oxford 3000 · B1 · achievement"
+    },
+    {
+      "word": "act",
+      "meaning": "Oxford 3000 · B1 · act"
+    },
+    {
+      "word": "ad",
+      "meaning": "Oxford 3000 · B1 · ad"
+    },
+    {
+      "word": "addition",
+      "meaning": "Oxford 3000 · B1 · addition"
+    },
+    {
+      "word": "admire",
+      "meaning": "Oxford 3000 · B1 · admire"
+    },
+    {
+      "word": "admit",
+      "meaning": "Oxford 3000 · B1 · admit"
+    },
+    {
+      "word": "advanced",
+      "meaning": "Oxford 3000 · B1 · advanced"
+    },
+    {
+      "word": "advise",
+      "meaning": "Oxford 3000 · B1 · advise"
+    },
+    {
+      "word": "afford",
+      "meaning": "Oxford 3000 · B1 · afford"
+    },
+    {
+      "word": "age",
+      "meaning": "Oxford 3000 · B1 · age"
+    },
+    {
+      "word": "aged",
+      "meaning": "Oxford 3000 · B1 · aged"
+    },
+    {
+      "word": "agent",
+      "meaning": "Oxford 3000 · B1 · agent"
+    },
+    {
+      "word": "ahead",
+      "meaning": "Oxford 3000 · B1 · ahead"
+    },
+    {
+      "word": "aim",
+      "meaning": "Oxford 3000 · B1 · aim"
+    },
+    {
+      "word": "alarm",
+      "meaning": "Oxford 3000 · B1 · alarm"
+    },
+    {
+      "word": "album",
+      "meaning": "Oxford 3000 · B1 · album"
+    },
+    {
+      "word": "alcohol",
+      "meaning": "Oxford 3000 · B1 · alcohol"
+    },
+    {
+      "word": "alcoholic",
+      "meaning": "Oxford 3000 · B1 · alcoholic"
+    },
+    {
+      "word": "alternative",
+      "meaning": "Oxford 3000 · B1 · alternative"
+    },
+    {
+      "word": "amazed",
+      "meaning": "Oxford 3000 · B1 · amazed"
+    },
+    {
+      "word": "ambition",
+      "meaning": "Oxford 3000 · B1 · ambition"
+    },
+    {
+      "word": "ambitious",
+      "meaning": "Oxford 3000 · B1 · ambitious"
+    },
+    {
+      "word": "analyse",
+      "meaning": "Oxford 3000 · B1 · analyse"
+    },
+    {
+      "word": "analysis",
+      "meaning": "Oxford 3000 · B1 · analysis"
+    },
+    {
+      "word": "announce",
+      "meaning": "Oxford 3000 · B1 · announce"
+    },
+    {
+      "word": "announcement",
+      "meaning": "Oxford 3000 · B1 · announcement"
+    },
+    {
+      "word": "annoy",
+      "meaning": "Oxford 3000 · B1 · annoy"
+    },
+    {
+      "word": "annoyed",
+      "meaning": "Oxford 3000 · B1 · annoyed"
+    },
+    {
+      "word": "annoying",
+      "meaning": "Oxford 3000 · B1 · annoying"
+    },
+    {
+      "word": "apologize",
+      "meaning": "Oxford 3000 · B1 · apologize"
+    },
+    {
+      "word": "application",
+      "meaning": "Oxford 3000 · B1 · application"
+    },
+    {
+      "word": "appointment",
+      "meaning": "Oxford 3000 · B1 · appointment"
+    },
+    {
+      "word": "appreciate",
+      "meaning": "Oxford 3000 · B1 · appreciate"
+    },
+    {
+      "word": "approximately",
+      "meaning": "Oxford 3000 · B1 · approximately"
+    },
+    {
+      "word": "arrest",
+      "meaning": "Oxford 3000 · B1 · arrest"
+    },
+    {
+      "word": "arrival",
+      "meaning": "Oxford 3000 · B1 · arrival"
+    },
+    {
+      "word": "assignment",
+      "meaning": "Oxford 3000 · B1 · assignment"
+    },
+    {
+      "word": "assist",
+      "meaning": "Oxford 3000 · B1 · assist"
+    },
+    {
+      "word": "atmosphere",
+      "meaning": "Oxford 3000 · B1 · atmosphere"
+    },
+    {
+      "word": "attach",
+      "meaning": "Oxford 3000 · B1 · attach"
+    },
+    {
+      "word": "attitude",
+      "meaning": "Oxford 3000 · B1 · attitude"
+    },
+    {
+      "word": "attract",
+      "meaning": "Oxford 3000 · B1 · attract"
+    },
+    {
+      "word": "attraction",
+      "meaning": "Oxford 3000 · B1 · attraction"
+    },
+    {
+      "word": "authority",
+      "meaning": "Oxford 3000 · B1 · authority"
+    },
+    {
+      "word": "average",
+      "meaning": "Oxford 3000 · B1 · average"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

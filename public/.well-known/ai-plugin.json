@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "English StrandLab",
+  "name_for_model": "english_strandlab",
+  "description_for_human": "Your personal English learning system. Manage lessons, save vocabulary, track writing and speaking progress across four learning strands.",
+  "description_for_model": "English StrandLab is a personal English learning app built on Paul Nation's Four Strands framework. Use this plugin to: (1) list all lessons in the learning roadmap, (2) get the full details of any lesson including saved vocabulary, writing output, and fluency notes, (3) save learning progress for any of the four strands after completing activities with the learner, and (4) mark lessons complete to schedule spaced repetition review. Always start a session by calling listLessons or getStats to understand the learner's current progress. After saving data, remind the user to click Sync in the app to see the latest changes.",
+  "auth": {
+    "type": "user_http",
+    "authorization_type": "bearer"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "REPLACE_WITH_YOUR_DEPLOYED_URL/api/mcp/openapi"
+  },
+  "logo_url": "REPLACE_WITH_YOUR_DEPLOYED_URL/favicon.ico",
+  "contact_email": "tech1234559@email.com",
+  "legal_info_url": "REPLACE_WITH_YOUR_DEPLOYED_URL"
+}

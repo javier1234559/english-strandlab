@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-10",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "When Easter changed the plan",
+  "scene": "A flexible everyday episode with Easter: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 12,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "pollution",
+      "meaning": "Oxford 3000 · A2 · pollution"
+    },
+    {
+      "word": "pop",
+      "meaning": "Oxford 3000 · A2 · pop"
+    },
+    {
+      "word": "population",
+      "meaning": "Oxford 3000 · A2 · population"
+    },
+    {
+      "word": "position",
+      "meaning": "Oxford 3000 · A2 · position"
+    },
+    {
+      "word": "possession",
+      "meaning": "Oxford 3000 · A2 · possession"
+    },
+    {
+      "word": "possibility",
+      "meaning": "Oxford 3000 · A2 · possibility"
+    },
+    {
+      "word": "poster",
+      "meaning": "Oxford 3000 · A2 · poster"
+    },
+    {
+      "word": "power",
+      "meaning": "Oxford 3000 · A2 · power"
+    },
+    {
+      "word": "predict",
+      "meaning": "Oxford 3000 · A2 · predict"
+    },
+    {
+      "word": "president",
+      "meaning": "Oxford 3000 · A2 · president"
+    },
+    {
+      "word": "prevent",
+      "meaning": "Oxford 3000 · A2 · prevent"
+    },
+    {
+      "word": "print",
+      "meaning": "Oxford 3000 · A2 · print"
+    },
+    {
+      "word": "printer",
+      "meaning": "Oxford 3000 · A2 · printer"
+    },
+    {
+      "word": "prison",
+      "meaning": "Oxford 3000 · A2 · prison"
+    },
+    {
+      "word": "prize",
+      "meaning": "Oxford 3000 · A2 · prize"
+    },
+    {
+      "word": "process",
+      "meaning": "Oxford 3000 · A2 · process"
+    },
+    {
+      "word": "produce",
+      "meaning": "Oxford 3000 · A2 · produce"
+    },
+    {
+      "word": "professional",
+      "meaning": "Oxford 3000 · A2 · professional"
+    },
+    {
+      "word": "professor",
+      "meaning": "Oxford 3000 · A2 · professor"
+    },
+    {
+      "word": "profile",
+      "meaning": "Oxford 3000 · A2 · profile"
+    },
+    {
+      "word": "program",
+      "meaning": "Oxford 3000 · A2 · program"
+    },
+    {
+      "word": "progress",
+      "meaning": "Oxford 3000 · A2 · progress"
+    },
+    {
+      "word": "promise",
+      "meaning": "Oxford 3000 · A2 · promise"
+    },
+    {
+      "word": "pronounce",
+      "meaning": "Oxford 3000 · A2 · pronounce"
+    },
+    {
+      "word": "protect",
+      "meaning": "Oxford 3000 · A2 · protect"
+    },
+    {
+      "word": "provide",
+      "meaning": "Oxford 3000 · A2 · provide"
+    },
+    {
+      "word": "pub",
+      "meaning": "Oxford 3000 · A2 · pub"
+    },
+    {
+      "word": "public",
+      "meaning": "Oxford 3000 · A2 · public"
+    },
+    {
+      "word": "publish",
+      "meaning": "Oxford 3000 · A2 · publish"
+    },
+    {
+      "word": "pull",
+      "meaning": "Oxford 3000 · A2 · pull"
+    },
+    {
+      "word": "purpose",
+      "meaning": "Oxford 3000 · A2 · purpose"
+    },
+    {
+      "word": "push",
+      "meaning": "Oxford 3000 · A2 · push"
+    },
+    {
+      "word": "quality",
+      "meaning": "Oxford 3000 · A2 · quality"
+    },
+    {
+      "word": "quantity",
+      "meaning": "Oxford 3000 · A2 · quantity"
+    },
+    {
+      "word": "queen",
+      "meaning": "Oxford 3000 · A2 · queen"
+    },
+    {
+      "word": "quietly",
+      "meaning": "Oxford 3000 · A2 · quietly"
+    },
+    {
+      "word": "race (competition)",
+      "meaning": "Oxford 3000 · A2 · race (competition)"
+    },
+    {
+      "word": "railway",
+      "meaning": "Oxford 3000 · A2 · railway"
+    },
+    {
+      "word": "raise",
+      "meaning": "Oxford 3000 · A2 · raise"
+    },
+    {
+      "word": "rate",
+      "meaning": "Oxford 3000 · A2 · rate"
+    },
+    {
+      "word": "rather",
+      "meaning": "Oxford 3000 · A2 · rather"
+    },
+    {
+      "word": "reach",
+      "meaning": "Oxford 3000 · A2 · reach"
+    },
+    {
+      "word": "react",
+      "meaning": "Oxford 3000 · A2 · react"
+    },
+    {
+      "word": "realize",
+      "meaning": "Oxford 3000 · A2 · realize"
+    },
+    {
+      "word": "receive",
+      "meaning": "Oxford 3000 · A2 · receive"
+    },
+    {
+      "word": "recent",
+      "meaning": "Oxford 3000 · A2 · recent"
+    },
+    {
+      "word": "recently",
+      "meaning": "Oxford 3000 · A2 · recently"
+    },
+    {
+      "word": "reception",
+      "meaning": "Oxford 3000 · A2 · reception"
+    },
+    {
+      "word": "recipe",
+      "meaning": "Oxford 3000 · A2 · recipe"
+    },
+    {
+      "word": "recognize",
+      "meaning": "Oxford 3000 · A2 · recognize"
+    },
+    {
+      "word": "recommend",
+      "meaning": "Oxford 3000 · A2 · recommend"
+    },
+    {
+      "word": "record",
+      "meaning": "Oxford 3000 · A2 · record"
+    },
+    {
+      "word": "recording",
+      "meaning": "Oxford 3000 · A2 · recording"
+    },
+    {
+      "word": "recycle",
+      "meaning": "Oxford 3000 · A2 · recycle"
+    },
+    {
+      "word": "reduce",
+      "meaning": "Oxford 3000 · A2 · reduce"
+    },
+    {
+      "word": "refer",
+      "meaning": "Oxford 3000 · A2 · refer"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

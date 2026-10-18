@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-01",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Everyday mix with Anna",
+  "scene": "A flexible everyday episode with Anna: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 1,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "chair",
+      "meaning": "Oxford 3000 · B2 · chair"
+    },
+    {
+      "word": "even",
+      "meaning": "Oxford 3000 · B2 · even"
+    },
+    {
+      "word": "house",
+      "meaning": "Oxford 3000 · B2 · house"
+    },
+    {
+      "word": "household",
+      "meaning": "Oxford 3000 · B2 · household"
+    },
+    {
+      "word": "lively",
+      "meaning": "Oxford 3000 · B2 · lively"
+    },
+    {
+      "word": "nightmare",
+      "meaning": "Oxford 3000 · B2 · nightmare"
+    },
+    {
+      "word": "routine",
+      "meaning": "Oxford 3000 · B2 · routine"
+    },
+    {
+      "word": "wind",
+      "meaning": "Oxford 3000 · B2 · wind"
+    },
+    {
+      "word": "but",
+      "meaning": "Oxford 3000 · B2 · but"
+    },
+    {
+      "word": "date",
+      "meaning": "Oxford 3000 · B2 · date"
+    },
+    {
+      "word": "latest",
+      "meaning": "Oxford 3000 · B2 · latest"
+    },
+    {
+      "word": "nevertheless",
+      "meaning": "Oxford 3000 · B2 · nevertheless"
+    },
+    {
+      "word": "time",
+      "meaning": "Oxford 3000 · B2 · time"
+    },
+    {
+      "word": "classic",
+      "meaning": "Oxford 3000 · B2 · classic"
+    },
+    {
+      "word": "examination",
+      "meaning": "Oxford 3000 · B2 · examination"
+    },
+    {
+      "word": "subject",
+      "meaning": "Oxford 3000 · B2 · subject"
+    },
+    {
+      "word": "price",
+      "meaning": "Oxford 3000 · B2 · price"
+    },
+    {
+      "word": "project",
+      "meaning": "Oxford 3000 · B2 · project"
+    },
+    {
+      "word": "map",
+      "meaning": "Oxford 3000 · B2 · map"
+    },
+    {
+      "word": "trip",
+      "meaning": "Oxford 3000 · B2 · trip"
+    },
+    {
+      "word": "fee",
+      "meaning": "Oxford 3000 · B2 · fee"
+    },
+    {
+      "word": "feel",
+      "meaning": "Oxford 3000 · B2 · feel"
+    },
+    {
+      "word": "handle",
+      "meaning": "Oxford 3000 · B2 · handle"
+    },
+    {
+      "word": "hurt",
+      "meaning": "Oxford 3000 · B2 · hurt"
+    },
+    {
+      "word": "ideal",
+      "meaning": "Oxford 3000 · B2 · ideal"
+    },
+    {
+      "word": "mount",
+      "meaning": "Oxford 3000 · B2 · mount"
+    },
+    {
+      "word": "excuse",
+      "meaning": "Oxford 3000 · B2 · excuse"
+    },
+    {
+      "word": "hell",
+      "meaning": "Oxford 3000 · B2 · hell"
+    },
+    {
+      "word": "sentence",
+      "meaning": "Oxford 3000 · B2 · sentence"
+    },
+    {
+      "word": "govern",
+      "meaning": "Oxford 3000 · B2 · govern"
+    },
+    {
+      "word": "inform",
+      "meaning": "Oxford 3000 · B2 · inform"
+    },
+    {
+      "word": "abandon",
+      "meaning": "Oxford 3000 · B2 · abandon"
+    },
+    {
+      "word": "absolute",
+      "meaning": "Oxford 3000 · B2 · absolute"
+    },
+    {
+      "word": "academic",
+      "meaning": "Oxford 3000 · B2 · academic"
+    },
+    {
+      "word": "acceptable",
+      "meaning": "Oxford 3000 · B2 · acceptable"
+    },
+    {
+      "word": "accompany",
+      "meaning": "Oxford 3000 · B2 · accompany"
+    },
+    {
+      "word": "account",
+      "meaning": "Oxford 3000 · B2 · account"
+    },
+    {
+      "word": "accurate",
+      "meaning": "Oxford 3000 · B2 · accurate"
+    },
+    {
+      "word": "accuse",
+      "meaning": "Oxford 3000 · B2 · accuse"
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "Oxford 3000 · B2 · acknowledge"
+    },
+    {
+      "word": "acquire",
+      "meaning": "Oxford 3000 · B2 · acquire"
+    },
+    {
+      "word": "actual",
+      "meaning": "Oxford 3000 · B2 · actual"
+    },
+    {
+      "word": "adapt",
+      "meaning": "Oxford 3000 · B2 · adapt"
+    },
+    {
+      "word": "additional",
+      "meaning": "Oxford 3000 · B2 · additional"
+    },
+    {
+      "word": "address",
+      "meaning": "Oxford 3000 · B2 · address"
+    },
+    {
+      "word": "administration",
+      "meaning": "Oxford 3000 · B2 · administration"
+    },
+    {
+      "word": "adopt",
+      "meaning": "Oxford 3000 · B2 · adopt"
+    },
+    {
+      "word": "advance",
+      "meaning": "Oxford 3000 · B2 · advance"
+    },
+    {
+      "word": "affair",
+      "meaning": "Oxford 3000 · B2 · affair"
+    },
+    {
+      "word": "afterwards",
+      "meaning": "Oxford 3000 · B2 · afterwards"
+    },
+    {
+      "word": "agency",
+      "meaning": "Oxford 3000 · B2 · agency"
+    },
+    {
+      "word": "agenda",
+      "meaning": "Oxford 3000 · B2 · agenda"
+    },
+    {
+      "word": "aggressive",
+      "meaning": "Oxford 3000 · B2 · aggressive"
+    },
+    {
+      "word": "aid",
+      "meaning": "Oxford 3000 · B2 · aid"
+    },
+    {
+      "word": "aircraft",
+      "meaning": "Oxford 3000 · B2 · aircraft"
+    },
+    {
+      "word": "alarm",
+      "meaning": "Oxford 3000 · B2 · alarm"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

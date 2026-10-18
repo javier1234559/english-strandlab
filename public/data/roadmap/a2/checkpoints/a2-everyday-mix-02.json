@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-02",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Chapter 4: Everyday mix",
+  "scene": "A flexible everyday episode with Nathan: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 4,
+  "characters": [
+    "javi",
+    "nathan"
+  ],
+  "vocab": [
+    {
+      "word": "as",
+      "meaning": "Oxford 3000 · A2 · as"
+    },
+    {
+      "word": "asleep",
+      "meaning": "Oxford 3000 · A2 · asleep"
+    },
+    {
+      "word": "assistant",
+      "meaning": "Oxford 3000 · A2 · assistant"
+    },
+    {
+      "word": "athlete",
+      "meaning": "Oxford 3000 · A2 · athlete"
+    },
+    {
+      "word": "attack",
+      "meaning": "Oxford 3000 · A2 · attack"
+    },
+    {
+      "word": "attend",
+      "meaning": "Oxford 3000 · A2 · attend"
+    },
+    {
+      "word": "attention",
+      "meaning": "Oxford 3000 · A2 · attention"
+    },
+    {
+      "word": "attractive",
+      "meaning": "Oxford 3000 · A2 · attractive"
+    },
+    {
+      "word": "audience",
+      "meaning": "Oxford 3000 · A2 · audience"
+    },
+    {
+      "word": "audio",
+      "meaning": "Oxford 3000 · A2 · audio"
+    },
+    {
+      "word": "author",
+      "meaning": "Oxford 3000 · A2 · author"
+    },
+    {
+      "word": "available",
+      "meaning": "Oxford 3000 · A2 · available"
+    },
+    {
+      "word": "average",
+      "meaning": "Oxford 3000 · A2 · average"
+    },
+    {
+      "word": "avoid",
+      "meaning": "Oxford 3000 · A2 · avoid"
+    },
+    {
+      "word": "award",
+      "meaning": "Oxford 3000 · A2 · award"
+    },
+    {
+      "word": "awful",
+      "meaning": "Oxford 3000 · A2 · awful"
+    },
+    {
+      "word": "back",
+      "meaning": "Oxford 3000 · A2 · back"
+    },
+    {
+      "word": "background",
+      "meaning": "Oxford 3000 · A2 · background"
+    },
+    {
+      "word": "badly",
+      "meaning": "Oxford 3000 · A2 · badly"
+    },
+    {
+      "word": "baseball",
+      "meaning": "Oxford 3000 · A2 · baseball"
+    },
+    {
+      "word": "based",
+      "meaning": "Oxford 3000 · A2 · based"
+    },
+    {
+      "word": "basketball",
+      "meaning": "Oxford 3000 · A2 · basketball"
+    },
+    {
+      "word": "bean",
+      "meaning": "Oxford 3000 · A2 · bean"
+    },
+    {
+      "word": "beef",
+      "meaning": "Oxford 3000 · A2 · beef"
+    },
+    {
+      "word": "before",
+      "meaning": "Oxford 3000 · A2 · before"
+    },
+    {
+      "word": "behave",
+      "meaning": "Oxford 3000 · A2 · behave"
+    },
+    {
+      "word": "behaviour",
+      "meaning": "Oxford 3000 · A2 · behaviour"
+    },
+    {
+      "word": "belong",
+      "meaning": "Oxford 3000 · A2 · belong"
+    },
+    {
+      "word": "belt",
+      "meaning": "Oxford 3000 · A2 · belt"
+    },
+    {
+      "word": "benefit",
+      "meaning": "Oxford 3000 · A2 · benefit"
+    },
+    {
+      "word": "best",
+      "meaning": "Oxford 3000 · A2 · best"
+    },
+    {
+      "word": "better",
+      "meaning": "Oxford 3000 · A2 · better"
+    },
+    {
+      "word": "between",
+      "meaning": "Oxford 3000 · A2 · between"
+    },
+    {
+      "word": "billion",
+      "meaning": "Oxford 3000 · A2 · billion"
+    },
+    {
+      "word": "bin",
+      "meaning": "Oxford 3000 · A2 · bin"
+    },
+    {
+      "word": "biology",
+      "meaning": "Oxford 3000 · A2 · biology"
+    },
+    {
+      "word": "biscuit",
+      "meaning": "Oxford 3000 · A2 · biscuit"
+    },
+    {
+      "word": "bit",
+      "meaning": "Oxford 3000 · A2 · bit"
+    },
+    {
+      "word": "blood",
+      "meaning": "Oxford 3000 · A2 · blood"
+    },
+    {
+      "word": "blow",
+      "meaning": "Oxford 3000 · A2 · blow"
+    },
+    {
+      "word": "board",
+      "meaning": "Oxford 3000 · A2 · board"
+    },
+    {
+      "word": "boil",
+      "meaning": "Oxford 3000 · A2 · boil"
+    },
+    {
+      "word": "bone",
+      "meaning": "Oxford 3000 · A2 · bone"
+    },
+    {
+      "word": "borrow",
+      "meaning": "Oxford 3000 · A2 · borrow"
+    },
+    {
+      "word": "bottom",
+      "meaning": "Oxford 3000 · A2 · bottom"
+    },
+    {
+      "word": "bowl",
+      "meaning": "Oxford 3000 · A2 · bowl"
+    },
+    {
+      "word": "brain",
+      "meaning": "Oxford 3000 · A2 · brain"
+    },
+    {
+      "word": "bridge",
+      "meaning": "Oxford 3000 · A2 · bridge"
+    },
+    {
+      "word": "bright",
+      "meaning": "Oxford 3000 · A2 · bright"
+    },
+    {
+      "word": "brilliant",
+      "meaning": "Oxford 3000 · A2 · brilliant"
+    },
+    {
+      "word": "broken",
+      "meaning": "Oxford 3000 · A2 · broken"
+    },
+    {
+      "word": "brush",
+      "meaning": "Oxford 3000 · A2 · brush"
+    },
+    {
+      "word": "burn",
+      "meaning": "Oxford 3000 · A2 · burn"
+    },
+    {
+      "word": "button",
+      "meaning": "Oxford 3000 · A2 · button"
+    },
+    {
+      "word": "camp",
+      "meaning": "Oxford 3000 · A2 · camp"
+    },
+    {
+      "word": "camping",
+      "meaning": "Oxford 3000 · A2 · camping"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Nathan (neighbour) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

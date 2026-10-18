@@ -1,0 +1,43 @@
+{
+  "series": {
+    "title": "Javi's English Life",
+    "note": "You are Javi — not just studying English, but living short everyday stories with the same friends. Meet people again across episodes."
+  },
+  "protagonist": {
+    "id": "javi",
+    "name": "Javi",
+    "note": "The learner. Tell stories with Javi as the main character (first person or close third person)."
+  },
+  "cast": [
+    {
+      "id": "anna",
+      "name": "Anna",
+      "role": "close friend",
+      "trait": "warm, curious, always asks questions"
+    },
+    {
+      "id": "easter",
+      "name": "Easter",
+      "role": "classmate / study buddy",
+      "trait": "organized, helpful with school words"
+    },
+    {
+      "id": "john",
+      "name": "John",
+      "role": "cafe coworker / barista friend",
+      "trait": "friendly, talks about food and work"
+    },
+    {
+      "id": "nathan",
+      "name": "Nathan",
+      "role": "neighbour",
+      "trait": "calm, talks about home and daily life"
+    },
+    {
+      "id": "sean",
+      "name": "Sean",
+      "role": "gym / hobby friend",
+      "trait": "energetic, likes sports and weekends"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-11",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Everyday mix with Anna",
+  "scene": "A flexible everyday episode with Anna: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 11,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "reward",
+      "meaning": "Oxford 3000 · B2 · reward"
+    },
+    {
+      "word": "rhythm",
+      "meaning": "Oxford 3000 · B2 · rhythm"
+    },
+    {
+      "word": "rid",
+      "meaning": "Oxford 3000 · B2 · rid"
+    },
+    {
+      "word": "root",
+      "meaning": "Oxford 3000 · B2 · root"
+    },
+    {
+      "word": "round",
+      "meaning": "Oxford 3000 · B2 · round"
+    },
+    {
+      "word": "rub",
+      "meaning": "Oxford 3000 · B2 · rub"
+    },
+    {
+      "word": "rubber",
+      "meaning": "Oxford 3000 · B2 · rubber"
+    },
+    {
+      "word": "rural",
+      "meaning": "Oxford 3000 · B2 · rural"
+    },
+    {
+      "word": "rush",
+      "meaning": "Oxford 3000 · B2 · rush"
+    },
+    {
+      "word": "sample",
+      "meaning": "Oxford 3000 · B2 · sample"
+    },
+    {
+      "word": "satellite",
+      "meaning": "Oxford 3000 · B2 · satellite"
+    },
+    {
+      "word": "satisfied",
+      "meaning": "Oxford 3000 · B2 · satisfied"
+    },
+    {
+      "word": "satisfy",
+      "meaning": "Oxford 3000 · B2 · satisfy"
+    },
+    {
+      "word": "saving",
+      "meaning": "Oxford 3000 · B2 · saving"
+    },
+    {
+      "word": "scale",
+      "meaning": "Oxford 3000 · B2 · scale"
+    },
+    {
+      "word": "schedule",
+      "meaning": "Oxford 3000 · B2 · schedule"
+    },
+    {
+      "word": "scheme",
+      "meaning": "Oxford 3000 · B2 · scheme"
+    },
+    {
+      "word": "scream",
+      "meaning": "Oxford 3000 · B2 · scream"
+    },
+    {
+      "word": "screen",
+      "meaning": "Oxford 3000 · B2 · screen"
+    },
+    {
+      "word": "seat",
+      "meaning": "Oxford 3000 · B2 · seat"
+    },
+    {
+      "word": "sector",
+      "meaning": "Oxford 3000 · B2 · sector"
+    },
+    {
+      "word": "secure",
+      "meaning": "Oxford 3000 · B2 · secure"
+    },
+    {
+      "word": "seek",
+      "meaning": "Oxford 3000 · B2 · seek"
+    },
+    {
+      "word": "select",
+      "meaning": "Oxford 3000 · B2 · select"
+    },
+    {
+      "word": "selection",
+      "meaning": "Oxford 3000 · B2 · selection"
+    },
+    {
+      "word": "self",
+      "meaning": "Oxford 3000 · B2 · self"
+    },
+    {
+      "word": "senior",
+      "meaning": "Oxford 3000 · B2 · senior"
+    },
+    {
+      "word": "sense",
+      "meaning": "Oxford 3000 · B2 · sense"
+    },
+    {
+      "word": "sensitive",
+      "meaning": "Oxford 3000 · B2 · sensitive"
+    },
+    {
+      "word": "sequence",
+      "meaning": "Oxford 3000 · B2 · sequence"
+    },
+    {
+      "word": "session",
+      "meaning": "Oxford 3000 · B2 · session"
+    },
+    {
+      "word": "settle",
+      "meaning": "Oxford 3000 · B2 · settle"
+    },
+    {
+      "word": "severe",
+      "meaning": "Oxford 3000 · B2 · severe"
+    },
+    {
+      "word": "shade",
+      "meaning": "Oxford 3000 · B2 · shade"
+    },
+    {
+      "word": "shadow",
+      "meaning": "Oxford 3000 · B2 · shadow"
+    },
+    {
+      "word": "shallow",
+      "meaning": "Oxford 3000 · B2 · shallow"
+    },
+    {
+      "word": "shame",
+      "meaning": "Oxford 3000 · B2 · shame"
+    },
+    {
+      "word": "shape",
+      "meaning": "Oxford 3000 · B2 · shape"
+    },
+    {
+      "word": "shelter",
+      "meaning": "Oxford 3000 · B2 · shelter"
+    },
+    {
+      "word": "shift",
+      "meaning": "Oxford 3000 · B2 · shift"
+    },
+    {
+      "word": "ship",
+      "meaning": "Oxford 3000 · B2 · ship"
+    },
+    {
+      "word": "shock",
+      "meaning": "Oxford 3000 · B2 · shock"
+    },
+    {
+      "word": "shocked",
+      "meaning": "Oxford 3000 · B2 · shocked"
+    },
+    {
+      "word": "shooting",
+      "meaning": "Oxford 3000 · B2 · shooting"
+    },
+    {
+      "word": "shot",
+      "meaning": "Oxford 3000 · B2 · shot"
+    },
+    {
+      "word": "significant",
+      "meaning": "Oxford 3000 · B2 · significant"
+    },
+    {
+      "word": "significantly",
+      "meaning": "Oxford 3000 · B2 · significantly"
+    },
+    {
+      "word": "silence",
+      "meaning": "Oxford 3000 · B2 · silence"
+    },
+    {
+      "word": "silk",
+      "meaning": "Oxford 3000 · B2 · silk"
+    },
+    {
+      "word": "sincere",
+      "meaning": "Oxford 3000 · B2 · sincere"
+    },
+    {
+      "word": "slide",
+      "meaning": "Oxford 3000 · B2 · slide"
+    },
+    {
+      "word": "slight",
+      "meaning": "Oxford 3000 · B2 · slight"
+    },
+    {
+      "word": "slip",
+      "meaning": "Oxford 3000 · B2 · slip"
+    },
+    {
+      "word": "slope",
+      "meaning": "Oxford 3000 · B2 · slope"
+    },
+    {
+      "word": "solar",
+      "meaning": "Oxford 3000 · B2 · solar"
+    },
+    {
+      "word": "somewhat",
+      "meaning": "Oxford 3000 · B2 · somewhat"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

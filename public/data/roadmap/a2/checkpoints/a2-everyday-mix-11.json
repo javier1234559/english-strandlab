@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-11",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 13,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "refuse",
+      "meaning": "Oxford 3000 · A2 · refuse"
+    },
+    {
+      "word": "region",
+      "meaning": "Oxford 3000 · A2 · region"
+    },
+    {
+      "word": "regular",
+      "meaning": "Oxford 3000 · A2 · regular"
+    },
+    {
+      "word": "relationship",
+      "meaning": "Oxford 3000 · A2 · relationship"
+    },
+    {
+      "word": "remove",
+      "meaning": "Oxford 3000 · A2 · remove"
+    },
+    {
+      "word": "repair",
+      "meaning": "Oxford 3000 · A2 · repair"
+    },
+    {
+      "word": "replace",
+      "meaning": "Oxford 3000 · A2 · replace"
+    },
+    {
+      "word": "reply",
+      "meaning": "Oxford 3000 · A2 · reply"
+    },
+    {
+      "word": "report",
+      "meaning": "Oxford 3000 · A2 · report"
+    },
+    {
+      "word": "reporter",
+      "meaning": "Oxford 3000 · A2 · reporter"
+    },
+    {
+      "word": "request",
+      "meaning": "Oxford 3000 · A2 · request"
+    },
+    {
+      "word": "respond",
+      "meaning": "Oxford 3000 · A2 · respond"
+    },
+    {
+      "word": "response",
+      "meaning": "Oxford 3000 · A2 · response"
+    },
+    {
+      "word": "rest (remaining part)",
+      "meaning": "Oxford 3000 · A2 · rest (remaining part)"
+    },
+    {
+      "word": "review",
+      "meaning": "Oxford 3000 · A2 · review"
+    },
+    {
+      "word": "ride",
+      "meaning": "Oxford 3000 · A2 · ride"
+    },
+    {
+      "word": "ring",
+      "meaning": "Oxford 3000 · A2 · ring"
+    },
+    {
+      "word": "rise",
+      "meaning": "Oxford 3000 · A2 · rise"
+    },
+    {
+      "word": "rock (stone)",
+      "meaning": "Oxford 3000 · A2 · rock (stone)"
+    },
+    {
+      "word": "role",
+      "meaning": "Oxford 3000 · A2 · role"
+    },
+    {
+      "word": "roof",
+      "meaning": "Oxford 3000 · A2 · roof"
+    },
+    {
+      "word": "round",
+      "meaning": "Oxford 3000 · A2 · round"
+    },
+    {
+      "word": "route",
+      "meaning": "Oxford 3000 · A2 · route"
+    },
+    {
+      "word": "rubbish",
+      "meaning": "Oxford 3000 · A2 · rubbish"
+    },
+    {
+      "word": "rude",
+      "meaning": "Oxford 3000 · A2 · rude"
+    },
+    {
+      "word": "runner",
+      "meaning": "Oxford 3000 · A2 · runner"
+    },
+    {
+      "word": "sadly",
+      "meaning": "Oxford 3000 · A2 · sadly"
+    },
+    {
+      "word": "safe",
+      "meaning": "Oxford 3000 · A2 · safe"
+    },
+    {
+      "word": "sail",
+      "meaning": "Oxford 3000 · A2 · sail"
+    },
+    {
+      "word": "sailing",
+      "meaning": "Oxford 3000 · A2 · sailing"
+    },
+    {
+      "word": "sale",
+      "meaning": "Oxford 3000 · A2 · sale"
+    },
+    {
+      "word": "sauce",
+      "meaning": "Oxford 3000 · A2 · sauce"
+    },
+    {
+      "word": "save",
+      "meaning": "Oxford 3000 · A2 · save"
+    },
+    {
+      "word": "scared",
+      "meaning": "Oxford 3000 · A2 · scared"
+    },
+    {
+      "word": "scary",
+      "meaning": "Oxford 3000 · A2 · scary"
+    },
+    {
+      "word": "scene",
+      "meaning": "Oxford 3000 · A2 · scene"
+    },
+    {
+      "word": "schedule",
+      "meaning": "Oxford 3000 · A2 · schedule"
+    },
+    {
+      "word": "score",
+      "meaning": "Oxford 3000 · A2 · score"
+    },
+    {
+      "word": "screen",
+      "meaning": "Oxford 3000 · A2 · screen"
+    },
+    {
+      "word": "search",
+      "meaning": "Oxford 3000 · A2 · search"
+    },
+    {
+      "word": "season",
+      "meaning": "Oxford 3000 · A2 · season"
+    },
+    {
+      "word": "seat",
+      "meaning": "Oxford 3000 · A2 · seat"
+    },
+    {
+      "word": "secret",
+      "meaning": "Oxford 3000 · A2 · secret"
+    },
+    {
+      "word": "secretary",
+      "meaning": "Oxford 3000 · A2 · secretary"
+    },
+    {
+      "word": "seem",
+      "meaning": "Oxford 3000 · A2 · seem"
+    },
+    {
+      "word": "sense",
+      "meaning": "Oxford 3000 · A2 · sense"
+    },
+    {
+      "word": "separate",
+      "meaning": "Oxford 3000 · A2 · separate"
+    },
+    {
+      "word": "series",
+      "meaning": "Oxford 3000 · A2 · series"
+    },
+    {
+      "word": "serious",
+      "meaning": "Oxford 3000 · A2 · serious"
+    },
+    {
+      "word": "serve",
+      "meaning": "Oxford 3000 · A2 · serve"
+    },
+    {
+      "word": "service",
+      "meaning": "Oxford 3000 · A2 · service"
+    },
+    {
+      "word": "several",
+      "meaning": "Oxford 3000 · A2 · several"
+    },
+    {
+      "word": "shake",
+      "meaning": "Oxford 3000 · A2 · shake"
+    },
+    {
+      "word": "shall",
+      "meaning": "Oxford 3000 · A2 · shall"
+    },
+    {
+      "word": "shape",
+      "meaning": "Oxford 3000 · A2 · shape"
+    },
+    {
+      "word": "sheet",
+      "meaning": "Oxford 3000 · A2 · sheet"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

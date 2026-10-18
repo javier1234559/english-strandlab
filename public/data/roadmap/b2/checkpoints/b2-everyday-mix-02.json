@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-02",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "When Easter changed the plan",
+  "scene": "A flexible everyday episode with Easter: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 2,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "alter",
+      "meaning": "Oxford 3000 · B2 · alter"
+    },
+    {
+      "word": "amount",
+      "meaning": "Oxford 3000 · B2 · amount"
+    },
+    {
+      "word": "anger",
+      "meaning": "Oxford 3000 · B2 · anger"
+    },
+    {
+      "word": "angle",
+      "meaning": "Oxford 3000 · B2 · angle"
+    },
+    {
+      "word": "anniversary",
+      "meaning": "Oxford 3000 · B2 · anniversary"
+    },
+    {
+      "word": "annual",
+      "meaning": "Oxford 3000 · B2 · annual"
+    },
+    {
+      "word": "anxious",
+      "meaning": "Oxford 3000 · B2 · anxious"
+    },
+    {
+      "word": "apparent",
+      "meaning": "Oxford 3000 · B2 · apparent"
+    },
+    {
+      "word": "apparently",
+      "meaning": "Oxford 3000 · B2 · apparently"
+    },
+    {
+      "word": "appeal",
+      "meaning": "Oxford 3000 · B2 · appeal"
+    },
+    {
+      "word": "approach",
+      "meaning": "Oxford 3000 · B2 · approach"
+    },
+    {
+      "word": "appropriate",
+      "meaning": "Oxford 3000 · B2 · appropriate"
+    },
+    {
+      "word": "approval",
+      "meaning": "Oxford 3000 · B2 · approval"
+    },
+    {
+      "word": "approve",
+      "meaning": "Oxford 3000 · B2 · approve"
+    },
+    {
+      "word": "arise",
+      "meaning": "Oxford 3000 · B2 · arise"
+    },
+    {
+      "word": "armed",
+      "meaning": "Oxford 3000 · B2 · armed"
+    },
+    {
+      "word": "arms",
+      "meaning": "Oxford 3000 · B2 · arms"
+    },
+    {
+      "word": "artificial",
+      "meaning": "Oxford 3000 · B2 · artificial"
+    },
+    {
+      "word": "artistic",
+      "meaning": "Oxford 3000 · B2 · artistic"
+    },
+    {
+      "word": "ashamed",
+      "meaning": "Oxford 3000 · B2 · ashamed"
+    },
+    {
+      "word": "aspect",
+      "meaning": "Oxford 3000 · B2 · aspect"
+    },
+    {
+      "word": "assess",
+      "meaning": "Oxford 3000 · B2 · assess"
+    },
+    {
+      "word": "assessment",
+      "meaning": "Oxford 3000 · B2 · assessment"
+    },
+    {
+      "word": "associate",
+      "meaning": "Oxford 3000 · B2 · associate"
+    },
+    {
+      "word": "associated",
+      "meaning": "Oxford 3000 · B2 · associated"
+    },
+    {
+      "word": "association",
+      "meaning": "Oxford 3000 · B2 · association"
+    },
+    {
+      "word": "assume",
+      "meaning": "Oxford 3000 · B2 · assume"
+    },
+    {
+      "word": "attempt",
+      "meaning": "Oxford 3000 · B2 · attempt"
+    },
+    {
+      "word": "back",
+      "meaning": "Oxford 3000 · B2 · back"
+    },
+    {
+      "word": "bacteria",
+      "meaning": "Oxford 3000 · B2 · bacteria"
+    },
+    {
+      "word": "bar",
+      "meaning": "Oxford 3000 · B2 · bar"
+    },
+    {
+      "word": "barrier",
+      "meaning": "Oxford 3000 · B2 · barrier"
+    },
+    {
+      "word": "basically",
+      "meaning": "Oxford 3000 · B2 · basically"
+    },
+    {
+      "word": "battle",
+      "meaning": "Oxford 3000 · B2 · battle"
+    },
+    {
+      "word": "bear (deal with)",
+      "meaning": "Oxford 3000 · B2 · bear (deal with)"
+    },
+    {
+      "word": "beat",
+      "meaning": "Oxford 3000 · B2 · beat"
+    },
+    {
+      "word": "beg",
+      "meaning": "Oxford 3000 · B2 · beg"
+    },
+    {
+      "word": "being",
+      "meaning": "Oxford 3000 · B2 · being"
+    },
+    {
+      "word": "bent",
+      "meaning": "Oxford 3000 · B2 · bent"
+    },
+    {
+      "word": "bet",
+      "meaning": "Oxford 3000 · B2 · bet"
+    },
+    {
+      "word": "beyond",
+      "meaning": "Oxford 3000 · B2 · beyond"
+    },
+    {
+      "word": "bill",
+      "meaning": "Oxford 3000 · B2 · bill"
+    },
+    {
+      "word": "bitter",
+      "meaning": "Oxford 3000 · B2 · bitter"
+    },
+    {
+      "word": "blame",
+      "meaning": "Oxford 3000 · B2 · blame"
+    },
+    {
+      "word": "blind",
+      "meaning": "Oxford 3000 · B2 · blind"
+    },
+    {
+      "word": "bond",
+      "meaning": "Oxford 3000 · B2 · bond"
+    },
+    {
+      "word": "border",
+      "meaning": "Oxford 3000 · B2 · border"
+    },
+    {
+      "word": "breast",
+      "meaning": "Oxford 3000 · B2 · breast"
+    },
+    {
+      "word": "breath",
+      "meaning": "Oxford 3000 · B2 · breath"
+    },
+    {
+      "word": "brief",
+      "meaning": "Oxford 3000 · B2 · brief"
+    },
+    {
+      "word": "broad",
+      "meaning": "Oxford 3000 · B2 · broad"
+    },
+    {
+      "word": "broadcast",
+      "meaning": "Oxford 3000 · B2 · broadcast"
+    },
+    {
+      "word": "budget",
+      "meaning": "Oxford 3000 · B2 · budget"
+    },
+    {
+      "word": "bullet",
+      "meaning": "Oxford 3000 · B2 · bullet"
+    },
+    {
+      "word": "bunch",
+      "meaning": "Oxford 3000 · B2 · bunch"
+    },
+    {
+      "word": "burn",
+      "meaning": "Oxford 3000 · B2 · burn"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

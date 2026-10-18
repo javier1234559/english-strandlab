@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-07",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 8,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "indeed",
+      "meaning": "Oxford 3000 · B1 · indeed"
+    },
+    {
+      "word": "indicate",
+      "meaning": "Oxford 3000 · B1 · indicate"
+    },
+    {
+      "word": "indirect",
+      "meaning": "Oxford 3000 · B1 · indirect"
+    },
+    {
+      "word": "indoor",
+      "meaning": "Oxford 3000 · B1 · indoor"
+    },
+    {
+      "word": "indoors",
+      "meaning": "Oxford 3000 · B1 · indoors"
+    },
+    {
+      "word": "influence",
+      "meaning": "Oxford 3000 · B1 · influence"
+    },
+    {
+      "word": "ingredient",
+      "meaning": "Oxford 3000 · B1 · ingredient"
+    },
+    {
+      "word": "injure",
+      "meaning": "Oxford 3000 · B1 · injure"
+    },
+    {
+      "word": "injured",
+      "meaning": "Oxford 3000 · B1 · injured"
+    },
+    {
+      "word": "innocent",
+      "meaning": "Oxford 3000 · B1 · innocent"
+    },
+    {
+      "word": "intelligence",
+      "meaning": "Oxford 3000 · B1 · intelligence"
+    },
+    {
+      "word": "intend",
+      "meaning": "Oxford 3000 · B1 · intend"
+    },
+    {
+      "word": "intention",
+      "meaning": "Oxford 3000 · B1 · intention"
+    },
+    {
+      "word": "invest",
+      "meaning": "Oxford 3000 · B1 · invest"
+    },
+    {
+      "word": "investigate",
+      "meaning": "Oxford 3000 · B1 · investigate"
+    },
+    {
+      "word": "involved",
+      "meaning": "Oxford 3000 · B1 · involved"
+    },
+    {
+      "word": "iron",
+      "meaning": "Oxford 3000 · B1 · iron"
+    },
+    {
+      "word": "issue",
+      "meaning": "Oxford 3000 · B1 · issue"
+    },
+    {
+      "word": "IT",
+      "meaning": "Oxford 3000 · B1 · IT"
+    },
+    {
+      "word": "journal",
+      "meaning": "Oxford 3000 · B1 · journal"
+    },
+    {
+      "word": "judge",
+      "meaning": "Oxford 3000 · B1 · judge"
+    },
+    {
+      "word": "keen",
+      "meaning": "Oxford 3000 · B1 · keen"
+    },
+    {
+      "word": "key",
+      "meaning": "Oxford 3000 · B1 · key"
+    },
+    {
+      "word": "keyboard",
+      "meaning": "Oxford 3000 · B1 · keyboard"
+    },
+    {
+      "word": "kick",
+      "meaning": "Oxford 3000 · B1 · kick"
+    },
+    {
+      "word": "killing",
+      "meaning": "Oxford 3000 · B1 · killing"
+    },
+    {
+      "word": "kind (caring)",
+      "meaning": "Oxford 3000 · B1 · kind (caring)"
+    },
+    {
+      "word": "kiss",
+      "meaning": "Oxford 3000 · B1 · kiss"
+    },
+    {
+      "word": "knock",
+      "meaning": "Oxford 3000 · B1 · knock"
+    },
+    {
+      "word": "label",
+      "meaning": "Oxford 3000 · B1 · label"
+    },
+    {
+      "word": "laboratory",
+      "meaning": "Oxford 3000 · B1 · laboratory"
+    },
+    {
+      "word": "lack",
+      "meaning": "Oxford 3000 · B1 · lack"
+    },
+    {
+      "word": "lay",
+      "meaning": "Oxford 3000 · B1 · lay"
+    },
+    {
+      "word": "layer",
+      "meaning": "Oxford 3000 · B1 · layer"
+    },
+    {
+      "word": "lead",
+      "meaning": "Oxford 3000 · B1 · lead"
+    },
+    {
+      "word": "leading",
+      "meaning": "Oxford 3000 · B1 · leading"
+    },
+    {
+      "word": "leaf",
+      "meaning": "Oxford 3000 · B1 · leaf"
+    },
+    {
+      "word": "leather",
+      "meaning": "Oxford 3000 · B1 · leather"
+    },
+    {
+      "word": "legal",
+      "meaning": "Oxford 3000 · B1 · legal"
+    },
+    {
+      "word": "leisure",
+      "meaning": "Oxford 3000 · B1 · leisure"
+    },
+    {
+      "word": "length",
+      "meaning": "Oxford 3000 · B1 · length"
+    },
+    {
+      "word": "level",
+      "meaning": "Oxford 3000 · B1 · level"
+    },
+    {
+      "word": "limit",
+      "meaning": "Oxford 3000 · B1 · limit"
+    },
+    {
+      "word": "lip",
+      "meaning": "Oxford 3000 · B1 · lip"
+    },
+    {
+      "word": "liquid",
+      "meaning": "Oxford 3000 · B1 · liquid"
+    },
+    {
+      "word": "literature",
+      "meaning": "Oxford 3000 · B1 · literature"
+    },
+    {
+      "word": "living",
+      "meaning": "Oxford 3000 · B1 · living"
+    },
+    {
+      "word": "local",
+      "meaning": "Oxford 3000 · B1 · local"
+    },
+    {
+      "word": "locate",
+      "meaning": "Oxford 3000 · B1 · locate"
+    },
+    {
+      "word": "located",
+      "meaning": "Oxford 3000 · B1 · located"
+    },
+    {
+      "word": "location",
+      "meaning": "Oxford 3000 · B1 · location"
+    },
+    {
+      "word": "lonely",
+      "meaning": "Oxford 3000 · B1 · lonely"
+    },
+    {
+      "word": "loss",
+      "meaning": "Oxford 3000 · B1 · loss"
+    },
+    {
+      "word": "luxury",
+      "meaning": "Oxford 3000 · B1 · luxury"
+    },
+    {
+      "word": "mad",
+      "meaning": "Oxford 3000 · B1 · mad"
+    },
+    {
+      "word": "magic",
+      "meaning": "Oxford 3000 · B1 · magic"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

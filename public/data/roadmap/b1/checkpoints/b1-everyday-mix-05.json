@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-05",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Everyday mix with Anna",
+  "scene": "A flexible everyday episode with Anna: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 6,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "engaged",
+      "meaning": "Oxford 3000 · B1 · engaged"
+    },
+    {
+      "word": "engineering",
+      "meaning": "Oxford 3000 · B1 · engineering"
+    },
+    {
+      "word": "entertain",
+      "meaning": "Oxford 3000 · B1 · entertain"
+    },
+    {
+      "word": "entertainment",
+      "meaning": "Oxford 3000 · B1 · entertainment"
+    },
+    {
+      "word": "entrance",
+      "meaning": "Oxford 3000 · B1 · entrance"
+    },
+    {
+      "word": "entry",
+      "meaning": "Oxford 3000 · B1 · entry"
+    },
+    {
+      "word": "episode",
+      "meaning": "Oxford 3000 · B1 · episode"
+    },
+    {
+      "word": "equal",
+      "meaning": "Oxford 3000 · B1 · equal"
+    },
+    {
+      "word": "equally",
+      "meaning": "Oxford 3000 · B1 · equally"
+    },
+    {
+      "word": "escape",
+      "meaning": "Oxford 3000 · B1 · escape"
+    },
+    {
+      "word": "essential",
+      "meaning": "Oxford 3000 · B1 · essential"
+    },
+    {
+      "word": "eventually",
+      "meaning": "Oxford 3000 · B1 · eventually"
+    },
+    {
+      "word": "except",
+      "meaning": "Oxford 3000 · B1 · except"
+    },
+    {
+      "word": "exchange",
+      "meaning": "Oxford 3000 · B1 · exchange"
+    },
+    {
+      "word": "excitement",
+      "meaning": "Oxford 3000 · B1 · excitement"
+    },
+    {
+      "word": "exhibition",
+      "meaning": "Oxford 3000 · B1 · exhibition"
+    },
+    {
+      "word": "expand",
+      "meaning": "Oxford 3000 · B1 · expand"
+    },
+    {
+      "word": "expected",
+      "meaning": "Oxford 3000 · B1 · expected"
+    },
+    {
+      "word": "expedition",
+      "meaning": "Oxford 3000 · B1 · expedition"
+    },
+    {
+      "word": "experience",
+      "meaning": "Oxford 3000 · B1 · experience"
+    },
+    {
+      "word": "experienced",
+      "meaning": "Oxford 3000 · B1 · experienced"
+    },
+    {
+      "word": "experiment",
+      "meaning": "Oxford 3000 · B1 · experiment"
+    },
+    {
+      "word": "explode",
+      "meaning": "Oxford 3000 · B1 · explode"
+    },
+    {
+      "word": "explore",
+      "meaning": "Oxford 3000 · B1 · explore"
+    },
+    {
+      "word": "explosion",
+      "meaning": "Oxford 3000 · B1 · explosion"
+    },
+    {
+      "word": "export",
+      "meaning": "Oxford 3000 · B1 · export"
+    },
+    {
+      "word": "extra",
+      "meaning": "Oxford 3000 · B1 · extra"
+    },
+    {
+      "word": "fairly",
+      "meaning": "Oxford 3000 · B1 · fairly"
+    },
+    {
+      "word": "familiar",
+      "meaning": "Oxford 3000 · B1 · familiar"
+    },
+    {
+      "word": "fancy",
+      "meaning": "Oxford 3000 · B1 · fancy"
+    },
+    {
+      "word": "far",
+      "meaning": "Oxford 3000 · B1 · far"
+    },
+    {
+      "word": "fascinating",
+      "meaning": "Oxford 3000 · B1 · fascinating"
+    },
+    {
+      "word": "fasten",
+      "meaning": "Oxford 3000 · B1 · fasten"
+    },
+    {
+      "word": "favour",
+      "meaning": "Oxford 3000 · B1 · favour"
+    },
+    {
+      "word": "fear",
+      "meaning": "Oxford 3000 · B1 · fear"
+    },
+    {
+      "word": "feature",
+      "meaning": "Oxford 3000 · B1 · feature"
+    },
+    {
+      "word": "fence",
+      "meaning": "Oxford 3000 · B1 · fence"
+    },
+    {
+      "word": "fighting",
+      "meaning": "Oxford 3000 · B1 · fighting"
+    },
+    {
+      "word": "file",
+      "meaning": "Oxford 3000 · B1 · file"
+    },
+    {
+      "word": "financial",
+      "meaning": "Oxford 3000 · B1 · financial"
+    },
+    {
+      "word": "fire",
+      "meaning": "Oxford 3000 · B1 · fire"
+    },
+    {
+      "word": "fitness",
+      "meaning": "Oxford 3000 · B1 · fitness"
+    },
+    {
+      "word": "fixed",
+      "meaning": "Oxford 3000 · B1 · fixed"
+    },
+    {
+      "word": "flag",
+      "meaning": "Oxford 3000 · B1 · flag"
+    },
+    {
+      "word": "flood",
+      "meaning": "Oxford 3000 · B1 · flood"
+    },
+    {
+      "word": "flour",
+      "meaning": "Oxford 3000 · B1 · flour"
+    },
+    {
+      "word": "fold",
+      "meaning": "Oxford 3000 · B1 · fold"
+    },
+    {
+      "word": "folk",
+      "meaning": "Oxford 3000 · B1 · folk"
+    },
+    {
+      "word": "following",
+      "meaning": "Oxford 3000 · B1 · following"
+    },
+    {
+      "word": "force",
+      "meaning": "Oxford 3000 · B1 · force"
+    },
+    {
+      "word": "forever",
+      "meaning": "Oxford 3000 · B1 · forever"
+    },
+    {
+      "word": "frame",
+      "meaning": "Oxford 3000 · B1 · frame"
+    },
+    {
+      "word": "freeze",
+      "meaning": "Oxford 3000 · B1 · freeze"
+    },
+    {
+      "word": "frequently",
+      "meaning": "Oxford 3000 · B1 · frequently"
+    },
+    {
+      "word": "frighten",
+      "meaning": "Oxford 3000 · B1 · frighten"
+    },
+    {
+      "word": "frightened",
+      "meaning": "Oxford 3000 · B1 · frightened"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

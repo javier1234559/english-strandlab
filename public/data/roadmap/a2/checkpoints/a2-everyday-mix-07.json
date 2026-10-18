@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-07",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Chapter 9: Everyday mix",
+  "scene": "A flexible everyday episode with Nathan: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 9,
+  "characters": [
+    "javi",
+    "nathan"
+  ],
+  "vocab": [
+    {
+      "word": "hers",
+      "meaning": "Oxford 3000 · A2 · hers"
+    },
+    {
+      "word": "herself",
+      "meaning": "Oxford 3000 · A2 · herself"
+    },
+    {
+      "word": "hide",
+      "meaning": "Oxford 3000 · A2 · hide"
+    },
+    {
+      "word": "high",
+      "meaning": "Oxford 3000 · A2 · high"
+    },
+    {
+      "word": "hike",
+      "meaning": "Oxford 3000 · A2 · hike"
+    },
+    {
+      "word": "hill",
+      "meaning": "Oxford 3000 · A2 · hill"
+    },
+    {
+      "word": "himself",
+      "meaning": "Oxford 3000 · A2 · himself"
+    },
+    {
+      "word": "hit",
+      "meaning": "Oxford 3000 · A2 · hit"
+    },
+    {
+      "word": "hockey",
+      "meaning": "Oxford 3000 · A2 · hockey"
+    },
+    {
+      "word": "hold",
+      "meaning": "Oxford 3000 · A2 · hold"
+    },
+    {
+      "word": "hole",
+      "meaning": "Oxford 3000 · A2 · hole"
+    },
+    {
+      "word": "huge",
+      "meaning": "Oxford 3000 · A2 · huge"
+    },
+    {
+      "word": "human",
+      "meaning": "Oxford 3000 · A2 · human"
+    },
+    {
+      "word": "identify",
+      "meaning": "Oxford 3000 · A2 · identify"
+    },
+    {
+      "word": "illness",
+      "meaning": "Oxford 3000 · A2 · illness"
+    },
+    {
+      "word": "image",
+      "meaning": "Oxford 3000 · A2 · image"
+    },
+    {
+      "word": "immediately",
+      "meaning": "Oxford 3000 · A2 · immediately"
+    },
+    {
+      "word": "impossible",
+      "meaning": "Oxford 3000 · A2 · impossible"
+    },
+    {
+      "word": "included",
+      "meaning": "Oxford 3000 · A2 · included"
+    },
+    {
+      "word": "including",
+      "meaning": "Oxford 3000 · A2 · including"
+    },
+    {
+      "word": "increase",
+      "meaning": "Oxford 3000 · A2 · increase"
+    },
+    {
+      "word": "incredible",
+      "meaning": "Oxford 3000 · A2 · incredible"
+    },
+    {
+      "word": "independent",
+      "meaning": "Oxford 3000 · A2 · independent"
+    },
+    {
+      "word": "individual",
+      "meaning": "Oxford 3000 · A2 · individual"
+    },
+    {
+      "word": "industry",
+      "meaning": "Oxford 3000 · A2 · industry"
+    },
+    {
+      "word": "informal",
+      "meaning": "Oxford 3000 · A2 · informal"
+    },
+    {
+      "word": "injury",
+      "meaning": "Oxford 3000 · A2 · injury"
+    },
+    {
+      "word": "insect",
+      "meaning": "Oxford 3000 · A2 · insect"
+    },
+    {
+      "word": "inside",
+      "meaning": "Oxford 3000 · A2 · inside"
+    },
+    {
+      "word": "instead",
+      "meaning": "Oxford 3000 · A2 · instead"
+    },
+    {
+      "word": "instead of",
+      "meaning": "Oxford 3000 · A2 · instead of"
+    },
+    {
+      "word": "instruction",
+      "meaning": "Oxford 3000 · A2 · instruction"
+    },
+    {
+      "word": "instructor",
+      "meaning": "Oxford 3000 · A2 · instructor"
+    },
+    {
+      "word": "instrument",
+      "meaning": "Oxford 3000 · A2 · instrument"
+    },
+    {
+      "word": "intelligent",
+      "meaning": "Oxford 3000 · A2 · intelligent"
+    },
+    {
+      "word": "international",
+      "meaning": "Oxford 3000 · A2 · international"
+    },
+    {
+      "word": "introduction",
+      "meaning": "Oxford 3000 · A2 · introduction"
+    },
+    {
+      "word": "invent",
+      "meaning": "Oxford 3000 · A2 · invent"
+    },
+    {
+      "word": "invention",
+      "meaning": "Oxford 3000 · A2 · invention"
+    },
+    {
+      "word": "invitation",
+      "meaning": "Oxford 3000 · A2 · invitation"
+    },
+    {
+      "word": "invite",
+      "meaning": "Oxford 3000 · A2 · invite"
+    },
+    {
+      "word": "involve",
+      "meaning": "Oxford 3000 · A2 · involve"
+    },
+    {
+      "word": "item",
+      "meaning": "Oxford 3000 · A2 · item"
+    },
+    {
+      "word": "itself",
+      "meaning": "Oxford 3000 · A2 · itself"
+    },
+    {
+      "word": "jam",
+      "meaning": "Oxford 3000 · A2 · jam"
+    },
+    {
+      "word": "jazz",
+      "meaning": "Oxford 3000 · A2 · jazz"
+    },
+    {
+      "word": "jewellery",
+      "meaning": "Oxford 3000 · A2 · jewellery"
+    },
+    {
+      "word": "joke",
+      "meaning": "Oxford 3000 · A2 · joke"
+    },
+    {
+      "word": "journalist",
+      "meaning": "Oxford 3000 · A2 · journalist"
+    },
+    {
+      "word": "jump",
+      "meaning": "Oxford 3000 · A2 · jump"
+    },
+    {
+      "word": "kid",
+      "meaning": "Oxford 3000 · A2 · kid"
+    },
+    {
+      "word": "kill",
+      "meaning": "Oxford 3000 · A2 · kill"
+    },
+    {
+      "word": "king",
+      "meaning": "Oxford 3000 · A2 · king"
+    },
+    {
+      "word": "knee",
+      "meaning": "Oxford 3000 · A2 · knee"
+    },
+    {
+      "word": "knife",
+      "meaning": "Oxford 3000 · A2 · knife"
+    },
+    {
+      "word": "knock",
+      "meaning": "Oxford 3000 · A2 · knock"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Nathan (neighbour) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

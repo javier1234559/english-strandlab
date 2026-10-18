@@ -1,0 +1,240 @@
+{
+  "id": "a1-people-01",
+  "level": "a1",
+  "topic": "people-family",
+  "topicLabel": "People & family",
+  "title": "Coffee with Anna",
+  "scene": "Javi meets Anna at a small cafe in the morning. They say hello, order coffee, talk about family and friends, then a small mix-up turns into a funny, warm afternoon together.",
+  "order": 1,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "an",
+      "meaning": "Oxford 3000 · A1 · an"
+    },
+    {
+      "word": "any",
+      "meaning": "Oxford 3000 · A1 · any"
+    },
+    {
+      "word": "anyone",
+      "meaning": "Oxford 3000 · A1 · anyone"
+    },
+    {
+      "word": "aunt",
+      "meaning": "Oxford 3000 · A1 · aunt"
+    },
+    {
+      "word": "baby",
+      "meaning": "Oxford 3000 · A1 · baby"
+    },
+    {
+      "word": "boy",
+      "meaning": "Oxford 3000 · A1 · boy"
+    },
+    {
+      "word": "boyfriend",
+      "meaning": "Oxford 3000 · A1 · boyfriend"
+    },
+    {
+      "word": "brother",
+      "meaning": "Oxford 3000 · A1 · brother"
+    },
+    {
+      "word": "child",
+      "meaning": "Oxford 3000 · A1 · child"
+    },
+    {
+      "word": "cousin",
+      "meaning": "Oxford 3000 · A1 · cousin"
+    },
+    {
+      "word": "dad",
+      "meaning": "Oxford 3000 · A1 · dad"
+    },
+    {
+      "word": "daughter",
+      "meaning": "Oxford 3000 · A1 · daughter"
+    },
+    {
+      "word": "ever",
+      "meaning": "Oxford 3000 · A1 · ever"
+    },
+    {
+      "word": "every",
+      "meaning": "Oxford 3000 · A1 · every"
+    },
+    {
+      "word": "everyone",
+      "meaning": "Oxford 3000 · A1 · everyone"
+    },
+    {
+      "word": "family",
+      "meaning": "Oxford 3000 · A1 · family"
+    },
+    {
+      "word": "fat",
+      "meaning": "Oxford 3000 · A1 · fat"
+    },
+    {
+      "word": "father",
+      "meaning": "Oxford 3000 · A1 · father"
+    },
+    {
+      "word": "friend",
+      "meaning": "Oxford 3000 · A1 · friend"
+    },
+    {
+      "word": "friendly",
+      "meaning": "Oxford 3000 · A1 · friendly"
+    },
+    {
+      "word": "girl",
+      "meaning": "Oxford 3000 · A1 · girl"
+    },
+    {
+      "word": "girlfriend",
+      "meaning": "Oxford 3000 · A1 · girlfriend"
+    },
+    {
+      "word": "husband",
+      "meaning": "Oxford 3000 · A1 · husband"
+    },
+    {
+      "word": "man",
+      "meaning": "Oxford 3000 · A1 · man"
+    },
+    {
+      "word": "mother",
+      "meaning": "Oxford 3000 · A1 · mother"
+    },
+    {
+      "word": "mum",
+      "meaning": "Oxford 3000 · A1 · mum"
+    },
+    {
+      "word": "name",
+      "meaning": "Oxford 3000 · A1 · name"
+    },
+    {
+      "word": "neighbour",
+      "meaning": "Oxford 3000 · A1 · neighbour"
+    },
+    {
+      "word": "parent",
+      "meaning": "Oxford 3000 · A1 · parent"
+    },
+    {
+      "word": "people",
+      "meaning": "Oxford 3000 · A1 · people"
+    },
+    {
+      "word": "person",
+      "meaning": "Oxford 3000 · A1 · person"
+    },
+    {
+      "word": "personal",
+      "meaning": "Oxford 3000 · A1 · personal"
+    },
+    {
+      "word": "sister",
+      "meaning": "Oxford 3000 · A1 · sister"
+    },
+    {
+      "word": "so",
+      "meaning": "Oxford 3000 · A1 · so"
+    },
+    {
+      "word": "some",
+      "meaning": "Oxford 3000 · A1 · some"
+    },
+    {
+      "word": "somebody",
+      "meaning": "Oxford 3000 · A1 · somebody"
+    },
+    {
+      "word": "someone",
+      "meaning": "Oxford 3000 · A1 · someone"
+    },
+    {
+      "word": "son",
+      "meaning": "Oxford 3000 · A1 · son"
+    },
+    {
+      "word": "uncle",
+      "meaning": "Oxford 3000 · A1 · uncle"
+    },
+    {
+      "word": "wife",
+      "meaning": "Oxford 3000 · A1 · wife"
+    },
+    {
+      "word": "woman",
+      "meaning": "Oxford 3000 · A1 · woman"
+    },
+    {
+      "word": "apartment",
+      "meaning": "Oxford 3000 · A1 · apartment"
+    },
+    {
+      "word": "bath",
+      "meaning": "Oxford 3000 · A1 · bath"
+    },
+    {
+      "word": "bathroom",
+      "meaning": "Oxford 3000 · A1 · bathroom"
+    },
+    {
+      "word": "be",
+      "meaning": "Oxford 3000 · A1 · be"
+    },
+    {
+      "word": "bed",
+      "meaning": "Oxford 3000 · A1 · bed"
+    },
+    {
+      "word": "bedroom",
+      "meaning": "Oxford 3000 · A1 · bedroom"
+    },
+    {
+      "word": "chair",
+      "meaning": "Oxford 3000 · A1 · chair"
+    },
+    {
+      "word": "clean",
+      "meaning": "Oxford 3000 · A1 · clean"
+    },
+    {
+      "word": "do",
+      "meaning": "Oxford 3000 · A1 · do"
+    },
+    {
+      "word": "door",
+      "meaning": "Oxford 3000 · A1 · door"
+    },
+    {
+      "word": "even",
+      "meaning": "Oxford 3000 · A1 · even"
+    },
+    {
+      "word": "evening",
+      "meaning": "Oxford 3000 · A1 · evening"
+    },
+    {
+      "word": "flat",
+      "meaning": "Oxford 3000 · A1 · flat"
+    },
+    {
+      "word": "floor",
+      "meaning": "Oxford 3000 · A1 · floor"
+    },
+    {
+      "word": "garden",
+      "meaning": "Oxford 3000 · A1 · garden"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

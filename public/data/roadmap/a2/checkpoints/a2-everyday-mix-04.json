@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-04",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Everyday mix with Anna",
+  "scene": "A flexible everyday episode with Anna: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 6,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "corner",
+      "meaning": "Oxford 3000 · A2 · corner"
+    },
+    {
+      "word": "correctly",
+      "meaning": "Oxford 3000 · A2 · correctly"
+    },
+    {
+      "word": "couple",
+      "meaning": "Oxford 3000 · A2 · couple"
+    },
+    {
+      "word": "cover",
+      "meaning": "Oxford 3000 · A2 · cover"
+    },
+    {
+      "word": "crazy",
+      "meaning": "Oxford 3000 · A2 · crazy"
+    },
+    {
+      "word": "creative",
+      "meaning": "Oxford 3000 · A2 · creative"
+    },
+    {
+      "word": "credit",
+      "meaning": "Oxford 3000 · A2 · credit"
+    },
+    {
+      "word": "crime",
+      "meaning": "Oxford 3000 · A2 · crime"
+    },
+    {
+      "word": "criminal",
+      "meaning": "Oxford 3000 · A2 · criminal"
+    },
+    {
+      "word": "cross",
+      "meaning": "Oxford 3000 · A2 · cross"
+    },
+    {
+      "word": "crowd",
+      "meaning": "Oxford 3000 · A2 · crowd"
+    },
+    {
+      "word": "crowded",
+      "meaning": "Oxford 3000 · A2 · crowded"
+    },
+    {
+      "word": "cry",
+      "meaning": "Oxford 3000 · A2 · cry"
+    },
+    {
+      "word": "cupboard",
+      "meaning": "Oxford 3000 · A2 · cupboard"
+    },
+    {
+      "word": "curly",
+      "meaning": "Oxford 3000 · A2 · curly"
+    },
+    {
+      "word": "cycle",
+      "meaning": "Oxford 3000 · A2 · cycle"
+    },
+    {
+      "word": "daily",
+      "meaning": "Oxford 3000 · A2 · daily"
+    },
+    {
+      "word": "danger",
+      "meaning": "Oxford 3000 · A2 · danger"
+    },
+    {
+      "word": "dark",
+      "meaning": "Oxford 3000 · A2 · dark"
+    },
+    {
+      "word": "data",
+      "meaning": "Oxford 3000 · A2 · data"
+    },
+    {
+      "word": "dead",
+      "meaning": "Oxford 3000 · A2 · dead"
+    },
+    {
+      "word": "deal",
+      "meaning": "Oxford 3000 · A2 · deal"
+    },
+    {
+      "word": "dear",
+      "meaning": "Oxford 3000 · A2 · dear"
+    },
+    {
+      "word": "death",
+      "meaning": "Oxford 3000 · A2 · death"
+    },
+    {
+      "word": "deep",
+      "meaning": "Oxford 3000 · A2 · deep"
+    },
+    {
+      "word": "definitely",
+      "meaning": "Oxford 3000 · A2 · definitely"
+    },
+    {
+      "word": "degree",
+      "meaning": "Oxford 3000 · A2 · degree"
+    },
+    {
+      "word": "dentist",
+      "meaning": "Oxford 3000 · A2 · dentist"
+    },
+    {
+      "word": "department",
+      "meaning": "Oxford 3000 · A2 · department"
+    },
+    {
+      "word": "depend",
+      "meaning": "Oxford 3000 · A2 · depend"
+    },
+    {
+      "word": "desert",
+      "meaning": "Oxford 3000 · A2 · desert"
+    },
+    {
+      "word": "designer",
+      "meaning": "Oxford 3000 · A2 · designer"
+    },
+    {
+      "word": "dessert",
+      "meaning": "Oxford 3000 · A2 · dessert"
+    },
+    {
+      "word": "destroy",
+      "meaning": "Oxford 3000 · A2 · destroy"
+    },
+    {
+      "word": "detective",
+      "meaning": "Oxford 3000 · A2 · detective"
+    },
+    {
+      "word": "develop",
+      "meaning": "Oxford 3000 · A2 · develop"
+    },
+    {
+      "word": "device",
+      "meaning": "Oxford 3000 · A2 · device"
+    },
+    {
+      "word": "diary",
+      "meaning": "Oxford 3000 · A2 · diary"
+    },
+    {
+      "word": "differently",
+      "meaning": "Oxford 3000 · A2 · differently"
+    },
+    {
+      "word": "digital",
+      "meaning": "Oxford 3000 · A2 · digital"
+    },
+    {
+      "word": "direct",
+      "meaning": "Oxford 3000 · A2 · direct"
+    },
+    {
+      "word": "direction",
+      "meaning": "Oxford 3000 · A2 · direction"
+    },
+    {
+      "word": "director",
+      "meaning": "Oxford 3000 · A2 · director"
+    },
+    {
+      "word": "disappear",
+      "meaning": "Oxford 3000 · A2 · disappear"
+    },
+    {
+      "word": "disaster",
+      "meaning": "Oxford 3000 · A2 · disaster"
+    },
+    {
+      "word": "discover",
+      "meaning": "Oxford 3000 · A2 · discover"
+    },
+    {
+      "word": "discovery",
+      "meaning": "Oxford 3000 · A2 · discovery"
+    },
+    {
+      "word": "discussion",
+      "meaning": "Oxford 3000 · A2 · discussion"
+    },
+    {
+      "word": "disease",
+      "meaning": "Oxford 3000 · A2 · disease"
+    },
+    {
+      "word": "distance",
+      "meaning": "Oxford 3000 · A2 · distance"
+    },
+    {
+      "word": "divorced",
+      "meaning": "Oxford 3000 · A2 · divorced"
+    },
+    {
+      "word": "document",
+      "meaning": "Oxford 3000 · A2 · document"
+    },
+    {
+      "word": "double",
+      "meaning": "Oxford 3000 · A2 · double"
+    },
+    {
+      "word": "download",
+      "meaning": "Oxford 3000 · A2 · download"
+    },
+    {
+      "word": "downstairs",
+      "meaning": "Oxford 3000 · A2 · downstairs"
+    },
+    {
+      "word": "drama",
+      "meaning": "Oxford 3000 · A2 · drama"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

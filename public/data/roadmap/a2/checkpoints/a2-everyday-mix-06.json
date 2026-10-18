@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-06",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 8,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "female",
+      "meaning": "Oxford 3000 · A2 · female"
+    },
+    {
+      "word": "fiction",
+      "meaning": "Oxford 3000 · A2 · fiction"
+    },
+    {
+      "word": "field",
+      "meaning": "Oxford 3000 · A2 · field"
+    },
+    {
+      "word": "fight",
+      "meaning": "Oxford 3000 · A2 · fight"
+    },
+    {
+      "word": "figure",
+      "meaning": "Oxford 3000 · A2 · figure"
+    },
+    {
+      "word": "final",
+      "meaning": "Oxford 3000 · A2 · final"
+    },
+    {
+      "word": "finally",
+      "meaning": "Oxford 3000 · A2 · finally"
+    },
+    {
+      "word": "finger",
+      "meaning": "Oxford 3000 · A2 · finger"
+    },
+    {
+      "word": "finish",
+      "meaning": "Oxford 3000 · A2 · finish"
+    },
+    {
+      "word": "first",
+      "meaning": "Oxford 3000 · A2 · first"
+    },
+    {
+      "word": "firstly",
+      "meaning": "Oxford 3000 · A2 · firstly"
+    },
+    {
+      "word": "fix",
+      "meaning": "Oxford 3000 · A2 · fix"
+    },
+    {
+      "word": "flu",
+      "meaning": "Oxford 3000 · A2 · flu"
+    },
+    {
+      "word": "flying",
+      "meaning": "Oxford 3000 · A2 · flying"
+    },
+    {
+      "word": "focus",
+      "meaning": "Oxford 3000 · A2 · focus"
+    },
+    {
+      "word": "following",
+      "meaning": "Oxford 3000 · A2 · following"
+    },
+    {
+      "word": "foreign",
+      "meaning": "Oxford 3000 · A2 · foreign"
+    },
+    {
+      "word": "forest",
+      "meaning": "Oxford 3000 · A2 · forest"
+    },
+    {
+      "word": "fork",
+      "meaning": "Oxford 3000 · A2 · fork"
+    },
+    {
+      "word": "formal",
+      "meaning": "Oxford 3000 · A2 · formal"
+    },
+    {
+      "word": "fortunately",
+      "meaning": "Oxford 3000 · A2 · fortunately"
+    },
+    {
+      "word": "forward",
+      "meaning": "Oxford 3000 · A2 · forward"
+    },
+    {
+      "word": "free",
+      "meaning": "Oxford 3000 · A2 · free"
+    },
+    {
+      "word": "fresh",
+      "meaning": "Oxford 3000 · A2 · fresh"
+    },
+    {
+      "word": "fridge",
+      "meaning": "Oxford 3000 · A2 · fridge"
+    },
+    {
+      "word": "frog",
+      "meaning": "Oxford 3000 · A2 · frog"
+    },
+    {
+      "word": "furniture",
+      "meaning": "Oxford 3000 · A2 · furniture"
+    },
+    {
+      "word": "further",
+      "meaning": "Oxford 3000 · A2 · further"
+    },
+    {
+      "word": "gallery",
+      "meaning": "Oxford 3000 · A2 · gallery"
+    },
+    {
+      "word": "gap",
+      "meaning": "Oxford 3000 · A2 · gap"
+    },
+    {
+      "word": "gas",
+      "meaning": "Oxford 3000 · A2 · gas"
+    },
+    {
+      "word": "gate",
+      "meaning": "Oxford 3000 · A2 · gate"
+    },
+    {
+      "word": "general",
+      "meaning": "Oxford 3000 · A2 · general"
+    },
+    {
+      "word": "gift",
+      "meaning": "Oxford 3000 · A2 · gift"
+    },
+    {
+      "word": "goal",
+      "meaning": "Oxford 3000 · A2 · goal"
+    },
+    {
+      "word": "god",
+      "meaning": "Oxford 3000 · A2 · god"
+    },
+    {
+      "word": "gold",
+      "meaning": "Oxford 3000 · A2 · gold"
+    },
+    {
+      "word": "golf",
+      "meaning": "Oxford 3000 · A2 · golf"
+    },
+    {
+      "word": "grass",
+      "meaning": "Oxford 3000 · A2 · grass"
+    },
+    {
+      "word": "greet",
+      "meaning": "Oxford 3000 · A2 · greet"
+    },
+    {
+      "word": "ground",
+      "meaning": "Oxford 3000 · A2 · ground"
+    },
+    {
+      "word": "guest",
+      "meaning": "Oxford 3000 · A2 · guest"
+    },
+    {
+      "word": "guide",
+      "meaning": "Oxford 3000 · A2 · guide"
+    },
+    {
+      "word": "gun",
+      "meaning": "Oxford 3000 · A2 · gun"
+    },
+    {
+      "word": "guy",
+      "meaning": "Oxford 3000 · A2 · guy"
+    },
+    {
+      "word": "habit",
+      "meaning": "Oxford 3000 · A2 · habit"
+    },
+    {
+      "word": "half",
+      "meaning": "Oxford 3000 · A2 · half"
+    },
+    {
+      "word": "hall",
+      "meaning": "Oxford 3000 · A2 · hall"
+    },
+    {
+      "word": "happily",
+      "meaning": "Oxford 3000 · A2 · happily"
+    },
+    {
+      "word": "have",
+      "meaning": "Oxford 3000 · A2 · have"
+    },
+    {
+      "word": "heart",
+      "meaning": "Oxford 3000 · A2 · heart"
+    },
+    {
+      "word": "heat",
+      "meaning": "Oxford 3000 · A2 · heat"
+    },
+    {
+      "word": "heavy",
+      "meaning": "Oxford 3000 · A2 · heavy"
+    },
+    {
+      "word": "height",
+      "meaning": "Oxford 3000 · A2 · height"
+    },
+    {
+      "word": "helpful",
+      "meaning": "Oxford 3000 · A2 · helpful"
+    },
+    {
+      "word": "hero",
+      "meaning": "Oxford 3000 · A2 · hero"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

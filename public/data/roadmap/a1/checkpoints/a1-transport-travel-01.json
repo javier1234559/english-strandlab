@@ -1,0 +1,240 @@
+{
+  "id": "a1-transport-travel-01",
+  "level": "a1",
+  "topic": "transport-travel",
+  "topicLabel": "Transport & travel",
+  "title": "A A1 story — Transport & travel",
+  "scene": "A travel/transport episode with Sean: a journey, something that goes wrong, and how they get through it.",
+  "order": 5,
+  "characters": [
+    "javi",
+    "sean"
+  ],
+  "vocab": [
+    {
+      "word": "off",
+      "meaning": "Oxford 3000 · A1 · off"
+    },
+    {
+      "word": "office",
+      "meaning": "Oxford 3000 · A1 · office"
+    },
+    {
+      "word": "pay",
+      "meaning": "Oxford 3000 · A1 · pay"
+    },
+    {
+      "word": "price",
+      "meaning": "Oxford 3000 · A1 · price"
+    },
+    {
+      "word": "project",
+      "meaning": "Oxford 3000 · A1 · project"
+    },
+    {
+      "word": "sell",
+      "meaning": "Oxford 3000 · A1 · sell"
+    },
+    {
+      "word": "shop",
+      "meaning": "Oxford 3000 · A1 · shop"
+    },
+    {
+      "word": "shopping",
+      "meaning": "Oxford 3000 · A1 · shopping"
+    },
+    {
+      "word": "work",
+      "meaning": "Oxford 3000 · A1 · work"
+    },
+    {
+      "word": "worker",
+      "meaning": "Oxford 3000 · A1 · worker"
+    },
+    {
+      "word": "bag",
+      "meaning": "Oxford 3000 · A1 · bag"
+    },
+    {
+      "word": "boot",
+      "meaning": "Oxford 3000 · A1 · boot"
+    },
+    {
+      "word": "card",
+      "meaning": "Oxford 3000 · A1 · card"
+    },
+    {
+      "word": "cheap",
+      "meaning": "Oxford 3000 · A1 · cheap"
+    },
+    {
+      "word": "clothes",
+      "meaning": "Oxford 3000 · A1 · clothes"
+    },
+    {
+      "word": "coat",
+      "meaning": "Oxford 3000 · A1 · coat"
+    },
+    {
+      "word": "colour",
+      "meaning": "Oxford 3000 · A1 · colour"
+    },
+    {
+      "word": "cost",
+      "meaning": "Oxford 3000 · A1 · cost"
+    },
+    {
+      "word": "dress",
+      "meaning": "Oxford 3000 · A1 · dress"
+    },
+    {
+      "word": "expensive",
+      "meaning": "Oxford 3000 · A1 · expensive"
+    },
+    {
+      "word": "hat",
+      "meaning": "Oxford 3000 · A1 · hat"
+    },
+    {
+      "word": "jacket",
+      "meaning": "Oxford 3000 · A1 · jacket"
+    },
+    {
+      "word": "shirt",
+      "meaning": "Oxford 3000 · A1 · shirt"
+    },
+    {
+      "word": "shoe",
+      "meaning": "Oxford 3000 · A1 · shoe"
+    },
+    {
+      "word": "skirt",
+      "meaning": "Oxford 3000 · A1 · skirt"
+    },
+    {
+      "word": "trousers",
+      "meaning": "Oxford 3000 · A1 · trousers"
+    },
+    {
+      "word": "T-shirt",
+      "meaning": "Oxford 3000 · A1 · T-shirt"
+    },
+    {
+      "word": "wear",
+      "meaning": "Oxford 3000 · A1 · wear"
+    },
+    {
+      "word": "air",
+      "meaning": "Oxford 3000 · A1 · air"
+    },
+    {
+      "word": "airport",
+      "meaning": "Oxford 3000 · A1 · airport"
+    },
+    {
+      "word": "bicycle",
+      "meaning": "Oxford 3000 · A1 · bicycle"
+    },
+    {
+      "word": "bike",
+      "meaning": "Oxford 3000 · A1 · bike"
+    },
+    {
+      "word": "city",
+      "meaning": "Oxford 3000 · A1 · city"
+    },
+    {
+      "word": "country",
+      "meaning": "Oxford 3000 · A1 · country"
+    },
+    {
+      "word": "drive",
+      "meaning": "Oxford 3000 · A1 · drive"
+    },
+    {
+      "word": "driver",
+      "meaning": "Oxford 3000 · A1 · driver"
+    },
+    {
+      "word": "fly",
+      "meaning": "Oxford 3000 · A1 · fly"
+    },
+    {
+      "word": "holiday",
+      "meaning": "Oxford 3000 · A1 · holiday"
+    },
+    {
+      "word": "hot",
+      "meaning": "Oxford 3000 · A1 · hot"
+    },
+    {
+      "word": "hotel",
+      "meaning": "Oxford 3000 · A1 · hotel"
+    },
+    {
+      "word": "journey",
+      "meaning": "Oxford 3000 · A1 · journey"
+    },
+    {
+      "word": "map",
+      "meaning": "Oxford 3000 · A1 · map"
+    },
+    {
+      "word": "plan",
+      "meaning": "Oxford 3000 · A1 · plan"
+    },
+    {
+      "word": "plane",
+      "meaning": "Oxford 3000 · A1 · plane"
+    },
+    {
+      "word": "road",
+      "meaning": "Oxford 3000 · A1 · road"
+    },
+    {
+      "word": "station",
+      "meaning": "Oxford 3000 · A1 · station"
+    },
+    {
+      "word": "street",
+      "meaning": "Oxford 3000 · A1 · street"
+    },
+    {
+      "word": "taxi",
+      "meaning": "Oxford 3000 · A1 · taxi"
+    },
+    {
+      "word": "ticket",
+      "meaning": "Oxford 3000 · A1 · ticket"
+    },
+    {
+      "word": "town",
+      "meaning": "Oxford 3000 · A1 · town"
+    },
+    {
+      "word": "traffic",
+      "meaning": "Oxford 3000 · A1 · traffic"
+    },
+    {
+      "word": "train",
+      "meaning": "Oxford 3000 · A1 · train"
+    },
+    {
+      "word": "travel",
+      "meaning": "Oxford 3000 · A1 · travel"
+    },
+    {
+      "word": "trip",
+      "meaning": "Oxford 3000 · A1 · trip"
+    },
+    {
+      "word": "vacation",
+      "meaning": "Oxford 3000 · A1 · vacation"
+    },
+    {
+      "word": "walk",
+      "meaning": "Oxford 3000 · A1 · walk"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Sean (hobby friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

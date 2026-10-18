@@ -1,0 +1,240 @@
+{
+  "id": "a1-everyday-mix-01",
+  "level": "a1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 8,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "language",
+      "meaning": "Oxford 3000 · A1 · language"
+    },
+    {
+      "word": "message",
+      "meaning": "Oxford 3000 · A1 · message"
+    },
+    {
+      "word": "please",
+      "meaning": "Oxford 3000 · A1 · please"
+    },
+    {
+      "word": "say",
+      "meaning": "Oxford 3000 · A1 · say"
+    },
+    {
+      "word": "sentence",
+      "meaning": "Oxford 3000 · A1 · sentence"
+    },
+    {
+      "word": "sorry",
+      "meaning": "Oxford 3000 · A1 · sorry"
+    },
+    {
+      "word": "speak",
+      "meaning": "Oxford 3000 · A1 · speak"
+    },
+    {
+      "word": "talk",
+      "meaning": "Oxford 3000 · A1 · talk"
+    },
+    {
+      "word": "tell",
+      "meaning": "Oxford 3000 · A1 · tell"
+    },
+    {
+      "word": "than",
+      "meaning": "Oxford 3000 · A1 · than"
+    },
+    {
+      "word": "thank",
+      "meaning": "Oxford 3000 · A1 · thank"
+    },
+    {
+      "word": "thanks",
+      "meaning": "Oxford 3000 · A1 · thanks"
+    },
+    {
+      "word": "under",
+      "meaning": "Oxford 3000 · A1 · under"
+    },
+    {
+      "word": "understand",
+      "meaning": "Oxford 3000 · A1 · understand"
+    },
+    {
+      "word": "word",
+      "meaning": "Oxford 3000 · A1 · word"
+    },
+    {
+      "word": "change",
+      "meaning": "Oxford 3000 · A1 · change"
+    },
+    {
+      "word": "culture",
+      "meaning": "Oxford 3000 · A1 · culture"
+    },
+    {
+      "word": "fact",
+      "meaning": "Oxford 3000 · A1 · fact"
+    },
+    {
+      "word": "future",
+      "meaning": "Oxford 3000 · A1 · future"
+    },
+    {
+      "word": "information",
+      "meaning": "Oxford 3000 · A1 · information"
+    },
+    {
+      "word": "new",
+      "meaning": "Oxford 3000 · A1 · new"
+    },
+    {
+      "word": "news",
+      "meaning": "Oxford 3000 · A1 · news"
+    },
+    {
+      "word": "newspaper",
+      "meaning": "Oxford 3000 · A1 · newspaper"
+    },
+    {
+      "word": "present",
+      "meaning": "Oxford 3000 · A1 · present"
+    },
+    {
+      "word": "problem",
+      "meaning": "Oxford 3000 · A1 · problem"
+    },
+    {
+      "word": "a, an",
+      "meaning": "Oxford 3000 · A1 · a, an"
+    },
+    {
+      "word": "about",
+      "meaning": "Oxford 3000 · A1 · about"
+    },
+    {
+      "word": "above",
+      "meaning": "Oxford 3000 · A1 · above"
+    },
+    {
+      "word": "across",
+      "meaning": "Oxford 3000 · A1 · across"
+    },
+    {
+      "word": "action",
+      "meaning": "Oxford 3000 · A1 · action"
+    },
+    {
+      "word": "activity",
+      "meaning": "Oxford 3000 · A1 · activity"
+    },
+    {
+      "word": "actor",
+      "meaning": "Oxford 3000 · A1 · actor"
+    },
+    {
+      "word": "actress",
+      "meaning": "Oxford 3000 · A1 · actress"
+    },
+    {
+      "word": "add",
+      "meaning": "Oxford 3000 · A1 · add"
+    },
+    {
+      "word": "address",
+      "meaning": "Oxford 3000 · A1 · address"
+    },
+    {
+      "word": "adult",
+      "meaning": "Oxford 3000 · A1 · adult"
+    },
+    {
+      "word": "advice",
+      "meaning": "Oxford 3000 · A1 · advice"
+    },
+    {
+      "word": "again",
+      "meaning": "Oxford 3000 · A1 · again"
+    },
+    {
+      "word": "age",
+      "meaning": "Oxford 3000 · A1 · age"
+    },
+    {
+      "word": "ago",
+      "meaning": "Oxford 3000 · A1 · ago"
+    },
+    {
+      "word": "all",
+      "meaning": "Oxford 3000 · A1 · all"
+    },
+    {
+      "word": "also",
+      "meaning": "Oxford 3000 · A1 · also"
+    },
+    {
+      "word": "amazing",
+      "meaning": "Oxford 3000 · A1 · amazing"
+    },
+    {
+      "word": "and",
+      "meaning": "Oxford 3000 · A1 · and"
+    },
+    {
+      "word": "another",
+      "meaning": "Oxford 3000 · A1 · another"
+    },
+    {
+      "word": "anything",
+      "meaning": "Oxford 3000 · A1 · anything"
+    },
+    {
+      "word": "area",
+      "meaning": "Oxford 3000 · A1 · area"
+    },
+    {
+      "word": "around",
+      "meaning": "Oxford 3000 · A1 · around"
+    },
+    {
+      "word": "arrive",
+      "meaning": "Oxford 3000 · A1 · arrive"
+    },
+    {
+      "word": "art",
+      "meaning": "Oxford 3000 · A1 · art"
+    },
+    {
+      "word": "article",
+      "meaning": "Oxford 3000 · A1 · article"
+    },
+    {
+      "word": "artist",
+      "meaning": "Oxford 3000 · A1 · artist"
+    },
+    {
+      "word": "as",
+      "meaning": "Oxford 3000 · A1 · as"
+    },
+    {
+      "word": "at",
+      "meaning": "Oxford 3000 · A1 · at"
+    },
+    {
+      "word": "autumn",
+      "meaning": "Oxford 3000 · A1 · autumn"
+    },
+    {
+      "word": "away",
+      "meaning": "Oxford 3000 · A1 · away"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

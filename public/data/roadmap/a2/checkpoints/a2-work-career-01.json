@@ -1,0 +1,240 @@
+{
+  "id": "a2-work-career-01",
+  "level": "a2",
+  "topic": "work-career",
+  "topicLabel": "Work & career",
+  "title": "Work & career with Anna",
+  "scene": "A work episode with Anna: a real task, pressure or a customer moment, and a useful outcome.",
+  "order": 1,
+  "characters": [
+    "javi",
+    "anna"
+  ],
+  "vocab": [
+    {
+      "word": "any",
+      "meaning": "Oxford 3000 · A2 · any"
+    },
+    {
+      "word": "anybody",
+      "meaning": "Oxford 3000 · A2 · anybody"
+    },
+    {
+      "word": "fat",
+      "meaning": "Oxford 3000 · A2 · fat"
+    },
+    {
+      "word": "per",
+      "meaning": "Oxford 3000 · A2 · per"
+    },
+    {
+      "word": "personality",
+      "meaning": "Oxford 3000 · A2 · personality"
+    },
+    {
+      "word": "flat",
+      "meaning": "Oxford 3000 · A2 · flat"
+    },
+    {
+      "word": "home",
+      "meaning": "Oxford 3000 · A2 · home"
+    },
+    {
+      "word": "lamp",
+      "meaning": "Oxford 3000 · A2 · lamp"
+    },
+    {
+      "word": "light (from the sun/a lamp)",
+      "meaning": "Oxford 3000 · A2 · light (from the sun/a lamp)"
+    },
+    {
+      "word": "rest (sleep/relax)",
+      "meaning": "Oxford 3000 · A2 · rest (sleep/relax)"
+    },
+    {
+      "word": "sleep",
+      "meaning": "Oxford 3000 · A2 · sleep"
+    },
+    {
+      "word": "stay",
+      "meaning": "Oxford 3000 · A2 · stay"
+    },
+    {
+      "word": "tablet",
+      "meaning": "Oxford 3000 · A2 · tablet"
+    },
+    {
+      "word": "wash",
+      "meaning": "Oxford 3000 · A2 · wash"
+    },
+    {
+      "word": "washing",
+      "meaning": "Oxford 3000 · A2 · washing"
+    },
+    {
+      "word": "wind",
+      "meaning": "Oxford 3000 · A2 · wind"
+    },
+    {
+      "word": "app",
+      "meaning": "Oxford 3000 · A2 · app"
+    },
+    {
+      "word": "cook",
+      "meaning": "Oxford 3000 · A2 · cook"
+    },
+    {
+      "word": "cooker",
+      "meaning": "Oxford 3000 · A2 · cooker"
+    },
+    {
+      "word": "fish",
+      "meaning": "Oxford 3000 · A2 · fish"
+    },
+    {
+      "word": "fishing",
+      "meaning": "Oxford 3000 · A2 · fishing"
+    },
+    {
+      "word": "past",
+      "meaning": "Oxford 3000 · A2 · past"
+    },
+    {
+      "word": "taste",
+      "meaning": "Oxford 3000 · A2 · taste"
+    },
+    {
+      "word": "after",
+      "meaning": "Oxford 3000 · A2 · after"
+    },
+    {
+      "word": "birth",
+      "meaning": "Oxford 3000 · A2 · birth"
+    },
+    {
+      "word": "last (taking time)",
+      "meaning": "Oxford 3000 · A2 · last (taking time)"
+    },
+    {
+      "word": "later",
+      "meaning": "Oxford 3000 · A2 · later"
+    },
+    {
+      "word": "may",
+      "meaning": "Oxford 3000 · A2 · may"
+    },
+    {
+      "word": "second (next after the first)",
+      "meaning": "Oxford 3000 · A2 · second (next after the first)"
+    },
+    {
+      "word": "secondly",
+      "meaning": "Oxford 3000 · A2 · secondly"
+    },
+    {
+      "word": "usual",
+      "meaning": "Oxford 3000 · A2 · usual"
+    },
+    {
+      "word": "book",
+      "meaning": "Oxford 3000 · A2 · book"
+    },
+    {
+      "word": "classical",
+      "meaning": "Oxford 3000 · A2 · classical"
+    },
+    {
+      "word": "his",
+      "meaning": "Oxford 3000 · A2 · his"
+    },
+    {
+      "word": "learning",
+      "meaning": "Oxford 3000 · A2 · learning"
+    },
+    {
+      "word": "less",
+      "meaning": "Oxford 3000 · A2 · less"
+    },
+    {
+      "word": "mathematics",
+      "meaning": "Oxford 3000 · A2 · mathematics"
+    },
+    {
+      "word": "maths",
+      "meaning": "Oxford 3000 · A2 · maths"
+    },
+    {
+      "word": "question",
+      "meaning": "Oxford 3000 · A2 · question"
+    },
+    {
+      "word": "boss",
+      "meaning": "Oxford 3000 · A2 · boss"
+    },
+    {
+      "word": "businessman",
+      "meaning": "Oxford 3000 · A2 · businessman"
+    },
+    {
+      "word": "care",
+      "meaning": "Oxford 3000 · A2 · care"
+    },
+    {
+      "word": "colleague",
+      "meaning": "Oxford 3000 · A2 · colleague"
+    },
+    {
+      "word": "manage",
+      "meaning": "Oxford 3000 · A2 · manage"
+    },
+    {
+      "word": "manager",
+      "meaning": "Oxford 3000 · A2 · manager"
+    },
+    {
+      "word": "mark",
+      "meaning": "Oxford 3000 · A2 · mark"
+    },
+    {
+      "word": "officer",
+      "meaning": "Oxford 3000 · A2 · officer"
+    },
+    {
+      "word": "pay",
+      "meaning": "Oxford 3000 · A2 · pay"
+    },
+    {
+      "word": "salary",
+      "meaning": "Oxford 3000 · A2 · salary"
+    },
+    {
+      "word": "store",
+      "meaning": "Oxford 3000 · A2 · store"
+    },
+    {
+      "word": "working",
+      "meaning": "Oxford 3000 · A2 · working"
+    },
+    {
+      "word": "cash",
+      "meaning": "Oxford 3000 · A2 · cash"
+    },
+    {
+      "word": "fashion",
+      "meaning": "Oxford 3000 · A2 · fashion"
+    },
+    {
+      "word": "pants",
+      "meaning": "Oxford 3000 · A2 · pants"
+    },
+    {
+      "word": "size",
+      "meaning": "Oxford 3000 · A2 · size"
+    },
+    {
+      "word": "ski",
+      "meaning": "Oxford 3000 · A2 · ski"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Anna (close friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

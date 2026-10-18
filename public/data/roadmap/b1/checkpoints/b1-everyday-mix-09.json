@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-09",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "A B1 story — Everyday mix",
+  "scene": "A flexible everyday episode with Sean: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 10,
+  "characters": [
+    "javi",
+    "sean"
+  ],
+  "vocab": [
+    {
+      "word": "passion",
+      "meaning": "Oxford 3000 · B1 · passion"
+    },
+    {
+      "word": "path",
+      "meaning": "Oxford 3000 · B1 · path"
+    },
+    {
+      "word": "payment",
+      "meaning": "Oxford 3000 · B1 · payment"
+    },
+    {
+      "word": "peaceful",
+      "meaning": "Oxford 3000 · B1 · peaceful"
+    },
+    {
+      "word": "percentage",
+      "meaning": "Oxford 3000 · B1 · percentage"
+    },
+    {
+      "word": "perfectly",
+      "meaning": "Oxford 3000 · B1 · perfectly"
+    },
+    {
+      "word": "performance",
+      "meaning": "Oxford 3000 · B1 · performance"
+    },
+    {
+      "word": "persuade",
+      "meaning": "Oxford 3000 · B1 · persuade"
+    },
+    {
+      "word": "pin",
+      "meaning": "Oxford 3000 · B1 · pin"
+    },
+    {
+      "word": "pipe",
+      "meaning": "Oxford 3000 · B1 · pipe"
+    },
+    {
+      "word": "place",
+      "meaning": "Oxford 3000 · B1 · place"
+    },
+    {
+      "word": "planning",
+      "meaning": "Oxford 3000 · B1 · planning"
+    },
+    {
+      "word": "pleasant",
+      "meaning": "Oxford 3000 · B1 · pleasant"
+    },
+    {
+      "word": "pleasure",
+      "meaning": "Oxford 3000 · B1 · pleasure"
+    },
+    {
+      "word": "plenty",
+      "meaning": "Oxford 3000 · B1 · plenty"
+    },
+    {
+      "word": "plot",
+      "meaning": "Oxford 3000 · B1 · plot"
+    },
+    {
+      "word": "plus",
+      "meaning": "Oxford 3000 · B1 · plus"
+    },
+    {
+      "word": "podcast",
+      "meaning": "Oxford 3000 · B1 · podcast"
+    },
+    {
+      "word": "poem",
+      "meaning": "Oxford 3000 · B1 · poem"
+    },
+    {
+      "word": "poet",
+      "meaning": "Oxford 3000 · B1 · poet"
+    },
+    {
+      "word": "poetry",
+      "meaning": "Oxford 3000 · B1 · poetry"
+    },
+    {
+      "word": "point",
+      "meaning": "Oxford 3000 · B1 · point"
+    },
+    {
+      "word": "poison",
+      "meaning": "Oxford 3000 · B1 · poison"
+    },
+    {
+      "word": "poisonous",
+      "meaning": "Oxford 3000 · B1 · poisonous"
+    },
+    {
+      "word": "policy",
+      "meaning": "Oxford 3000 · B1 · policy"
+    },
+    {
+      "word": "political",
+      "meaning": "Oxford 3000 · B1 · political"
+    },
+    {
+      "word": "politician",
+      "meaning": "Oxford 3000 · B1 · politician"
+    },
+    {
+      "word": "port",
+      "meaning": "Oxford 3000 · B1 · port"
+    },
+    {
+      "word": "portrait",
+      "meaning": "Oxford 3000 · B1 · portrait"
+    },
+    {
+      "word": "possibly",
+      "meaning": "Oxford 3000 · B1 · possibly"
+    },
+    {
+      "word": "pour",
+      "meaning": "Oxford 3000 · B1 · pour"
+    },
+    {
+      "word": "poverty",
+      "meaning": "Oxford 3000 · B1 · poverty"
+    },
+    {
+      "word": "powder",
+      "meaning": "Oxford 3000 · B1 · powder"
+    },
+    {
+      "word": "powerful",
+      "meaning": "Oxford 3000 · B1 · powerful"
+    },
+    {
+      "word": "practical",
+      "meaning": "Oxford 3000 · B1 · practical"
+    },
+    {
+      "word": "pray",
+      "meaning": "Oxford 3000 · B1 · pray"
+    },
+    {
+      "word": "prayer",
+      "meaning": "Oxford 3000 · B1 · prayer"
+    },
+    {
+      "word": "prediction",
+      "meaning": "Oxford 3000 · B1 · prediction"
+    },
+    {
+      "word": "prepared",
+      "meaning": "Oxford 3000 · B1 · prepared"
+    },
+    {
+      "word": "press",
+      "meaning": "Oxford 3000 · B1 · press"
+    },
+    {
+      "word": "pressure",
+      "meaning": "Oxford 3000 · B1 · pressure"
+    },
+    {
+      "word": "pretend",
+      "meaning": "Oxford 3000 · B1 · pretend"
+    },
+    {
+      "word": "previous",
+      "meaning": "Oxford 3000 · B1 · previous"
+    },
+    {
+      "word": "previously",
+      "meaning": "Oxford 3000 · B1 · previously"
+    },
+    {
+      "word": "priest",
+      "meaning": "Oxford 3000 · B1 · priest"
+    },
+    {
+      "word": "primary",
+      "meaning": "Oxford 3000 · B1 · primary"
+    },
+    {
+      "word": "prince",
+      "meaning": "Oxford 3000 · B1 · prince"
+    },
+    {
+      "word": "princess",
+      "meaning": "Oxford 3000 · B1 · princess"
+    },
+    {
+      "word": "printing",
+      "meaning": "Oxford 3000 · B1 · printing"
+    },
+    {
+      "word": "prisoner",
+      "meaning": "Oxford 3000 · B1 · prisoner"
+    },
+    {
+      "word": "private",
+      "meaning": "Oxford 3000 · B1 · private"
+    },
+    {
+      "word": "producer",
+      "meaning": "Oxford 3000 · B1 · producer"
+    },
+    {
+      "word": "production",
+      "meaning": "Oxford 3000 · B1 · production"
+    },
+    {
+      "word": "profession",
+      "meaning": "Oxford 3000 · B1 · profession"
+    },
+    {
+      "word": "profit",
+      "meaning": "Oxford 3000 · B1 · profit"
+    },
+    {
+      "word": "program",
+      "meaning": "Oxford 3000 · B1 · program"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Sean (hobby friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

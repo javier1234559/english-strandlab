@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-03",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 3,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "bush",
+      "meaning": "Oxford 3000 · B2 · bush"
+    },
+    {
+      "word": "cable",
+      "meaning": "Oxford 3000 · B2 · cable"
+    },
+    {
+      "word": "calculate",
+      "meaning": "Oxford 3000 · B2 · calculate"
+    },
+    {
+      "word": "cancel",
+      "meaning": "Oxford 3000 · B2 · cancel"
+    },
+    {
+      "word": "cancer",
+      "meaning": "Oxford 3000 · B2 · cancer"
+    },
+    {
+      "word": "capable",
+      "meaning": "Oxford 3000 · B2 · capable"
+    },
+    {
+      "word": "capacity",
+      "meaning": "Oxford 3000 · B2 · capacity"
+    },
+    {
+      "word": "capture",
+      "meaning": "Oxford 3000 · B2 · capture"
+    },
+    {
+      "word": "cast",
+      "meaning": "Oxford 3000 · B2 · cast"
+    },
+    {
+      "word": "catch",
+      "meaning": "Oxford 3000 · B2 · catch"
+    },
+    {
+      "word": "cell",
+      "meaning": "Oxford 3000 · B2 · cell"
+    },
+    {
+      "word": "chain",
+      "meaning": "Oxford 3000 · B2 · chain"
+    },
+    {
+      "word": "challenge",
+      "meaning": "Oxford 3000 · B2 · challenge"
+    },
+    {
+      "word": "characteristic",
+      "meaning": "Oxford 3000 · B2 · characteristic"
+    },
+    {
+      "word": "chart",
+      "meaning": "Oxford 3000 · B2 · chart"
+    },
+    {
+      "word": "chief",
+      "meaning": "Oxford 3000 · B2 · chief"
+    },
+    {
+      "word": "circumstance",
+      "meaning": "Oxford 3000 · B2 · circumstance"
+    },
+    {
+      "word": "cite",
+      "meaning": "Oxford 3000 · B2 · cite"
+    },
+    {
+      "word": "citizen",
+      "meaning": "Oxford 3000 · B2 · citizen"
+    },
+    {
+      "word": "civil",
+      "meaning": "Oxford 3000 · B2 · civil"
+    },
+    {
+      "word": "close",
+      "meaning": "Oxford 3000 · B2 · close"
+    },
+    {
+      "word": "closely",
+      "meaning": "Oxford 3000 · B2 · closely"
+    },
+    {
+      "word": "collapse",
+      "meaning": "Oxford 3000 · B2 · collapse"
+    },
+    {
+      "word": "combination",
+      "meaning": "Oxford 3000 · B2 · combination"
+    },
+    {
+      "word": "comfort",
+      "meaning": "Oxford 3000 · B2 · comfort"
+    },
+    {
+      "word": "command",
+      "meaning": "Oxford 3000 · B2 · command"
+    },
+    {
+      "word": "commission",
+      "meaning": "Oxford 3000 · B2 · commission"
+    },
+    {
+      "word": "commitment",
+      "meaning": "Oxford 3000 · B2 · commitment"
+    },
+    {
+      "word": "committee",
+      "meaning": "Oxford 3000 · B2 · committee"
+    },
+    {
+      "word": "commonly",
+      "meaning": "Oxford 3000 · B2 · commonly"
+    },
+    {
+      "word": "complex",
+      "meaning": "Oxford 3000 · B2 · complex"
+    },
+    {
+      "word": "complicated",
+      "meaning": "Oxford 3000 · B2 · complicated"
+    },
+    {
+      "word": "component",
+      "meaning": "Oxford 3000 · B2 · component"
+    },
+    {
+      "word": "concentration",
+      "meaning": "Oxford 3000 · B2 · concentration"
+    },
+    {
+      "word": "concept",
+      "meaning": "Oxford 3000 · B2 · concept"
+    },
+    {
+      "word": "concern",
+      "meaning": "Oxford 3000 · B2 · concern"
+    },
+    {
+      "word": "concerned",
+      "meaning": "Oxford 3000 · B2 · concerned"
+    },
+    {
+      "word": "conduct",
+      "meaning": "Oxford 3000 · B2 · conduct"
+    },
+    {
+      "word": "confidence",
+      "meaning": "Oxford 3000 · B2 · confidence"
+    },
+    {
+      "word": "conflict",
+      "meaning": "Oxford 3000 · B2 · conflict"
+    },
+    {
+      "word": "confusing",
+      "meaning": "Oxford 3000 · B2 · confusing"
+    },
+    {
+      "word": "conscious",
+      "meaning": "Oxford 3000 · B2 · conscious"
+    },
+    {
+      "word": "conservative",
+      "meaning": "Oxford 3000 · B2 · conservative"
+    },
+    {
+      "word": "consideration",
+      "meaning": "Oxford 3000 · B2 · consideration"
+    },
+    {
+      "word": "consistent",
+      "meaning": "Oxford 3000 · B2 · consistent"
+    },
+    {
+      "word": "constant",
+      "meaning": "Oxford 3000 · B2 · constant"
+    },
+    {
+      "word": "constantly",
+      "meaning": "Oxford 3000 · B2 · constantly"
+    },
+    {
+      "word": "construct",
+      "meaning": "Oxford 3000 · B2 · construct"
+    },
+    {
+      "word": "construction",
+      "meaning": "Oxford 3000 · B2 · construction"
+    },
+    {
+      "word": "contemporary",
+      "meaning": "Oxford 3000 · B2 · contemporary"
+    },
+    {
+      "word": "contest",
+      "meaning": "Oxford 3000 · B2 · contest"
+    },
+    {
+      "word": "contract",
+      "meaning": "Oxford 3000 · B2 · contract"
+    },
+    {
+      "word": "contribute",
+      "meaning": "Oxford 3000 · B2 · contribute"
+    },
+    {
+      "word": "contribution",
+      "meaning": "Oxford 3000 · B2 · contribution"
+    },
+    {
+      "word": "convert",
+      "meaning": "Oxford 3000 · B2 · convert"
+    },
+    {
+      "word": "convinced",
+      "meaning": "Oxford 3000 · B2 · convinced"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

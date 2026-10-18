@@ -1,0 +1,240 @@
+{
+  "id": "a2-everyday-mix-05",
+  "level": "a2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "When Easter changed the plan",
+  "scene": "A flexible everyday episode with Easter: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 7,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "drawing",
+      "meaning": "Oxford 3000 · A2 · drawing"
+    },
+    {
+      "word": "dream",
+      "meaning": "Oxford 3000 · A2 · dream"
+    },
+    {
+      "word": "driving",
+      "meaning": "Oxford 3000 · A2 · driving"
+    },
+    {
+      "word": "drop",
+      "meaning": "Oxford 3000 · A2 · drop"
+    },
+    {
+      "word": "drug",
+      "meaning": "Oxford 3000 · A2 · drug"
+    },
+    {
+      "word": "dry",
+      "meaning": "Oxford 3000 · A2 · dry"
+    },
+    {
+      "word": "earn",
+      "meaning": "Oxford 3000 · A2 · earn"
+    },
+    {
+      "word": "earth",
+      "meaning": "Oxford 3000 · A2 · earth"
+    },
+    {
+      "word": "easily",
+      "meaning": "Oxford 3000 · A2 · easily"
+    },
+    {
+      "word": "education",
+      "meaning": "Oxford 3000 · A2 · education"
+    },
+    {
+      "word": "effect",
+      "meaning": "Oxford 3000 · A2 · effect"
+    },
+    {
+      "word": "either",
+      "meaning": "Oxford 3000 · A2 · either"
+    },
+    {
+      "word": "electric",
+      "meaning": "Oxford 3000 · A2 · electric"
+    },
+    {
+      "word": "electrical",
+      "meaning": "Oxford 3000 · A2 · electrical"
+    },
+    {
+      "word": "electricity",
+      "meaning": "Oxford 3000 · A2 · electricity"
+    },
+    {
+      "word": "electronic",
+      "meaning": "Oxford 3000 · A2 · electronic"
+    },
+    {
+      "word": "employ",
+      "meaning": "Oxford 3000 · A2 · employ"
+    },
+    {
+      "word": "employee",
+      "meaning": "Oxford 3000 · A2 · employee"
+    },
+    {
+      "word": "employer",
+      "meaning": "Oxford 3000 · A2 · employer"
+    },
+    {
+      "word": "empty",
+      "meaning": "Oxford 3000 · A2 · empty"
+    },
+    {
+      "word": "ending",
+      "meaning": "Oxford 3000 · A2 · ending"
+    },
+    {
+      "word": "energy",
+      "meaning": "Oxford 3000 · A2 · energy"
+    },
+    {
+      "word": "engine",
+      "meaning": "Oxford 3000 · A2 · engine"
+    },
+    {
+      "word": "engineer",
+      "meaning": "Oxford 3000 · A2 · engineer"
+    },
+    {
+      "word": "enormous",
+      "meaning": "Oxford 3000 · A2 · enormous"
+    },
+    {
+      "word": "enter",
+      "meaning": "Oxford 3000 · A2 · enter"
+    },
+    {
+      "word": "equipment",
+      "meaning": "Oxford 3000 · A2 · equipment"
+    },
+    {
+      "word": "error",
+      "meaning": "Oxford 3000 · A2 · error"
+    },
+    {
+      "word": "especially",
+      "meaning": "Oxford 3000 · A2 · especially"
+    },
+    {
+      "word": "essay",
+      "meaning": "Oxford 3000 · A2 · essay"
+    },
+    {
+      "word": "everyday",
+      "meaning": "Oxford 3000 · A2 · everyday"
+    },
+    {
+      "word": "everywhere",
+      "meaning": "Oxford 3000 · A2 · everywhere"
+    },
+    {
+      "word": "evidence",
+      "meaning": "Oxford 3000 · A2 · evidence"
+    },
+    {
+      "word": "exact",
+      "meaning": "Oxford 3000 · A2 · exact"
+    },
+    {
+      "word": "exactly",
+      "meaning": "Oxford 3000 · A2 · exactly"
+    },
+    {
+      "word": "excellent",
+      "meaning": "Oxford 3000 · A2 · excellent"
+    },
+    {
+      "word": "except",
+      "meaning": "Oxford 3000 · A2 · except"
+    },
+    {
+      "word": "exist",
+      "meaning": "Oxford 3000 · A2 · exist"
+    },
+    {
+      "word": "expect",
+      "meaning": "Oxford 3000 · A2 · expect"
+    },
+    {
+      "word": "experience",
+      "meaning": "Oxford 3000 · A2 · experience"
+    },
+    {
+      "word": "experiment",
+      "meaning": "Oxford 3000 · A2 · experiment"
+    },
+    {
+      "word": "expert",
+      "meaning": "Oxford 3000 · A2 · expert"
+    },
+    {
+      "word": "explanation",
+      "meaning": "Oxford 3000 · A2 · explanation"
+    },
+    {
+      "word": "express",
+      "meaning": "Oxford 3000 · A2 · express"
+    },
+    {
+      "word": "expression",
+      "meaning": "Oxford 3000 · A2 · expression"
+    },
+    {
+      "word": "extreme",
+      "meaning": "Oxford 3000 · A2 · extreme"
+    },
+    {
+      "word": "extremely",
+      "meaning": "Oxford 3000 · A2 · extremely"
+    },
+    {
+      "word": "fail",
+      "meaning": "Oxford 3000 · A2 · fail"
+    },
+    {
+      "word": "fair",
+      "meaning": "Oxford 3000 · A2 · fair"
+    },
+    {
+      "word": "fall",
+      "meaning": "Oxford 3000 · A2 · fall"
+    },
+    {
+      "word": "fan",
+      "meaning": "Oxford 3000 · A2 · fan"
+    },
+    {
+      "word": "farm",
+      "meaning": "Oxford 3000 · A2 · farm"
+    },
+    {
+      "word": "farming",
+      "meaning": "Oxford 3000 · A2 · farming"
+    },
+    {
+      "word": "fear",
+      "meaning": "Oxford 3000 · A2 · fear"
+    },
+    {
+      "word": "feature",
+      "meaning": "Oxford 3000 · A2 · feature"
+    },
+    {
+      "word": "feed",
+      "meaning": "Oxford 3000 · A2 · feed"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A2 story (~320–450 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

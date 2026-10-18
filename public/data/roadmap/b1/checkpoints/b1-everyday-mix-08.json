@@ -1,0 +1,240 @@
+{
+  "id": "b1-everyday-mix-08",
+  "level": "b1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Chapter 9: Everyday mix",
+  "scene": "A flexible everyday episode with Nathan: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 9,
+  "characters": [
+    "javi",
+    "nathan"
+  ],
+  "vocab": [
+    {
+      "word": "mainly",
+      "meaning": "Oxford 3000 · B1 · mainly"
+    },
+    {
+      "word": "mall",
+      "meaning": "Oxford 3000 · B1 · mall"
+    },
+    {
+      "word": "management",
+      "meaning": "Oxford 3000 · B1 · management"
+    },
+    {
+      "word": "marriage",
+      "meaning": "Oxford 3000 · B1 · marriage"
+    },
+    {
+      "word": "meanwhile",
+      "meaning": "Oxford 3000 · B1 · meanwhile"
+    },
+    {
+      "word": "measure",
+      "meaning": "Oxford 3000 · B1 · measure"
+    },
+    {
+      "word": "medium",
+      "meaning": "Oxford 3000 · B1 · medium"
+    },
+    {
+      "word": "mental",
+      "meaning": "Oxford 3000 · B1 · mental"
+    },
+    {
+      "word": "mention",
+      "meaning": "Oxford 3000 · B1 · mention"
+    },
+    {
+      "word": "mild",
+      "meaning": "Oxford 3000 · B1 · mild"
+    },
+    {
+      "word": "mine (hole in the ground)",
+      "meaning": "Oxford 3000 · B1 · mine (hole in the ground)"
+    },
+    {
+      "word": "mix",
+      "meaning": "Oxford 3000 · B1 · mix"
+    },
+    {
+      "word": "mixture",
+      "meaning": "Oxford 3000 · B1 · mixture"
+    },
+    {
+      "word": "mood",
+      "meaning": "Oxford 3000 · B1 · mood"
+    },
+    {
+      "word": "move",
+      "meaning": "Oxford 3000 · B1 · move"
+    },
+    {
+      "word": "mud",
+      "meaning": "Oxford 3000 · B1 · mud"
+    },
+    {
+      "word": "murder",
+      "meaning": "Oxford 3000 · B1 · murder"
+    },
+    {
+      "word": "muscle",
+      "meaning": "Oxford 3000 · B1 · muscle"
+    },
+    {
+      "word": "mystery",
+      "meaning": "Oxford 3000 · B1 · mystery"
+    },
+    {
+      "word": "nail",
+      "meaning": "Oxford 3000 · B1 · nail"
+    },
+    {
+      "word": "narrative",
+      "meaning": "Oxford 3000 · B1 · narrative"
+    },
+    {
+      "word": "nation",
+      "meaning": "Oxford 3000 · B1 · nation"
+    },
+    {
+      "word": "native",
+      "meaning": "Oxford 3000 · B1 · native"
+    },
+    {
+      "word": "naturally",
+      "meaning": "Oxford 3000 · B1 · naturally"
+    },
+    {
+      "word": "necessarily",
+      "meaning": "Oxford 3000 · B1 · necessarily"
+    },
+    {
+      "word": "neither",
+      "meaning": "Oxford 3000 · B1 · neither"
+    },
+    {
+      "word": "net",
+      "meaning": "Oxford 3000 · B1 · net"
+    },
+    {
+      "word": "next",
+      "meaning": "Oxford 3000 · B1 · next"
+    },
+    {
+      "word": "nor",
+      "meaning": "Oxford 3000 · B1 · nor"
+    },
+    {
+      "word": "normal",
+      "meaning": "Oxford 3000 · B1 · normal"
+    },
+    {
+      "word": "northern",
+      "meaning": "Oxford 3000 · B1 · northern"
+    },
+    {
+      "word": "note",
+      "meaning": "Oxford 3000 · B1 · note"
+    },
+    {
+      "word": "now",
+      "meaning": "Oxford 3000 · B1 · now"
+    },
+    {
+      "word": "nuclear",
+      "meaning": "Oxford 3000 · B1 · nuclear"
+    },
+    {
+      "word": "obvious",
+      "meaning": "Oxford 3000 · B1 · obvious"
+    },
+    {
+      "word": "obviously",
+      "meaning": "Oxford 3000 · B1 · obviously"
+    },
+    {
+      "word": "occasion",
+      "meaning": "Oxford 3000 · B1 · occasion"
+    },
+    {
+      "word": "occur",
+      "meaning": "Oxford 3000 · B1 · occur"
+    },
+    {
+      "word": "odd",
+      "meaning": "Oxford 3000 · B1 · odd"
+    },
+    {
+      "word": "official",
+      "meaning": "Oxford 3000 · B1 · official"
+    },
+    {
+      "word": "old-fashioned",
+      "meaning": "Oxford 3000 · B1 · old-fashioned"
+    },
+    {
+      "word": "once",
+      "meaning": "Oxford 3000 · B1 · once"
+    },
+    {
+      "word": "operation",
+      "meaning": "Oxford 3000 · B1 · operation"
+    },
+    {
+      "word": "organized",
+      "meaning": "Oxford 3000 · B1 · organized"
+    },
+    {
+      "word": "organizer",
+      "meaning": "Oxford 3000 · B1 · organizer"
+    },
+    {
+      "word": "original",
+      "meaning": "Oxford 3000 · B1 · original"
+    },
+    {
+      "word": "originally",
+      "meaning": "Oxford 3000 · B1 · originally"
+    },
+    {
+      "word": "ought",
+      "meaning": "Oxford 3000 · B1 · ought"
+    },
+    {
+      "word": "ours",
+      "meaning": "Oxford 3000 · B1 · ours"
+    },
+    {
+      "word": "outdoor",
+      "meaning": "Oxford 3000 · B1 · outdoor"
+    },
+    {
+      "word": "outdoors",
+      "meaning": "Oxford 3000 · B1 · outdoors"
+    },
+    {
+      "word": "pack",
+      "meaning": "Oxford 3000 · B1 · pack"
+    },
+    {
+      "word": "package",
+      "meaning": "Oxford 3000 · B1 · package"
+    },
+    {
+      "word": "pale",
+      "meaning": "Oxford 3000 · B1 · pale"
+    },
+    {
+      "word": "participate",
+      "meaning": "Oxford 3000 · B1 · participate"
+    },
+    {
+      "word": "particularly",
+      "meaning": "Oxford 3000 · B1 · particularly"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B1 story (~380–520 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Nathan (neighbour) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

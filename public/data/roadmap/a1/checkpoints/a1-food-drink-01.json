@@ -1,0 +1,240 @@
+{
+  "id": "a1-food-drink-01",
+  "level": "a1",
+  "topic": "food-drink",
+  "topicLabel": "Food & drink",
+  "title": "When Easter changed the plan",
+  "scene": "A food episode with Easter: planning, eating or cooking, a surprise moment, and a clear ending.",
+  "order": 2,
+  "characters": [
+    "javi",
+    "easter"
+  ],
+  "vocab": [
+    {
+      "word": "home",
+      "meaning": "Oxford 3000 · A1 · home"
+    },
+    {
+      "word": "homework",
+      "meaning": "Oxford 3000 · A1 · homework"
+    },
+    {
+      "word": "house",
+      "meaning": "Oxford 3000 · A1 · house"
+    },
+    {
+      "word": "kitchen",
+      "meaning": "Oxford 3000 · A1 · kitchen"
+    },
+    {
+      "word": "light (from the sun/a lamp)",
+      "meaning": "Oxford 3000 · A1 · light (from the sun/a lamp)"
+    },
+    {
+      "word": "live",
+      "meaning": "Oxford 3000 · A1 · live"
+    },
+    {
+      "word": "morning",
+      "meaning": "Oxford 3000 · A1 · morning"
+    },
+    {
+      "word": "night",
+      "meaning": "Oxford 3000 · A1 · night"
+    },
+    {
+      "word": "room",
+      "meaning": "Oxford 3000 · A1 · room"
+    },
+    {
+      "word": "routine",
+      "meaning": "Oxford 3000 · A1 · routine"
+    },
+    {
+      "word": "sleep",
+      "meaning": "Oxford 3000 · A1 · sleep"
+    },
+    {
+      "word": "stay",
+      "meaning": "Oxford 3000 · A1 · stay"
+    },
+    {
+      "word": "table",
+      "meaning": "Oxford 3000 · A1 · table"
+    },
+    {
+      "word": "wake",
+      "meaning": "Oxford 3000 · A1 · wake"
+    },
+    {
+      "word": "wall",
+      "meaning": "Oxford 3000 · A1 · wall"
+    },
+    {
+      "word": "wash",
+      "meaning": "Oxford 3000 · A1 · wash"
+    },
+    {
+      "word": "win",
+      "meaning": "Oxford 3000 · A1 · win"
+    },
+    {
+      "word": "window",
+      "meaning": "Oxford 3000 · A1 · window"
+    },
+    {
+      "word": "apple",
+      "meaning": "Oxford 3000 · A1 · apple"
+    },
+    {
+      "word": "banana",
+      "meaning": "Oxford 3000 · A1 · banana"
+    },
+    {
+      "word": "beer",
+      "meaning": "Oxford 3000 · A1 · beer"
+    },
+    {
+      "word": "bread",
+      "meaning": "Oxford 3000 · A1 · bread"
+    },
+    {
+      "word": "break",
+      "meaning": "Oxford 3000 · A1 · break"
+    },
+    {
+      "word": "breakfast",
+      "meaning": "Oxford 3000 · A1 · breakfast"
+    },
+    {
+      "word": "but",
+      "meaning": "Oxford 3000 · A1 · but"
+    },
+    {
+      "word": "butter",
+      "meaning": "Oxford 3000 · A1 · butter"
+    },
+    {
+      "word": "cafe",
+      "meaning": "Oxford 3000 · A1 · cafe"
+    },
+    {
+      "word": "cake",
+      "meaning": "Oxford 3000 · A1 · cake"
+    },
+    {
+      "word": "cheese",
+      "meaning": "Oxford 3000 · A1 · cheese"
+    },
+    {
+      "word": "chicken",
+      "meaning": "Oxford 3000 · A1 · chicken"
+    },
+    {
+      "word": "chocolate",
+      "meaning": "Oxford 3000 · A1 · chocolate"
+    },
+    {
+      "word": "coffee",
+      "meaning": "Oxford 3000 · A1 · coffee"
+    },
+    {
+      "word": "cook",
+      "meaning": "Oxford 3000 · A1 · cook"
+    },
+    {
+      "word": "cooking",
+      "meaning": "Oxford 3000 · A1 · cooking"
+    },
+    {
+      "word": "delicious",
+      "meaning": "Oxford 3000 · A1 · delicious"
+    },
+    {
+      "word": "dinner",
+      "meaning": "Oxford 3000 · A1 · dinner"
+    },
+    {
+      "word": "drink",
+      "meaning": "Oxford 3000 · A1 · drink"
+    },
+    {
+      "word": "eat",
+      "meaning": "Oxford 3000 · A1 · eat"
+    },
+    {
+      "word": "egg",
+      "meaning": "Oxford 3000 · A1 · egg"
+    },
+    {
+      "word": "fish",
+      "meaning": "Oxford 3000 · A1 · fish"
+    },
+    {
+      "word": "food",
+      "meaning": "Oxford 3000 · A1 · food"
+    },
+    {
+      "word": "fruit",
+      "meaning": "Oxford 3000 · A1 · fruit"
+    },
+    {
+      "word": "hungry",
+      "meaning": "Oxford 3000 · A1 · hungry"
+    },
+    {
+      "word": "juice",
+      "meaning": "Oxford 3000 · A1 · juice"
+    },
+    {
+      "word": "lunch",
+      "meaning": "Oxford 3000 · A1 · lunch"
+    },
+    {
+      "word": "me",
+      "meaning": "Oxford 3000 · A1 · me"
+    },
+    {
+      "word": "meal",
+      "meaning": "Oxford 3000 · A1 · meal"
+    },
+    {
+      "word": "meat",
+      "meaning": "Oxford 3000 · A1 · meat"
+    },
+    {
+      "word": "menu",
+      "meaning": "Oxford 3000 · A1 · menu"
+    },
+    {
+      "word": "milk",
+      "meaning": "Oxford 3000 · A1 · milk"
+    },
+    {
+      "word": "or",
+      "meaning": "Oxford 3000 · A1 · or"
+    },
+    {
+      "word": "orange",
+      "meaning": "Oxford 3000 · A1 · orange"
+    },
+    {
+      "word": "past",
+      "meaning": "Oxford 3000 · A1 · past"
+    },
+    {
+      "word": "potato",
+      "meaning": "Oxford 3000 · A1 · potato"
+    },
+    {
+      "word": "restaurant",
+      "meaning": "Oxford 3000 · A1 · restaurant"
+    },
+    {
+      "word": "rice",
+      "meaning": "Oxford 3000 · A1 · rice"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Easter (study buddy) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

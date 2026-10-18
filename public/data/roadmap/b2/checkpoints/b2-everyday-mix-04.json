@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-04",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Chapter 4: Everyday mix",
+  "scene": "A flexible everyday episode with Nathan: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 4,
+  "characters": [
+    "javi",
+    "nathan"
+  ],
+  "vocab": [
+    {
+      "word": "core",
+      "meaning": "Oxford 3000 · B2 · core"
+    },
+    {
+      "word": "corporate",
+      "meaning": "Oxford 3000 · B2 · corporate"
+    },
+    {
+      "word": "council",
+      "meaning": "Oxford 3000 · B2 · council"
+    },
+    {
+      "word": "county",
+      "meaning": "Oxford 3000 · B2 · county"
+    },
+    {
+      "word": "courage",
+      "meaning": "Oxford 3000 · B2 · courage"
+    },
+    {
+      "word": "crash",
+      "meaning": "Oxford 3000 · B2 · crash"
+    },
+    {
+      "word": "creation",
+      "meaning": "Oxford 3000 · B2 · creation"
+    },
+    {
+      "word": "creature",
+      "meaning": "Oxford 3000 · B2 · creature"
+    },
+    {
+      "word": "credit",
+      "meaning": "Oxford 3000 · B2 · credit"
+    },
+    {
+      "word": "crew",
+      "meaning": "Oxford 3000 · B2 · crew"
+    },
+    {
+      "word": "crisis",
+      "meaning": "Oxford 3000 · B2 · crisis"
+    },
+    {
+      "word": "criterion",
+      "meaning": "Oxford 3000 · B2 · criterion"
+    },
+    {
+      "word": "critic",
+      "meaning": "Oxford 3000 · B2 · critic"
+    },
+    {
+      "word": "critical",
+      "meaning": "Oxford 3000 · B2 · critical"
+    },
+    {
+      "word": "criticism",
+      "meaning": "Oxford 3000 · B2 · criticism"
+    },
+    {
+      "word": "criticize",
+      "meaning": "Oxford 3000 · B2 · criticize"
+    },
+    {
+      "word": "crop",
+      "meaning": "Oxford 3000 · B2 · crop"
+    },
+    {
+      "word": "crucial",
+      "meaning": "Oxford 3000 · B2 · crucial"
+    },
+    {
+      "word": "cry",
+      "meaning": "Oxford 3000 · B2 · cry"
+    },
+    {
+      "word": "cure",
+      "meaning": "Oxford 3000 · B2 · cure"
+    },
+    {
+      "word": "current",
+      "meaning": "Oxford 3000 · B2 · current"
+    },
+    {
+      "word": "curve",
+      "meaning": "Oxford 3000 · B2 · curve"
+    },
+    {
+      "word": "curved",
+      "meaning": "Oxford 3000 · B2 · curved"
+    },
+    {
+      "word": "debate",
+      "meaning": "Oxford 3000 · B2 · debate"
+    },
+    {
+      "word": "debt",
+      "meaning": "Oxford 3000 · B2 · debt"
+    },
+    {
+      "word": "decent",
+      "meaning": "Oxford 3000 · B2 · decent"
+    },
+    {
+      "word": "declare",
+      "meaning": "Oxford 3000 · B2 · declare"
+    },
+    {
+      "word": "decline",
+      "meaning": "Oxford 3000 · B2 · decline"
+    },
+    {
+      "word": "decoration",
+      "meaning": "Oxford 3000 · B2 · decoration"
+    },
+    {
+      "word": "decrease",
+      "meaning": "Oxford 3000 · B2 · decrease"
+    },
+    {
+      "word": "deeply",
+      "meaning": "Oxford 3000 · B2 · deeply"
+    },
+    {
+      "word": "defeat",
+      "meaning": "Oxford 3000 · B2 · defeat"
+    },
+    {
+      "word": "defence",
+      "meaning": "Oxford 3000 · B2 · defence"
+    },
+    {
+      "word": "defend",
+      "meaning": "Oxford 3000 · B2 · defend"
+    },
+    {
+      "word": "delay",
+      "meaning": "Oxford 3000 · B2 · delay"
+    },
+    {
+      "word": "deliberate",
+      "meaning": "Oxford 3000 · B2 · deliberate"
+    },
+    {
+      "word": "deliberately",
+      "meaning": "Oxford 3000 · B2 · deliberately"
+    },
+    {
+      "word": "delight",
+      "meaning": "Oxford 3000 · B2 · delight"
+    },
+    {
+      "word": "delighted",
+      "meaning": "Oxford 3000 · B2 · delighted"
+    },
+    {
+      "word": "delivery",
+      "meaning": "Oxford 3000 · B2 · delivery"
+    },
+    {
+      "word": "demand",
+      "meaning": "Oxford 3000 · B2 · demand"
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "Oxford 3000 · B2 · demonstrate"
+    },
+    {
+      "word": "deny",
+      "meaning": "Oxford 3000 · B2 · deny"
+    },
+    {
+      "word": "depressed",
+      "meaning": "Oxford 3000 · B2 · depressed"
+    },
+    {
+      "word": "depressing",
+      "meaning": "Oxford 3000 · B2 · depressing"
+    },
+    {
+      "word": "depth",
+      "meaning": "Oxford 3000 · B2 · depth"
+    },
+    {
+      "word": "desert",
+      "meaning": "Oxford 3000 · B2 · desert"
+    },
+    {
+      "word": "deserve",
+      "meaning": "Oxford 3000 · B2 · deserve"
+    },
+    {
+      "word": "desire",
+      "meaning": "Oxford 3000 · B2 · desire"
+    },
+    {
+      "word": "desperate",
+      "meaning": "Oxford 3000 · B2 · desperate"
+    },
+    {
+      "word": "detail",
+      "meaning": "Oxford 3000 · B2 · detail"
+    },
+    {
+      "word": "detailed",
+      "meaning": "Oxford 3000 · B2 · detailed"
+    },
+    {
+      "word": "detect",
+      "meaning": "Oxford 3000 · B2 · detect"
+    },
+    {
+      "word": "dig",
+      "meaning": "Oxford 3000 · B2 · dig"
+    },
+    {
+      "word": "discipline",
+      "meaning": "Oxford 3000 · B2 · discipline"
+    },
+    {
+      "word": "discount",
+      "meaning": "Oxford 3000 · B2 · discount"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Nathan (neighbour) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

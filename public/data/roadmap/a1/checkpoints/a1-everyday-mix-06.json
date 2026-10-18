@@ -1,0 +1,240 @@
+{
+  "id": "a1-everyday-mix-06",
+  "level": "a1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 13,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "mouse",
+      "meaning": "Oxford 3000 · A1 · mouse"
+    },
+    {
+      "word": "move",
+      "meaning": "Oxford 3000 · A1 · move"
+    },
+    {
+      "word": "much",
+      "meaning": "Oxford 3000 · A1 · much"
+    },
+    {
+      "word": "museum",
+      "meaning": "Oxford 3000 · A1 · museum"
+    },
+    {
+      "word": "must",
+      "meaning": "Oxford 3000 · A1 · must"
+    },
+    {
+      "word": "my",
+      "meaning": "Oxford 3000 · A1 · my"
+    },
+    {
+      "word": "natural",
+      "meaning": "Oxford 3000 · A1 · natural"
+    },
+    {
+      "word": "near",
+      "meaning": "Oxford 3000 · A1 · near"
+    },
+    {
+      "word": "negative",
+      "meaning": "Oxford 3000 · A1 · negative"
+    },
+    {
+      "word": "next",
+      "meaning": "Oxford 3000 · A1 · next"
+    },
+    {
+      "word": "next to",
+      "meaning": "Oxford 3000 · A1 · next to"
+    },
+    {
+      "word": "nice",
+      "meaning": "Oxford 3000 · A1 · nice"
+    },
+    {
+      "word": "nine",
+      "meaning": "Oxford 3000 · A1 · nine"
+    },
+    {
+      "word": "nineteen",
+      "meaning": "Oxford 3000 · A1 · nineteen"
+    },
+    {
+      "word": "ninety",
+      "meaning": "Oxford 3000 · A1 · ninety"
+    },
+    {
+      "word": "nobody",
+      "meaning": "Oxford 3000 · A1 · nobody"
+    },
+    {
+      "word": "no one",
+      "meaning": "Oxford 3000 · A1 · no one"
+    },
+    {
+      "word": "north",
+      "meaning": "Oxford 3000 · A1 · north"
+    },
+    {
+      "word": "not",
+      "meaning": "Oxford 3000 · A1 · not"
+    },
+    {
+      "word": "note",
+      "meaning": "Oxford 3000 · A1 · note"
+    },
+    {
+      "word": "nothing",
+      "meaning": "Oxford 3000 · A1 · nothing"
+    },
+    {
+      "word": "now",
+      "meaning": "Oxford 3000 · A1 · now"
+    },
+    {
+      "word": "number",
+      "meaning": "Oxford 3000 · A1 · number"
+    },
+    {
+      "word": "nurse",
+      "meaning": "Oxford 3000 · A1 · nurse"
+    },
+    {
+      "word": "object",
+      "meaning": "Oxford 3000 · A1 · object"
+    },
+    {
+      "word": "oh",
+      "meaning": "Oxford 3000 · A1 · oh"
+    },
+    {
+      "word": "OK",
+      "meaning": "Oxford 3000 · A1 · OK"
+    },
+    {
+      "word": "old",
+      "meaning": "Oxford 3000 · A1 · old"
+    },
+    {
+      "word": "on",
+      "meaning": "Oxford 3000 · A1 · on"
+    },
+    {
+      "word": "once",
+      "meaning": "Oxford 3000 · A1 · once"
+    },
+    {
+      "word": "one",
+      "meaning": "Oxford 3000 · A1 · one"
+    },
+    {
+      "word": "onion",
+      "meaning": "Oxford 3000 · A1 · onion"
+    },
+    {
+      "word": "online",
+      "meaning": "Oxford 3000 · A1 · online"
+    },
+    {
+      "word": "only",
+      "meaning": "Oxford 3000 · A1 · only"
+    },
+    {
+      "word": "open",
+      "meaning": "Oxford 3000 · A1 · open"
+    },
+    {
+      "word": "opposite",
+      "meaning": "Oxford 3000 · A1 · opposite"
+    },
+    {
+      "word": "order",
+      "meaning": "Oxford 3000 · A1 · order"
+    },
+    {
+      "word": "other",
+      "meaning": "Oxford 3000 · A1 · other"
+    },
+    {
+      "word": "our",
+      "meaning": "Oxford 3000 · A1 · our"
+    },
+    {
+      "word": "out",
+      "meaning": "Oxford 3000 · A1 · out"
+    },
+    {
+      "word": "outside",
+      "meaning": "Oxford 3000 · A1 · outside"
+    },
+    {
+      "word": "over",
+      "meaning": "Oxford 3000 · A1 · over"
+    },
+    {
+      "word": "own",
+      "meaning": "Oxford 3000 · A1 · own"
+    },
+    {
+      "word": "pair",
+      "meaning": "Oxford 3000 · A1 · pair"
+    },
+    {
+      "word": "paper",
+      "meaning": "Oxford 3000 · A1 · paper"
+    },
+    {
+      "word": "paragraph",
+      "meaning": "Oxford 3000 · A1 · paragraph"
+    },
+    {
+      "word": "partner",
+      "meaning": "Oxford 3000 · A1 · partner"
+    },
+    {
+      "word": "passport",
+      "meaning": "Oxford 3000 · A1 · passport"
+    },
+    {
+      "word": "pepper",
+      "meaning": "Oxford 3000 · A1 · pepper"
+    },
+    {
+      "word": "perfect",
+      "meaning": "Oxford 3000 · A1 · perfect"
+    },
+    {
+      "word": "period",
+      "meaning": "Oxford 3000 · A1 · period"
+    },
+    {
+      "word": "phrase",
+      "meaning": "Oxford 3000 · A1 · phrase"
+    },
+    {
+      "word": "piano",
+      "meaning": "Oxford 3000 · A1 · piano"
+    },
+    {
+      "word": "picture",
+      "meaning": "Oxford 3000 · A1 · picture"
+    },
+    {
+      "word": "piece",
+      "meaning": "Oxford 3000 · A1 · piece"
+    },
+    {
+      "word": "pig",
+      "meaning": "Oxford 3000 · A1 · pig"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

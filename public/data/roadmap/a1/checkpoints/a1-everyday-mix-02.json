@@ -1,0 +1,240 @@
+{
+  "id": "a1-everyday-mix-02",
+  "level": "a1",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "Chapter 9: Everyday mix",
+  "scene": "A flexible everyday episode with Nathan: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 9,
+  "characters": [
+    "javi",
+    "nathan"
+  ],
+  "vocab": [
+    {
+      "word": "back",
+      "meaning": "Oxford 3000 · A1 · back"
+    },
+    {
+      "word": "ball",
+      "meaning": "Oxford 3000 · A1 · ball"
+    },
+    {
+      "word": "band",
+      "meaning": "Oxford 3000 · A1 · band"
+    },
+    {
+      "word": "bar",
+      "meaning": "Oxford 3000 · A1 · bar"
+    },
+    {
+      "word": "beautiful",
+      "meaning": "Oxford 3000 · A1 · beautiful"
+    },
+    {
+      "word": "because",
+      "meaning": "Oxford 3000 · A1 · because"
+    },
+    {
+      "word": "because of",
+      "meaning": "Oxford 3000 · A1 · because of"
+    },
+    {
+      "word": "become",
+      "meaning": "Oxford 3000 · A1 · become"
+    },
+    {
+      "word": "before",
+      "meaning": "Oxford 3000 · A1 · before"
+    },
+    {
+      "word": "begin",
+      "meaning": "Oxford 3000 · A1 · begin"
+    },
+    {
+      "word": "beginning",
+      "meaning": "Oxford 3000 · A1 · beginning"
+    },
+    {
+      "word": "behind",
+      "meaning": "Oxford 3000 · A1 · behind"
+    },
+    {
+      "word": "below",
+      "meaning": "Oxford 3000 · A1 · below"
+    },
+    {
+      "word": "best",
+      "meaning": "Oxford 3000 · A1 · best"
+    },
+    {
+      "word": "better",
+      "meaning": "Oxford 3000 · A1 · better"
+    },
+    {
+      "word": "between",
+      "meaning": "Oxford 3000 · A1 · between"
+    },
+    {
+      "word": "big",
+      "meaning": "Oxford 3000 · A1 · big"
+    },
+    {
+      "word": "bill",
+      "meaning": "Oxford 3000 · A1 · bill"
+    },
+    {
+      "word": "black",
+      "meaning": "Oxford 3000 · A1 · black"
+    },
+    {
+      "word": "blog",
+      "meaning": "Oxford 3000 · A1 · blog"
+    },
+    {
+      "word": "blonde",
+      "meaning": "Oxford 3000 · A1 · blonde"
+    },
+    {
+      "word": "blue",
+      "meaning": "Oxford 3000 · A1 · blue"
+    },
+    {
+      "word": "boat",
+      "meaning": "Oxford 3000 · A1 · boat"
+    },
+    {
+      "word": "born",
+      "meaning": "Oxford 3000 · A1 · born"
+    },
+    {
+      "word": "both",
+      "meaning": "Oxford 3000 · A1 · both"
+    },
+    {
+      "word": "bottle",
+      "meaning": "Oxford 3000 · A1 · bottle"
+    },
+    {
+      "word": "box",
+      "meaning": "Oxford 3000 · A1 · box"
+    },
+    {
+      "word": "bring",
+      "meaning": "Oxford 3000 · A1 · bring"
+    },
+    {
+      "word": "brown",
+      "meaning": "Oxford 3000 · A1 · brown"
+    },
+    {
+      "word": "build",
+      "meaning": "Oxford 3000 · A1 · build"
+    },
+    {
+      "word": "building",
+      "meaning": "Oxford 3000 · A1 · building"
+    },
+    {
+      "word": "busy",
+      "meaning": "Oxford 3000 · A1 · busy"
+    },
+    {
+      "word": "by",
+      "meaning": "Oxford 3000 · A1 · by"
+    },
+    {
+      "word": "can",
+      "meaning": "Oxford 3000 · A1 · can"
+    },
+    {
+      "word": "cannot",
+      "meaning": "Oxford 3000 · A1 · cannot"
+    },
+    {
+      "word": "capital",
+      "meaning": "Oxford 3000 · A1 · capital"
+    },
+    {
+      "word": "carrot",
+      "meaning": "Oxford 3000 · A1 · carrot"
+    },
+    {
+      "word": "carry",
+      "meaning": "Oxford 3000 · A1 · carry"
+    },
+    {
+      "word": "cent",
+      "meaning": "Oxford 3000 · A1 · cent"
+    },
+    {
+      "word": "centre",
+      "meaning": "Oxford 3000 · A1 · centre"
+    },
+    {
+      "word": "century",
+      "meaning": "Oxford 3000 · A1 · century"
+    },
+    {
+      "word": "chart",
+      "meaning": "Oxford 3000 · A1 · chart"
+    },
+    {
+      "word": "check",
+      "meaning": "Oxford 3000 · A1 · check"
+    },
+    {
+      "word": "choose",
+      "meaning": "Oxford 3000 · A1 · choose"
+    },
+    {
+      "word": "climb",
+      "meaning": "Oxford 3000 · A1 · climb"
+    },
+    {
+      "word": "close",
+      "meaning": "Oxford 3000 · A1 · close"
+    },
+    {
+      "word": "club",
+      "meaning": "Oxford 3000 · A1 · club"
+    },
+    {
+      "word": "come",
+      "meaning": "Oxford 3000 · A1 · come"
+    },
+    {
+      "word": "common",
+      "meaning": "Oxford 3000 · A1 · common"
+    },
+    {
+      "word": "compare",
+      "meaning": "Oxford 3000 · A1 · compare"
+    },
+    {
+      "word": "complete",
+      "meaning": "Oxford 3000 · A1 · complete"
+    },
+    {
+      "word": "concert",
+      "meaning": "Oxford 3000 · A1 · concert"
+    },
+    {
+      "word": "correct",
+      "meaning": "Oxford 3000 · A1 · correct"
+    },
+    {
+      "word": "could",
+      "meaning": "Oxford 3000 · A1 · could"
+    },
+    {
+      "word": "cow",
+      "meaning": "Oxford 3000 · A1 · cow"
+    },
+    {
+      "word": "cream",
+      "meaning": "Oxford 3000 · A1 · cream"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting A1 story (~280–400 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; Nathan (neighbour) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}

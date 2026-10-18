@@ -1,0 +1,240 @@
+{
+  "id": "b2-everyday-mix-13",
+  "level": "b2",
+  "topic": "everyday-mix",
+  "topicLabel": "Everyday mix",
+  "title": "John and Javi’s long everyday mix day",
+  "scene": "A flexible everyday episode with John: several linked scenes in one day, clear beginning–middle–end, using the mixed target vocabulary naturally.",
+  "order": 13,
+  "characters": [
+    "javi",
+    "john"
+  ],
+  "vocab": [
+    {
+      "word": "tropical",
+      "meaning": "Oxford 3000 · B2 · tropical"
+    },
+    {
+      "word": "trouble",
+      "meaning": "Oxford 3000 · B2 · trouble"
+    },
+    {
+      "word": "truly",
+      "meaning": "Oxford 3000 · B2 · truly"
+    },
+    {
+      "word": "trust",
+      "meaning": "Oxford 3000 · B2 · trust"
+    },
+    {
+      "word": "try",
+      "meaning": "Oxford 3000 · B2 · try"
+    },
+    {
+      "word": "tune",
+      "meaning": "Oxford 3000 · B2 · tune"
+    },
+    {
+      "word": "tunnel",
+      "meaning": "Oxford 3000 · B2 · tunnel"
+    },
+    {
+      "word": "ultimately",
+      "meaning": "Oxford 3000 · B2 · ultimately"
+    },
+    {
+      "word": "unconscious",
+      "meaning": "Oxford 3000 · B2 · unconscious"
+    },
+    {
+      "word": "unexpected",
+      "meaning": "Oxford 3000 · B2 · unexpected"
+    },
+    {
+      "word": "unique",
+      "meaning": "Oxford 3000 · B2 · unique"
+    },
+    {
+      "word": "universe",
+      "meaning": "Oxford 3000 · B2 · universe"
+    },
+    {
+      "word": "unknown",
+      "meaning": "Oxford 3000 · B2 · unknown"
+    },
+    {
+      "word": "upon",
+      "meaning": "Oxford 3000 · B2 · upon"
+    },
+    {
+      "word": "upper",
+      "meaning": "Oxford 3000 · B2 · upper"
+    },
+    {
+      "word": "upwards",
+      "meaning": "Oxford 3000 · B2 · upwards"
+    },
+    {
+      "word": "urban",
+      "meaning": "Oxford 3000 · B2 · urban"
+    },
+    {
+      "word": "urge",
+      "meaning": "Oxford 3000 · B2 · urge"
+    },
+    {
+      "word": "vaccine",
+      "meaning": "Oxford 3000 · B2 · vaccine"
+    },
+    {
+      "word": "value",
+      "meaning": "Oxford 3000 · B2 · value"
+    },
+    {
+      "word": "vary",
+      "meaning": "Oxford 3000 · B2 · vary"
+    },
+    {
+      "word": "vast",
+      "meaning": "Oxford 3000 · B2 · vast"
+    },
+    {
+      "word": "venue",
+      "meaning": "Oxford 3000 · B2 · venue"
+    },
+    {
+      "word": "very",
+      "meaning": "Oxford 3000 · B2 · very"
+    },
+    {
+      "word": "via",
+      "meaning": "Oxford 3000 · B2 · via"
+    },
+    {
+      "word": "victory",
+      "meaning": "Oxford 3000 · B2 · victory"
+    },
+    {
+      "word": "violence",
+      "meaning": "Oxford 3000 · B2 · violence"
+    },
+    {
+      "word": "virtual",
+      "meaning": "Oxford 3000 · B2 · virtual"
+    },
+    {
+      "word": "vision",
+      "meaning": "Oxford 3000 · B2 · vision"
+    },
+    {
+      "word": "visual",
+      "meaning": "Oxford 3000 · B2 · visual"
+    },
+    {
+      "word": "vital",
+      "meaning": "Oxford 3000 · B2 · vital"
+    },
+    {
+      "word": "vitamin",
+      "meaning": "Oxford 3000 · B2 · vitamin"
+    },
+    {
+      "word": "volume",
+      "meaning": "Oxford 3000 · B2 · volume"
+    },
+    {
+      "word": "wage",
+      "meaning": "Oxford 3000 · B2 · wage"
+    },
+    {
+      "word": "way",
+      "meaning": "Oxford 3000 · B2 · way"
+    },
+    {
+      "word": "weakness",
+      "meaning": "Oxford 3000 · B2 · weakness"
+    },
+    {
+      "word": "wealth",
+      "meaning": "Oxford 3000 · B2 · wealth"
+    },
+    {
+      "word": "wealthy",
+      "meaning": "Oxford 3000 · B2 · wealthy"
+    },
+    {
+      "word": "well-being",
+      "meaning": "Oxford 3000 · B2 · well-being"
+    },
+    {
+      "word": "whereas",
+      "meaning": "Oxford 3000 · B2 · whereas"
+    },
+    {
+      "word": "wherever",
+      "meaning": "Oxford 3000 · B2 · wherever"
+    },
+    {
+      "word": "whom",
+      "meaning": "Oxford 3000 · B2 · whom"
+    },
+    {
+      "word": "widely",
+      "meaning": "Oxford 3000 · B2 · widely"
+    },
+    {
+      "word": "wildlife",
+      "meaning": "Oxford 3000 · B2 · wildlife"
+    },
+    {
+      "word": "willing",
+      "meaning": "Oxford 3000 · B2 · willing"
+    },
+    {
+      "word": "wire",
+      "meaning": "Oxford 3000 · B2 · wire"
+    },
+    {
+      "word": "wise",
+      "meaning": "Oxford 3000 · B2 · wise"
+    },
+    {
+      "word": "witness",
+      "meaning": "Oxford 3000 · B2 · witness"
+    },
+    {
+      "word": "worse",
+      "meaning": "Oxford 3000 · B2 · worse"
+    },
+    {
+      "word": "worst",
+      "meaning": "Oxford 3000 · B2 · worst"
+    },
+    {
+      "word": "worth",
+      "meaning": "Oxford 3000 · B2 · worth"
+    },
+    {
+      "word": "wound",
+      "meaning": "Oxford 3000 · B2 · wound"
+    },
+    {
+      "word": "wrap",
+      "meaning": "Oxford 3000 · B2 · wrap"
+    },
+    {
+      "word": "wrong",
+      "meaning": "Oxford 3000 · B2 · wrong"
+    },
+    {
+      "word": "yet",
+      "meaning": "Oxford 3000 · B2 · yet"
+    },
+    {
+      "word": "zone",
+      "meaning": "Oxford 3000 · B2 · zone"
+    }
+  ],
+  "storyPromptNotes": "Write ONE interesting B2 story (~420–600 words) — long enough to feel like a short chapter, not a vocab list. Structure: setup → goal/conflict → turn → clear ending. Javi is the main character; John (cafe friend) appears throughout. There are 56 target words — weave most of them naturally across several scenes/paragraphs; never dump words into one sentence. Dialogue + action + a small emotional beat. Prefer everyday reusable English."
+}
