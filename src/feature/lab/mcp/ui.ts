@@ -6,13 +6,16 @@ import {
 import type { McpServer } from "@modelcontextprotocol/server";
 import { z } from "zod";
 import { getBaseUrl } from "@/lib/baseUrl";
-import { pullStore } from "@/feature/lab/lib/sheets";
 
-/** Bump when widget HTML/JS breaks ChatGPT's cached resource. */
-const UI_VERSION = "2026-10-18-03";
+/**
+ * Bump when widget HTML breaks ChatGPT's cached resource.
+ * NOTE: ChatGPT sandbox CSP has `base-uri 'self'` — never inject <base href="https://…">.
+ * Use iframe shell (or absolute asset URLs) instead.
+ */
+const UI_VERSION = "2026-10-18-05";
 export const RESOURCE_URI = `ui://widget/strandlab.html?v=${UI_VERSION}`;
 
-/** Legacy ChatGPT Apps SDK MIME + URI suffix (still accepted by many hosts). */
+/** Legacy ChatGPT Apps SDK MIME + URI suffix. */
 const SKYBRIDGE_MIME = "text/html+skybridge";
 const SKYBRIDGE_URI = `${RESOURCE_URI}+skybridge`;
 
@@ -23,11 +26,12 @@ export function getUiMeta() {
       resourceUri: RESOURCE_URI,
       prefersBorder: true,
       csp: {
+        // App origin: scripts/assets + nested iframe
         connectDomains: [baseURL],
         resourceDomains: [baseURL],
+        frameDomains: [baseURL],
       },
     },
-    // MCP Apps + OpenAI aliases
     "ui/resourceUri": RESOURCE_URI,
     "openai/outputTemplate": RESOURCE_URI,
     "openai/widgetAccessible": true,
@@ -44,30 +48,82 @@ export function withUi<T extends Record<string, unknown>>(payload: T) {
   };
 }
 
-function absolutizeHtml(html: string, baseURL: string): string {
-  let out = html;
-  if (!/<base\s/i.test(out)) {
-    out = out.replace(/<head([^>]*)>/i, `<head$1><base href="${baseURL}/" />`);
-  }
-  // Rewrite root-relative asset URLs so they work even if <base> is stripped
-  out = out.replace(
-    /(href|src|srcset)=["']\/(?!\/)/g,
-    `$1="${baseURL}/`,
-  );
-  return out;
-}
-
-async function fetchWidgetHtml(): Promise<string> {
+/**
+ * Lightweight shell that embeds the live Next.js app.
+ * Avoids serverless self-fetch of `/` (slow / can terminate ChatGPT sessions).
+ */
+function buildWidgetHtml(): string {
   const baseURL = getBaseUrl();
-  const res = await fetch(`${baseURL}/`, { cache: "no-store" });
-  if (!res.ok) {
-    throw new Error(`Failed to fetch widget HTML from ${baseURL}/ (${res.status})`);
-  }
-  return absolutizeHtml(await res.text(), baseURL);
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>English StrandLab</title>
+  <style>
+    html, body { margin: 0; height: 100%; background: #fff; }
+    iframe {
+      border: 0;
+      width: 100%;
+      height: 100%;
+      min-height: 720px;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <iframe
+    id="strandlab"
+    src="${baseURL}/"
+    title="English StrandLab"
+    allow="clipboard-write; fullscreen"
+    referrerpolicy="no-referrer-when-downgrade"
+  ></iframe>
+  <script type="module">
+    // Minimal MCP Apps bridge so the host keeps the widget session alive.
+    let rpcId = 0;
+    const pending = new Map();
+
+    const rpcNotify = (method, params) => {
+      window.parent.postMessage({ jsonrpc: "2.0", method, params }, "*");
+    };
+
+    const rpcRequest = (method, params) =>
+      new Promise((resolve, reject) => {
+        const id = ++rpcId;
+        pending.set(id, { resolve, reject });
+        window.parent.postMessage({ jsonrpc: "2.0", id, method, params }, "*");
+      });
+
+    window.addEventListener("message", (event) => {
+      if (event.source !== window.parent) return;
+      const message = event.data;
+      if (!message || message.jsonrpc !== "2.0") return;
+      if (typeof message.id === "number" && pending.has(message.id)) {
+        const p = pending.get(message.id);
+        pending.delete(message.id);
+        if (message.error) p.reject(message.error);
+        else p.resolve(message.result);
+      }
+    });
+
+    try {
+      await rpcRequest("ui/initialize", {
+        appInfo: { name: "english-strandlab", version: "1.0.0" },
+        appCapabilities: {},
+        protocolVersion: "2026-01-26",
+      });
+      rpcNotify("ui/notifications/initialized", {});
+    } catch (err) {
+      console.warn("[strandlab-widget] ui/initialize failed", err);
+    }
+  </script>
+</body>
+</html>`;
 }
 
-async function widgetContents(uri: string, mimeType: string) {
-  const html = await fetchWidgetHtml();
+function widgetContents(uri: string, mimeType: string) {
+  const html = buildWidgetHtml();
   const uiMeta = getUiMeta();
   return {
     contents: [
@@ -82,13 +138,12 @@ async function widgetContents(uri: string, mimeType: string) {
 }
 
 /**
- * Register the ChatGPT / MCP Apps UI resource + open_lab tool.
- * Pattern matches `_parked/mcp-demo`, plus a skybridge twin for older ChatGPT hosts.
+ * Register ChatGPT / MCP Apps UI resource + open_lab tool.
+ * Shell iframe embeds the live app (same idea as opening the site in-chat).
  */
 export function registerStrandLabUi(server: McpServer) {
   const uiMeta = getUiMeta();
 
-  // Modern MCP Apps resource
   registerAppResource(
     server,
     "strandlab-widget",
@@ -101,7 +156,6 @@ export function registerStrandLabUi(server: McpServer) {
     async () => widgetContents(RESOURCE_URI, RESOURCE_MIME_TYPE),
   );
 
-  // Legacy OpenAI Apps SDK resource (text/html+skybridge)
   server.registerResource(
     "strandlab-widget-skybridge",
     SKYBRIDGE_URI,
@@ -137,12 +191,7 @@ export function registerStrandLabUi(server: McpServer) {
       _meta: uiMeta,
     },
     async ({ screen }) => {
-      const store = await pullStore();
-      const due = store.lessons.filter((l) => {
-        const dueAt = l.input.next_review_at;
-        return dueAt && dueAt <= new Date().toISOString();
-      }).length;
-
+      // Keep this tool fast — no Sheets round-trip (avoids ChatGPT session timeout).
       return withUi({
         content: [
           {
@@ -150,15 +199,12 @@ export function registerStrandLabUi(server: McpServer) {
             text:
               `Opened English StrandLab` +
               (screen ? ` (${screen})` : "") +
-              `. ${store.lessons.length} lesson(s) on the roadmap` +
-              (due ? `, ${due} due for review` : "") +
-              `. The interactive app widget should appear above/below this message.`,
+              `. The interactive app should appear in the chat panel.`,
           },
         ],
         structuredContent: {
           screen: screen ?? "dashboard",
-          lesson_count: store.lessons.length,
-          due_for_review: due,
+          app_url: getBaseUrl(),
         },
       });
     },
