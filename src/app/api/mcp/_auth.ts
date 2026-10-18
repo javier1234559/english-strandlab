@@ -1,22 +1,11 @@
 import { type NextRequest, NextResponse } from "next/server";
 
-// Shared token from env — same one used for Google Apps Script sync
-function getToken(): string {
-  return process.env.NEXT_PUBLIC_SYNC_TOKEN ?? "";
-}
-
-export function checkAuth(req: NextRequest): boolean {
-  const token = getToken();
-  if (!token) return false; // not configured → deny all
-
-  // Accept either Bearer header or ?token= query param
-  const authHeader = req.headers.get("authorization") ?? "";
-  const bearerToken = authHeader.replace(/^Bearer\s+/i, "").trim();
-  if (bearerToken && bearerToken === token) return true;
-
-  const url = new URL(req.url);
-  const queryToken = url.searchParams.get("token") ?? "";
-  return queryToken === token;
+/**
+ * Auth is currently disabled for easy local / ChatGPT testing.
+ * Re-enable by checking Authorization: Bearer <SYNC_TOKEN> or ?token=.
+ */
+export function checkAuth(_req: NextRequest): boolean {
+  return true;
 }
 
 export function unauthorized() {

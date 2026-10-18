@@ -17,16 +17,9 @@ export function GET(req: NextRequest) {
         "API for the English StrandLab learning app. Allows ChatGPT to list lessons, retrieve lesson details, save learning progress across the four strands (reading, vocabulary, writing, fluency), and mark lessons complete.",
     },
     servers: [{ url: base }],
-    security: [{ bearerAuth: [] }],
-    components: {
-      securitySchemes: {
-        bearerAuth: {
-          type: "http",
-          scheme: "bearer",
-          description: "Use the SYNC_TOKEN configured in .env.local",
-        },
-      },
-    },
+    // Auth disabled for testing — open access
+    security: [],
+    components: {},
     paths: {
       "/api/mcp/stats": {
         get: {
