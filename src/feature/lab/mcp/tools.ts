@@ -8,19 +8,23 @@ import {
   upsertVocab,
 } from "@/feature/lab/lib/lesson";
 import type { LessonStatus, MasteryLevel, VocabItem } from "@/feature/lab/types";
+import { getUiMeta, registerStrandLabUi, withUi } from "@/feature/lab/mcp/ui";
 
 function text(data: unknown) {
-  return {
+  return withUi({
     content: [{ type: "text" as const, text: JSON.stringify(data, null, 2) }],
-  };
+    structuredContent: typeof data === "object" && data !== null ? data : { data },
+  });
 }
 
 function err(message: string) {
-  return {
+  return withUi({
     isError: true as const,
     content: [{ type: "text" as const, text: message }],
-  };
+  });
 }
+
+const uiMeta = () => getUiMeta();
 
 function clampMastery(n: unknown): MasteryLevel {
   const v = Number(n);
@@ -31,13 +35,17 @@ function clampMastery(n: unknown): MasteryLevel {
 const INTERVALS = [1, 3, 7, 14, 30, 60];
 
 export function registerStrandLabTools(server: McpServer) {
+  // ChatGPT iframe UI (same pattern as `_parked/mcp-demo`)
+  registerStrandLabUi(server);
+
   server.registerTool(
     "get_stats",
     {
       title: "Get learning statistics",
       description:
-        "Returns aggregated learning stats: lesson counts by status, vocabulary by mastery level, and how many lessons are due for review. Use this at the start of a session.",
+        "Returns aggregated learning stats: lesson counts by status, vocabulary by mastery level, and how many lessons are due for review. Use this at the start of a session. Also opens the StrandLab UI.",
       inputSchema: z.object({}),
+      _meta: uiMeta(),
     },
     async () => {
       const store = await pullStore();
@@ -89,6 +97,7 @@ export function registerStrandLabTools(server: McpServer) {
           .optional()
           .describe("If true, only return lessons whose next_review_at is past"),
       }),
+      _meta: uiMeta(),
     },
     async ({ due_only }) => {
       const store = await pullStore();
@@ -125,6 +134,7 @@ export function registerStrandLabTools(server: McpServer) {
       inputSchema: z.object({
         lesson_id: z.string().describe("Stable lesson_id from list_lessons"),
       }),
+      _meta: uiMeta(),
     },
     async ({ lesson_id }) => {
       const store = await pullStore();
@@ -147,6 +157,7 @@ export function registerStrandLabTools(server: McpServer) {
         topic_label: z.string().optional(),
         content: z.string().optional().describe("Reading passage / story text"),
       }),
+      _meta: uiMeta(),
     },
     async ({ lesson_title, cefr_level, topic, topic_label, content }) => {
       const store = await pullStore();
@@ -191,6 +202,7 @@ export function registerStrandLabTools(server: McpServer) {
         last_reviewed_at: z.string().optional(),
         next_review_at: z.string().optional(),
       }),
+      _meta: uiMeta(),
     },
     async (args) => {
       const store = await pullStore();
@@ -266,6 +278,7 @@ export function registerStrandLabTools(server: McpServer) {
           )
           .min(1),
       }),
+      _meta: uiMeta(),
     },
     async ({ lesson_id, vocabulary }) => {
       const store = await pullStore();
@@ -310,6 +323,7 @@ export function registerStrandLabTools(server: McpServer) {
         word: z.string().optional(),
         row_id: z.string().optional(),
       }),
+      _meta: uiMeta(),
     },
     async ({ lesson_id, word, row_id }) => {
       if (!word && !row_id) return err("Provide word or row_id");
@@ -345,6 +359,7 @@ export function registerStrandLabTools(server: McpServer) {
         improved_text: z.string().optional(),
         mastery_level: z.number().int().min(1).max(4).optional(),
       }),
+      _meta: uiMeta(),
     },
     async (args) => {
       const store = await pullStore();
@@ -395,6 +410,7 @@ export function registerStrandLabTools(server: McpServer) {
         speaking_2min: z.string().optional(),
         mastery_level: z.number().int().min(1).max(4).optional(),
       }),
+      _meta: uiMeta(),
     },
     async (args) => {
       const store = await pullStore();
@@ -441,6 +457,7 @@ export function registerStrandLabTools(server: McpServer) {
       inputSchema: z.object({
         lesson_id: z.string(),
       }),
+      _meta: uiMeta(),
     },
     async ({ lesson_id }) => {
       const store = await pullStore();

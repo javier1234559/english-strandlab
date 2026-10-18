@@ -1,8 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "@/feature/lab/lab.css";
 import { useStrandLab } from "@/feature/lab/hooks/useStrandLab";
+import { useMcpApp } from "@/feature/lab/hooks/useMcpApp";
 import { DashboardPanel } from "@/feature/lab/components/dashboard/DashboardPanel";
 import { ReviewPanel } from "@/feature/lab/components/review-panel";
 import { LessonPanel } from "@/feature/lab/components/lesson-panel";
@@ -151,7 +152,19 @@ function AppHeader({
 
 export function LabView() {
   const lab = useStrandLab();
+  const mcp = useMcpApp();
   const [screen, setScreen] = useState<Screen>("dashboard");
+
+  // When ChatGPT tools mutate Sheets, refresh the embedded widget
+  useEffect(() => {
+    if (!mcp.toolResult) return;
+    void lab.refreshSync();
+    const nextScreen = mcp.toolResult.screen;
+    if (nextScreen === "review" || nextScreen === "dashboard") {
+      setScreen(nextScreen);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- only react to toolResult
+  }, [mcp.toolResult]);
 
   const handleLessonChange = (next: LessonBundle) => {
     void lab.updateLesson(next, { sync: false });
