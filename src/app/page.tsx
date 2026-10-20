@@ -1,5 +1,5 @@
-import { LabView } from "@/feature/lab/views/LabView";
+import { FootnoteHomeView } from "@/feature/footnote/views/FootnoteHomeView";
 
 export default function Home() {
-  return <LabView />;
+  return <FootnoteHomeView />;
 }

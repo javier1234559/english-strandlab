@@ -30,5 +30,5 @@
     ".next/dev/types/**/*.ts",
     "**/*.mts"
   ],
-  "exclude": ["node_modules", "_parked", "nextjs-base"]
+  "exclude": ["node_modules", "_parked", "nextjs-base", "blog_astro"]
 }

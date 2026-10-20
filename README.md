@@ -1,7 +1,7 @@
 # English StrandLab
 
-Four-strands English learning **organizer** (roadmap + lesson workspace).  
-ChatGPT is the tutor; this app stores progress in Google Sheets via Apps Script.
+Footnote is a small English-learning journal. ChatGPT is the tutor; this app
+stores entries and review data in Google Sheets through the Footnote MCP tools.
 
 ## Run
 
@@ -12,9 +12,9 @@ pnpm dev
 
 Open http://localhost:3000
 
-## Google Sheet (new)
+## Google Sheet (Footnote)
 
-Old vocab-quiz Sheet/token is retired. Use a **new** spreadsheet:
+Use a **new** spreadsheet for the Footnote schema:
 
 1. Create a blank Google Sheet  
 2. Extensions → Apps Script → paste `google-apps-script/Code.gs`  
@@ -24,25 +24,37 @@ Old vocab-quiz Sheet/token is retired. Use a **new** spreadsheet:
 
 ```bash
 cp .env.example .env.local
-# fill NEXT_PUBLIC_SHEETS_WEB_APP_URL / SYNC_TOKEN / GOOGLE_SHEET_URL
+# fill SHEETS_WEB_APP_URL / SYNC_TOKEN in the server environment
 ```
 
-6. Restart `pnpm dev`  
-7. In the app: **Setup Sheet tabs** → **Sync Sheet**
+6. Restart `pnpm dev`
+7. Run the Apps Script menu **StrandLab Footnote → Reset Footnote tables** once
 
-Tabs created: `Input` · `Vocabulary` · `Output` · `Fluency`
+Tabs created: `Input` · `Vocabulary` · `Output` · `Fluency` · `ReviewLog`
 
 ## App UX
 
-- **Roadmap** — list lessons (status, review due)  
-- **Lesson** — four strands: Input → Language → Output → Fluency (+ timers)  
-- Local cache: `localStorage` key `english-strandlab-v1`
+- **Home** — timeline of learning entries
+- **Detail** — Simple Note or Structured Learning document
+- The browser UI currently uses mock data for visual testing.
+
+## MCP
+
+The Streamable HTTP MCP endpoint is `/api/mcp`. It exposes:
+
+- `list_entries`, `get_entry_detail`, `create_entry`, `update_entry`
+- `upsert_vocabulary`, `save_output`, `save_fluency`, `log_review`
+- `update_vocabulary_review_state`, `get_review_queue`
+
+Configure `SHEETS_WEB_APP_URL` and `SYNC_TOKEN` server-side. Do not expose the
+MCP token in browser/client variables.
 
 ## Docs
 
-- Product brief: `docs/IDEAS.md`  
-- MCP demo (not wired): `_parked/mcp-demo/`
+- Product brief: `docs/NEW_IDEAS.md`
+- MCP specification: `docs/NEW_IDEAS_mcp.md`
 
 ## Legacy
 
-`vocab-quiz/` remains as reference only. Cycle curriculum under `public/data/cycle` was removed.
+The former `feature/lab` lesson workspace remains in the repository as legacy
+code while Footnote is being rolled out.

@@ -1,283 +1,138 @@
 /**
- * English StrandLab — Google Apps Script Web App
+ * StrandLab Footnote — Google Apps Script data source.
+ * Sheets: Input, Vocabulary, Output, Fluency, ReviewLog.
+ * Set Script property SYNC_TOKEN before deploying this Web App.
  *
- * Worksheets (IDEAS.md):
- *   Input | Vocabulary | Output | Fluency
- *
- * Deploy as Web App → Execute as: Me → Who has access: Anyone
- * Script property: SYNC_TOKEN = your shared secret
- *
- * Actions:
- *   setup    — create tabs + headers
- *   loadAll  — return all rows (GET or POST)
- *   saveLesson — upsert one lesson across 4 tabs
- *   saveAll  — replace/upsert full dataset from the app
+ * reset          clears and recreates the five Footnote tables
+ * loadAll        reads all rows
+ * saveInput      upserts Input by entry_id
+ * saveVocabulary upserts Vocabulary by vocab_id
+ * saveOutput     upserts Output by output_id
+ * saveFluency    upserts Fluency by fluency_id
+ * appendReview   appends ReviewLog and updates Input review dates
  */
 
-var TZ = "Asia/Ho_Chi_Minh";
+var TZ = "Asia/Bangkok";
+var TABLES = {
+  Input: ["entry_id", "created_at", "title", "description", "content_mode", "content_markdown", "chat_url", "learning_status", "last_review_at", "next_review_at"],
+  Vocabulary: ["vocab_id", "entry_id", "word", "type", "meaning", "familiarity_level", "error_reason", "last_tested_at", "next_review_at", "updated_at"],
+  Output: ["output_id", "entry_id", "content", "familiarity_level", "updated_at"],
+  Fluency: ["fluency_id", "entry_id", "content", "familiarity_level", "updated_at"],
+  ReviewLog: ["review_id", "entry_id", "started_at", "completed_at", "review_scope", "results_summary", "review_outcome", "next_review_at", "saved_at"]
+};
 
-var INPUT_SHEET = "Input";
-var VOCAB_SHEET = "Vocabulary";
-var OUTPUT_SHEET = "Output";
-var FLUENCY_SHEET = "Fluency";
-
-var INPUT_HEADERS = [
-  "lesson_id",
-  "lesson_number",
-  "lesson_title",
-  "content",
-  "topic",
-  "topic_label",
-  "cefr_level",
-  "created_at",
-  "updated_at",
-  "lesson_status",
-  "last_reviewed_at",
-  "next_review_at",
-  "review_count",
-];
-
-var VOCAB_HEADERS = [
-  "lesson_id",
-  "lesson_number",
-  "lesson_title",
-  "word",
-  "meaning",
-  "source_sentence",
-  "explanation",
-  "error_reason",
-  "mastery_level",
-  "created_at",
-  "updated_at",
-  "row_id",
-];
-
-var OUTPUT_HEADERS = [
-  "lesson_id",
-  "lesson_number",
-  "lesson_title",
-  "original_text",
-  "error_summary",
-  "improved_text",
-  "mastery_level",
-  "created_at",
-  "updated_at",
-];
-
-var FLUENCY_HEADERS = [
-  "lesson_id",
-  "lesson_number",
-  "lesson_title",
-  "speaking_4min",
-  "speaking_3min",
-  "speaking_2min",
-  "mastery_level",
-  "created_at",
-  "updated_at",
-];
-
-function doGet(e) {
-  return handle_(e && e.parameter ? e.parameter : {});
-}
+function doGet(e) { return handle_(e && e.parameter ? e.parameter : {}); }
 
 function doPost(e) {
   var body = {};
-  try {
-    if (e && e.postData && e.postData.contents) {
-      body = JSON.parse(e.postData.contents);
-    }
-  } catch (err) {
-    return json_({ ok: false, error: "JSON body không hợp lệ" });
-  }
-  var params = Object.assign({}, (e && e.parameter) || {}, body);
-  return handle_(params);
+  try { body = e && e.postData && e.postData.contents ? JSON.parse(e.postData.contents) : {}; }
+  catch (err) { return json_({ ok: false, error: "VALIDATION_ERROR: invalid JSON body" }); }
+  return handle_(Object.assign({}, (e && e.parameter) || {}, body));
 }
 
 function handle_(params) {
   try {
     assertToken_(params.token);
     var action = String(params.action || "loadAll");
-
-    if (action === "setup") {
-      setupSheets_();
-      return json_({
-        ok: true,
-        spreadsheetUrl: SpreadsheetApp.getActiveSpreadsheet().getUrl(),
-      });
-    }
-
-    if (action === "loadAll" || action === "load") {
-      ensureSheets_();
-      return json_({
-        ok: true,
-        inputs: readObjects_(INPUT_SHEET, INPUT_HEADERS),
-        vocabulary: readObjects_(VOCAB_SHEET, VOCAB_HEADERS),
-        outputs: readObjects_(OUTPUT_SHEET, OUTPUT_HEADERS),
-        fluency: readObjects_(FLUENCY_SHEET, FLUENCY_HEADERS),
-        updatedAt: Date.now(),
-        spreadsheetUrl: SpreadsheetApp.getActiveSpreadsheet().getUrl(),
-      });
-    }
-
-    if (action === "saveLesson") {
-      ensureSheets_();
-      if (params.input) upsertById_(INPUT_SHEET, INPUT_HEADERS, params.input, "lesson_id");
-      if (params.output) upsertById_(OUTPUT_SHEET, OUTPUT_HEADERS, params.output, "lesson_id");
-      if (params.fluency) upsertById_(FLUENCY_SHEET, FLUENCY_HEADERS, params.fluency, "lesson_id");
-      if (params.vocabulary) {
-        replaceLessonVocab_(params.input && params.input.lesson_id, params.vocabulary);
-      }
-      return json_({
-        ok: true,
-        spreadsheetUrl: SpreadsheetApp.getActiveSpreadsheet().getUrl(),
-      });
-    }
-
-    if (action === "saveAll") {
-      ensureSheets_();
-      replaceAll_(INPUT_SHEET, INPUT_HEADERS, params.inputs || []);
-      replaceAll_(VOCAB_SHEET, VOCAB_HEADERS, params.vocabulary || []);
-      replaceAll_(OUTPUT_SHEET, OUTPUT_HEADERS, params.outputs || []);
-      replaceAll_(FLUENCY_SHEET, FLUENCY_HEADERS, params.fluency || []);
-      return json_({
-        ok: true,
-        spreadsheetUrl: SpreadsheetApp.getActiveSpreadsheet().getUrl(),
-      });
-    }
-
-    return json_({ ok: false, error: "action không hỗ trợ: " + action });
-  } catch (err) {
-    return json_({ ok: false, error: String(err.message || err) });
-  }
+    if (action === "reset") return reset_();
+    if (action === "setup") return setup_();
+    if (action === "loadAll" || action === "load") return loadAll_();
+    if (action === "saveInput") return saveRow_("Input", params.entry, "entry_id");
+    if (action === "saveVocabulary") return saveRow_("Vocabulary", params.vocabulary, "vocab_id");
+    if (action === "saveOutput") return saveRow_("Output", params.output, "output_id");
+    if (action === "saveFluency") return saveRow_("Fluency", params.fluency, "fluency_id");
+    if (action === "appendReview") return appendReview_(params.review);
+    if (action === "updateVocabularyReviewState") return saveRow_("Vocabulary", params.vocabulary, "vocab_id");
+    throw new Error("VALIDATION_ERROR: unsupported action " + action);
+  } catch (err) { return json_({ ok: false, error: String(err.message || err) }); }
 }
 
 function assertToken_(token) {
   var expected = PropertiesService.getScriptProperties().getProperty("SYNC_TOKEN");
-  if (!expected) throw new Error("Chưa set Script property SYNC_TOKEN");
-  if (!token || token !== expected) throw new Error("Token không hợp lệ");
+  if (!expected) throw new Error("DATA_SOURCE_ERROR: Script property SYNC_TOKEN is missing");
+  if (!token || String(token) !== String(expected)) throw new Error("UNAUTHORIZED: invalid token");
 }
+
+function setup_() { ensureAllTables_(); return json_({ ok: true, tables: Object.keys(TABLES), spreadsheetUrl: spreadsheet_().getUrl() }); }
+
+function reset_() {
+  var ss = spreadsheet_();
+  // Clear known tables in place so reset also works when the spreadsheet has
+  // only one sheet. Unknown/user-owned sheets are left untouched.
+  Object.keys(TABLES).forEach(function(name) {
+    var old = ss.getSheetByName(name);
+    if (old) old.clear();
+  });
+  ensureAllTables_();
+  return json_({ ok: true, reset: true, tables: Object.keys(TABLES), spreadsheetUrl: ss.getUrl() });
+}
+
+function loadAll_() {
+  ensureAllTables_();
+  return json_({ ok: true, inputs: readObjects_("Input"), vocabulary: readObjects_("Vocabulary"), outputs: readObjects_("Output"), fluency: readObjects_("Fluency"), reviews: readObjects_("ReviewLog"), updatedAt: Date.now(), spreadsheetUrl: spreadsheet_().getUrl() });
+}
+
+function appendReview_(review) {
+  requireObject_(review, "review");
+  var entryId = String(review.entry_id || "");
+  if (!entryId) throw new Error("VALIDATION_ERROR: review.entry_id is required");
+  ensureAllTables_();
+  var input = findRow_("Input", "entry_id", entryId);
+  if (!input) throw new Error("NOT_FOUND: entry_id " + entryId);
+  appendRow_("ReviewLog", review);
+  var patch = { entry_id: entryId };
+  if (review.completed_at != null) patch.last_review_at = review.completed_at;
+  if (review.next_review_at != null) patch.next_review_at = review.next_review_at;
+  updateById_("Input", patch, "entry_id");
+  return json_({ ok: true, review: review, entry_review_state: { last_review_at: patch.last_review_at || input.last_review_at || null, next_review_at: patch.next_review_at || input.next_review_at || null } });
+}
+
+function saveRow_(name, row, idKey) {
+  requireObject_(row, name.toLowerCase());
+  var id = String(row[idKey] || "");
+  if (!id) throw new Error("VALIDATION_ERROR: " + name + "." + idKey + " is required");
+  ensureAllTables_();
+  upsertById_(name, row, idKey);
+  return json_({ ok: true, table: name, record: row });
+}
+
+function requireObject_(value, label) { if (!value || Object.prototype.toString.call(value) !== "[object Object]") throw new Error("VALIDATION_ERROR: " + label + " must be an object"); }
+function spreadsheet_() { return SpreadsheetApp.getActiveSpreadsheet(); }
+function ensureAllTables_() { Object.keys(TABLES).forEach(function(name) { ensureTable_(name, TABLES[name]); }); }
+
+function ensureTable_(name, headers) {
+  var ss = spreadsheet_();
+  var sheet = ss.getSheetByName(name) || ss.insertSheet(name);
+  sheet.getRange(1, 1, 1, headers.length).setValues([headers]);
+  sheet.setFrozenRows(1);
+  return sheet;
+}
+
+function readObjects_(name) {
+  var sheet = spreadsheet_().getSheetByName(name), headers = TABLES[name];
+  if (!sheet || sheet.getLastRow() < 2) return [];
+  var values = sheet.getRange(1, 1, sheet.getLastRow(), headers.length).getValues();
+  return values.slice(1).filter(function(row) { return row.join("") !== ""; }).map(function(row) {
+    var item = {}; headers.forEach(function(header, index) { item[header] = row[index] === "" ? null : row[index]; }); return item;
+  });
+}
+
+function findRow_(name, idKey, id) { return readObjects_(name).find(function(row) { return String(row[idKey]) === String(id); }) || null; }
+
+function upsertById_(name, row, idKey) {
+  var sheet = ensureTable_(name, TABLES[name]), headers = TABLES[name];
+  var values = sheet.getLastRow() ? sheet.getRange(1, 1, sheet.getLastRow(), headers.length).getValues() : [];
+  var idColumn = headers.indexOf(idKey), existingRow = -1;
+  for (var index = 1; index < values.length; index++) { if (String(values[index][idColumn]) === String(row[idKey])) { existingRow = index + 1; break; } }
+  var line = headers.map(function(header) { return row[header] == null ? "" : row[header]; });
+  if (existingRow > 0) sheet.getRange(existingRow, 1, 1, headers.length).setValues([line]); else sheet.appendRow(line);
+}
+
+function updateById_(name, patch, idKey) { var current = findRow_(name, idKey, patch[idKey]); if (!current) throw new Error("NOT_FOUND: " + patch[idKey]); upsertById_(name, Object.assign({}, current, patch), idKey); }
+function appendRow_(name, row) { ensureTable_(name, TABLES[name]).appendRow(TABLES[name].map(function(header) { return row[header] == null ? "" : row[header]; })); }
 
 function onOpen() {
-  SpreadsheetApp.getUi()
-    .createMenu("StrandLab")
-    .addItem("Setup tabs (Input / Vocabulary / Output / Fluency)", "setupSheets_")
-    .addToUi();
+  SpreadsheetApp.getUi().createMenu("StrandLab Footnote").addItem("Reset Footnote tables", "reset_").addItem("Ensure Footnote tables", "setup_").addToUi();
 }
 
-function setupSheets_() {
-  ensureSheet_(INPUT_SHEET, INPUT_HEADERS);
-  ensureSheet_(VOCAB_SHEET, VOCAB_HEADERS);
-  ensureSheet_(OUTPUT_SHEET, OUTPUT_HEADERS);
-  ensureSheet_(FLUENCY_SHEET, FLUENCY_HEADERS);
-}
-
-function ensureSheets_() {
-  setupSheets_();
-}
-
-function ensureSheet_(name, headers) {
-  var ss = SpreadsheetApp.getActiveSpreadsheet();
-  var sh = ss.getSheetByName(name);
-  if (!sh) sh = ss.insertSheet(name);
-  var range = sh.getRange(1, 1, 1, headers.length);
-  var existing = range.getValues()[0];
-  var needs = false;
-  for (var i = 0; i < headers.length; i++) {
-    if (String(existing[i] || "") !== headers[i]) {
-      needs = true;
-      break;
-    }
-  }
-  if (needs) range.setValues([headers]);
-  sh.setFrozenRows(1);
-  return sh;
-}
-
-function readObjects_(name, headers) {
-  var sh = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(name);
-  if (!sh) return [];
-  var values = sh.getDataRange().getValues();
-  if (values.length < 2) return [];
-  var out = [];
-  for (var r = 1; r < values.length; r++) {
-    var row = values[r];
-    if (!row.join("")) continue;
-    var obj = {};
-    for (var c = 0; c < headers.length; c++) {
-      obj[headers[c]] = row[c];
-    }
-    out.push(obj);
-  }
-  return out;
-}
-
-function upsertById_(name, headers, obj, idKey) {
-  var sh = ensureSheet_(name, headers);
-  var id = String(obj[idKey] || "");
-  if (!id) throw new Error("Thiếu " + idKey);
-  var values = sh.getDataRange().getValues();
-  var idCol = headers.indexOf(idKey);
-  var rowIndex = -1;
-  for (var r = 1; r < values.length; r++) {
-    if (String(values[r][idCol]) === id) {
-      rowIndex = r + 1;
-      break;
-    }
-  }
-  var line = headers.map(function (h) {
-    return obj[h] != null ? obj[h] : "";
-  });
-  if (rowIndex > 0) {
-    sh.getRange(rowIndex, 1, 1, headers.length).setValues([line]);
-  } else {
-    sh.appendRow(line);
-  }
-}
-
-function replaceLessonVocab_(lessonId, rows) {
-  if (!lessonId) return;
-  var sh = ensureSheet_(VOCAB_SHEET, VOCAB_HEADERS);
-  var values = sh.getDataRange().getValues();
-  if (values.length < 2) {
-    (rows || []).forEach(function (obj) {
-      sh.appendRow(
-        VOCAB_HEADERS.map(function (h) {
-          return obj[h] != null ? obj[h] : "";
-        })
-      );
-    });
-    return;
-  }
-  var idCol = VOCAB_HEADERS.indexOf("lesson_id");
-  for (var r = values.length - 1; r >= 1; r--) {
-    if (String(values[r][idCol]) === String(lessonId)) {
-      sh.deleteRow(r + 1);
-    }
-  }
-  (rows || []).forEach(function (obj) {
-    sh.appendRow(
-      VOCAB_HEADERS.map(function (h) {
-        return obj[h] != null ? obj[h] : "";
-      })
-    );
-  });
-}
-
-function replaceAll_(name, headers, rows) {
-  var sh = ensureSheet_(name, headers);
-  var last = sh.getLastRow();
-  if (last > 1) sh.getRange(2, 1, last - 1, headers.length).clearContent();
-  if (!rows || !rows.length) return;
-  var matrix = rows.map(function (obj) {
-    return headers.map(function (h) {
-      return obj[h] != null ? obj[h] : "";
-    });
-  });
-  sh.getRange(2, 1, matrix.length, headers.length).setValues(matrix);
-}
-
-function json_(obj) {
-  return ContentService.createTextOutput(JSON.stringify(obj)).setMimeType(
-    ContentService.MimeType.JSON
-  );
-}
+function json_(obj) { return ContentService.createTextOutput(JSON.stringify(obj)).setMimeType(ContentService.MimeType.JSON); }

@@ -1,15 +1,15 @@
 import { createMcpHandler } from "mcp-handler";
-import { registerStrandLabTools } from "@/feature/lab/mcp/tools";
+import { registerFootnoteTools } from "@/feature/footnote/mcp/tools";
 
 /**
  * Real MCP Streamable HTTP endpoint for ChatGPT connectors.
  * URL to use in ChatGPT: https://english-strandlab.vercel.app/api/mcp
  *
- * REST helpers remain under /api/mcp/lessons, /api/mcp/stats, etc.
+ * The public tools are the Footnote journal tools defined in NEW_IDEAS_mcp.md.
  */
 const handler = createMcpHandler(
   (server) => {
-    registerStrandLabTools(server);
+    registerFootnoteTools(server);
   },
   {
     serverInfo: {
