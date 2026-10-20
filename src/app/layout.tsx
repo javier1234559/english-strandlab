@@ -1,20 +1,13 @@
 import type { Metadata } from "next";
-import { DM_Sans } from "next/font/google";
 
+import { AppShell } from "@/components/layout/app-shell";
 import { Providers } from "@/components/layout/providers";
-import { brandConfig } from "@/config";
 
 import "./globals.css";
 
-const dmSans = DM_Sans({
-  variable: "--font-dm-sans",
-  subsets: ["latin"],
-  axes: ["opsz"],
-});
-
 export const metadata: Metadata = {
-  title: brandConfig.NAME,
-  description: brandConfig.DESCRIPTION,
+  title: "Footnote — English StrandLab",
+  description: "A quiet English-learning journal powered by ChatGPT and Google Sheets.",
 };
 
 export default function RootLayout({
@@ -24,8 +17,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${dmSans.variable} min-h-screen antialiased`}>
-        <Providers>{children}</Providers>
+      <body className="min-h-screen antialiased">
+        <Providers>
+          <AppShell>{children}</AppShell>
+        </Providers>
       </body>
     </html>
   );

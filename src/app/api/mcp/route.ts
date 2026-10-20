@@ -20,4 +20,8 @@ const handler = createMcpHandler(
 );
 
 export { handler as GET, handler as POST, handler as DELETE };
+// MCP uses the Web/Node request runtime and must remain a live endpoint on
+// Vercel. Keep this route dynamic so the connector always reaches the handler.
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
 export const maxDuration = 60;

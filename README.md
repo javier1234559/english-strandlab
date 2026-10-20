@@ -36,7 +36,7 @@ Tabs created: `Input` · `Vocabulary` · `Output` · `Fluency` · `ReviewLog`
 
 - **Home** — timeline of learning entries
 - **Detail** — Simple Note or Structured Learning document
-- The browser UI currently uses mock data for visual testing.
+- The browser UI reads Footnote data from the configured Google Sheets adapter.
 
 ## MCP
 
@@ -56,5 +56,5 @@ MCP token in browser/client variables.
 
 ## Legacy
 
-The former `feature/lab` lesson workspace remains in the repository as legacy
-code while Footnote is being rolled out.
+Footnote is the only active product surface. The former lesson workspace and
+its REST routes have been removed from the application runtime.
