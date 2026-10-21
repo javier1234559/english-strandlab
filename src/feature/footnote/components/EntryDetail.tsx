@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
-import { ArrowLeft, ArrowUpRight, CalendarDays, MoreHorizontal } from "lucide-react";
+import { ArrowLeft, ArrowUpRight, CalendarDays, ExternalLink, MoreHorizontal } from "lucide-react";
 import type { FamiliarityLevel, FootnoteDetail, FootnoteSection } from "@/feature/footnote/types";
 import { Familiarity } from "@/feature/footnote/components/Familiarity";
 import { MarkdownContent } from "@/feature/footnote/components/MarkdownContent";
@@ -16,6 +16,18 @@ function formatCreatedAt(value: string) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "DATE UNKNOWN";
   return `${date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }).toUpperCase()} · ${date.toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit", hour12: false })}`;
+}
+
+function cambridgeUrl(word: string) {
+  const slug = word
+    .trim()
+    .toLocaleLowerCase("en-US")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
+  return `https://dictionary.cambridge.org/dictionary/english/${encodeURIComponent(slug)}`;
 }
 
 function sections(detail: FootnoteDetail): FootnoteSection[] {
@@ -80,7 +92,20 @@ export function EntryDetail({ detail }: { detail: FootnoteDetail }) {
                   {detail.vocabulary.map((item) => (
                     <ContentCard key={item.vocab_id} level={item.familiarity_level}>
                       <div className="font-mono text-[13px] leading-6 text-[#383c34]">
-                        <strong>{item.word}</strong> <em className="not-italic text-[#70766b]">({item.type})</em>
+                        <span className="inline-flex items-center gap-2">
+                          <strong>{item.word}</strong>
+                          <a
+                            href={cambridgeUrl(item.word)}
+                            target="_blank"
+                            rel="noreferrer"
+                            aria-label={`Open ${item.word} in Cambridge Dictionary`}
+                            title="Open in Cambridge Dictionary"
+                            className="inline-flex rounded-sm text-[#70766b] transition-colors hover:text-[#25251f] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#70766b]"
+                          >
+                            <ExternalLink size={14} aria-hidden="true" />
+                          </a>
+                        </span>{" "}
+                        <em className="not-italic text-[#70766b]">({item.type})</em>
                         <MarkdownContent content={item.meaning} compact />
                       </div>
                     </ContentCard>
